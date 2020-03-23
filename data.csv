@@ -1,0 +1,3660 @@
+Country,day,Confirmed
+Afghanistan,1.0,1.0
+Afghanistan,2.0,1.0
+Afghanistan,3.0,1.0
+Afghanistan,4.0,1.0
+Afghanistan,5.0,1.0
+Afghanistan,6.0,1.0
+Afghanistan,7.0,1.0
+Afghanistan,8.0,1.0
+Afghanistan,9.0,1.0
+Afghanistan,10.0,1.0
+Afghanistan,11.0,1.0
+Afghanistan,12.0,1.0
+Afghanistan,13.0,1.0
+Afghanistan,14.0,4.0
+Afghanistan,15.0,4.0
+Afghanistan,16.0,5.0
+Afghanistan,17.0,7.0
+Afghanistan,18.0,7.0
+Afghanistan,19.0,7.0
+Afghanistan,20.0,11.0
+Afghanistan,21.0,16.0
+Afghanistan,22.0,21.0
+Afghanistan,23.0,22.0
+Afghanistan,24.0,22.0
+Afghanistan,25.0,22.0
+Afghanistan,26.0,24.0
+Afghanistan,27.0,24.0
+Afghanistan,28.0,40.0
+Albania,1.0,2.0
+Albania,2.0,10.0
+Albania,3.0,12.0
+Albania,4.0,23.0
+Albania,5.0,33.0
+Albania,6.0,38.0
+Albania,7.0,42.0
+Albania,8.0,51.0
+Albania,9.0,55.0
+Albania,10.0,59.0
+Albania,11.0,64.0
+Albania,12.0,70.0
+Albania,13.0,76.0
+Albania,14.0,89.0
+Algeria,1.0,1.0
+Algeria,2.0,1.0
+Algeria,3.0,1.0
+Algeria,4.0,1.0
+Algeria,5.0,1.0
+Algeria,6.0,1.0
+Algeria,7.0,3.0
+Algeria,8.0,5.0
+Algeria,9.0,12.0
+Algeria,10.0,12.0
+Algeria,11.0,17.0
+Algeria,12.0,17.0
+Algeria,13.0,19.0
+Algeria,14.0,20.0
+Algeria,15.0,20.0
+Algeria,16.0,20.0
+Algeria,17.0,24.0
+Algeria,18.0,26.0
+Algeria,19.0,37.0
+Algeria,20.0,48.0
+Algeria,21.0,54.0
+Algeria,22.0,60.0
+Algeria,23.0,74.0
+Algeria,24.0,87.0
+Algeria,25.0,90.0
+Algeria,26.0,139.0
+Algeria,27.0,201.0
+Andorra,1.0,1.0
+Andorra,2.0,1.0
+Andorra,3.0,1.0
+Andorra,4.0,1.0
+Andorra,5.0,1.0
+Andorra,6.0,1.0
+Andorra,7.0,1.0
+Andorra,8.0,1.0
+Andorra,9.0,1.0
+Andorra,10.0,1.0
+Andorra,11.0,1.0
+Andorra,12.0,1.0
+Andorra,13.0,1.0
+Andorra,14.0,1.0
+Andorra,15.0,2.0
+Andorra,16.0,39.0
+Andorra,17.0,39.0
+Andorra,18.0,53.0
+Andorra,19.0,75.0
+Andorra,20.0,88.0
+Andorra,21.0,113.0
+Angola,1.0,1.0
+Angola,2.0,2.0
+Angola,3.0,2.0
+Antigua and Barbuda,1.0,1.0
+Antigua and Barbuda,2.0,1.0
+Antigua and Barbuda,3.0,1.0
+Antigua and Barbuda,4.0,1.0
+Antigua and Barbuda,5.0,1.0
+Antigua and Barbuda,6.0,1.0
+Antigua and Barbuda,7.0,1.0
+Antigua and Barbuda,8.0,1.0
+Antigua and Barbuda,9.0,1.0
+Antigua and Barbuda,10.0,1.0
+Argentina,1.0,1.0
+Argentina,2.0,1.0
+Argentina,3.0,1.0
+Argentina,4.0,2.0
+Argentina,5.0,8.0
+Argentina,6.0,12.0
+Argentina,7.0,12.0
+Argentina,8.0,17.0
+Argentina,9.0,19.0
+Argentina,10.0,19.0
+Argentina,11.0,31.0
+Argentina,12.0,34.0
+Argentina,13.0,45.0
+Argentina,14.0,56.0
+Argentina,15.0,68.0
+Argentina,16.0,79.0
+Argentina,17.0,97.0
+Argentina,18.0,128.0
+Argentina,19.0,158.0
+Argentina,20.0,225.0
+Armenia,1.0,1.0
+Armenia,2.0,1.0
+Armenia,3.0,1.0
+Armenia,4.0,1.0
+Armenia,5.0,1.0
+Armenia,6.0,1.0
+Armenia,7.0,1.0
+Armenia,8.0,1.0
+Armenia,9.0,1.0
+Armenia,10.0,1.0
+Armenia,11.0,1.0
+Armenia,12.0,4.0
+Armenia,13.0,8.0
+Armenia,14.0,18.0
+Armenia,15.0,26.0
+Armenia,16.0,52.0
+Armenia,17.0,78.0
+Armenia,18.0,84.0
+Armenia,19.0,115.0
+Armenia,20.0,136.0
+Armenia,21.0,160.0
+Armenia,22.0,194.0
+Australia,1.0,4.0
+Australia,2.0,5.0
+Australia,3.0,5.0
+Australia,4.0,6.0
+Australia,5.0,9.0
+Australia,6.0,9.0
+Australia,7.0,12.0
+Australia,8.0,12.0
+Australia,9.0,12.0
+Australia,10.0,13.0
+Australia,11.0,13.0
+Australia,12.0,14.0
+Australia,13.0,15.0
+Australia,14.0,15.0
+Australia,15.0,15.0
+Australia,16.0,15.0
+Australia,17.0,15.0
+Australia,18.0,15.0
+Australia,19.0,15.0
+Australia,20.0,15.0
+Australia,21.0,15.0
+Australia,22.0,15.0
+Australia,23.0,15.0
+Australia,24.0,15.0
+Australia,25.0,15.0
+Australia,26.0,15.0
+Australia,27.0,19.0
+Australia,28.0,22.0
+Australia,29.0,22.0
+Australia,30.0,22.0
+Australia,31.0,22.0
+Australia,32.0,22.0
+Australia,33.0,23.0
+Australia,34.0,23.0
+Australia,35.0,25.0
+Australia,36.0,27.0
+Australia,37.0,30.0
+Australia,38.0,39.0
+Australia,39.0,52.0
+Australia,40.0,55.0
+Australia,41.0,60.0
+Australia,42.0,63.0
+Australia,43.0,76.0
+Australia,44.0,91.0
+Australia,45.0,107.0
+Australia,46.0,128.0
+Australia,47.0,128.0
+Australia,48.0,200.0
+Australia,49.0,250.0
+Australia,50.0,297.0
+Australia,51.0,377.0
+Australia,52.0,452.0
+Australia,53.0,568.0
+Australia,54.0,681.0
+Australia,55.0,791.0
+Australia,56.0,1071.0
+Australia,57.0,1314.0
+Austria,1.0,2.0
+Austria,2.0,2.0
+Austria,3.0,3.0
+Austria,4.0,3.0
+Austria,5.0,9.0
+Austria,6.0,14.0
+Austria,7.0,18.0
+Austria,8.0,21.0
+Austria,9.0,29.0
+Austria,10.0,41.0
+Austria,11.0,55.0
+Austria,12.0,79.0
+Austria,13.0,104.0
+Austria,14.0,131.0
+Austria,15.0,182.0
+Austria,16.0,246.0
+Austria,17.0,302.0
+Austria,18.0,504.0
+Austria,19.0,655.0
+Austria,20.0,860.0
+Austria,21.0,1018.0
+Austria,22.0,1332.0
+Austria,23.0,1646.0
+Austria,24.0,2013.0
+Austria,25.0,2388.0
+Austria,26.0,2814.0
+Austria,27.0,3244.0
+Azerbaijan,1.0,3.0
+Azerbaijan,2.0,3.0
+Azerbaijan,3.0,3.0
+Azerbaijan,4.0,3.0
+Azerbaijan,5.0,6.0
+Azerbaijan,6.0,6.0
+Azerbaijan,7.0,9.0
+Azerbaijan,8.0,9.0
+Azerbaijan,9.0,9.0
+Azerbaijan,10.0,11.0
+Azerbaijan,11.0,11.0
+Azerbaijan,12.0,11.0
+Azerbaijan,13.0,15.0
+Azerbaijan,14.0,15.0
+Azerbaijan,15.0,23.0
+Azerbaijan,16.0,15.0
+Azerbaijan,17.0,28.0
+Azerbaijan,18.0,28.0
+Azerbaijan,19.0,44.0
+Azerbaijan,20.0,44.0
+Azerbaijan,21.0,53.0
+Azerbaijan,22.0,65.0
+"Bahamas, The",1.0,1.0
+"Bahamas, The",2.0,1.0
+"Bahamas, The",3.0,1.0
+"Bahamas, The",4.0,3.0
+"Bahamas, The",5.0,3.0
+"Bahamas, The",6.0,4.0
+"Bahamas, The",7.0,4.0
+Bahrain,1.0,1.0
+Bahrain,2.0,23.0
+Bahrain,3.0,33.0
+Bahrain,4.0,33.0
+Bahrain,5.0,36.0
+Bahrain,6.0,41.0
+Bahrain,7.0,47.0
+Bahrain,8.0,49.0
+Bahrain,9.0,49.0
+Bahrain,10.0,52.0
+Bahrain,11.0,55.0
+Bahrain,12.0,60.0
+Bahrain,13.0,85.0
+Bahrain,14.0,85.0
+Bahrain,15.0,95.0
+Bahrain,16.0,110.0
+Bahrain,17.0,195.0
+Bahrain,18.0,195.0
+Bahrain,19.0,189.0
+Bahrain,20.0,210.0
+Bahrain,21.0,214.0
+Bahrain,22.0,214.0
+Bahrain,23.0,228.0
+Bahrain,24.0,256.0
+Bahrain,25.0,278.0
+Bahrain,26.0,285.0
+Bahrain,27.0,305.0
+Bahrain,28.0,332.0
+Bangladesh,1.0,3.0
+Bangladesh,2.0,3.0
+Bangladesh,3.0,3.0
+Bangladesh,4.0,3.0
+Bangladesh,5.0,3.0
+Bangladesh,6.0,3.0
+Bangladesh,7.0,3.0
+Bangladesh,8.0,5.0
+Bangladesh,9.0,8.0
+Bangladesh,10.0,10.0
+Bangladesh,11.0,14.0
+Bangladesh,12.0,17.0
+Bangladesh,13.0,20.0
+Bangladesh,14.0,25.0
+Bangladesh,15.0,27.0
+Barbados,1.0,2.0
+Barbados,2.0,2.0
+Barbados,3.0,5.0
+Barbados,4.0,5.0
+Barbados,5.0,6.0
+Barbados,6.0,14.0
+Belarus,1.0,1.0
+Belarus,2.0,1.0
+Belarus,3.0,1.0
+Belarus,4.0,1.0
+Belarus,5.0,1.0
+Belarus,6.0,6.0
+Belarus,7.0,6.0
+Belarus,8.0,6.0
+Belarus,9.0,6.0
+Belarus,10.0,6.0
+Belarus,11.0,6.0
+Belarus,12.0,9.0
+Belarus,13.0,9.0
+Belarus,14.0,12.0
+Belarus,15.0,27.0
+Belarus,16.0,27.0
+Belarus,17.0,27.0
+Belarus,18.0,36.0
+Belarus,19.0,36.0
+Belarus,20.0,51.0
+Belarus,21.0,51.0
+Belarus,22.0,69.0
+Belarus,23.0,76.0
+Belarus,24.0,76.0
+Belgium,1.0,1.0
+Belgium,2.0,1.0
+Belgium,3.0,1.0
+Belgium,4.0,1.0
+Belgium,5.0,1.0
+Belgium,6.0,1.0
+Belgium,7.0,1.0
+Belgium,8.0,1.0
+Belgium,9.0,1.0
+Belgium,10.0,1.0
+Belgium,11.0,1.0
+Belgium,12.0,1.0
+Belgium,13.0,1.0
+Belgium,14.0,1.0
+Belgium,15.0,1.0
+Belgium,16.0,1.0
+Belgium,17.0,1.0
+Belgium,18.0,1.0
+Belgium,19.0,1.0
+Belgium,20.0,1.0
+Belgium,21.0,1.0
+Belgium,22.0,1.0
+Belgium,23.0,1.0
+Belgium,24.0,1.0
+Belgium,25.0,1.0
+Belgium,26.0,1.0
+Belgium,27.0,2.0
+Belgium,28.0,8.0
+Belgium,29.0,13.0
+Belgium,30.0,23.0
+Belgium,31.0,50.0
+Belgium,32.0,109.0
+Belgium,33.0,169.0
+Belgium,34.0,200.0
+Belgium,35.0,239.0
+Belgium,36.0,267.0
+Belgium,37.0,314.0
+Belgium,38.0,314.0
+Belgium,39.0,559.0
+Belgium,40.0,689.0
+Belgium,41.0,886.0
+Belgium,42.0,1058.0
+Belgium,43.0,1243.0
+Belgium,44.0,1486.0
+Belgium,45.0,1795.0
+Belgium,46.0,2257.0
+Belgium,47.0,2815.0
+Belgium,48.0,3401.0
+Benin,1.0,1.0
+Benin,2.0,1.0
+Benin,3.0,2.0
+Benin,4.0,2.0
+Benin,5.0,2.0
+Benin,6.0,2.0
+Benin,7.0,2.0
+Bhutan,1.0,1.0
+Bhutan,2.0,1.0
+Bhutan,3.0,1.0
+Bhutan,4.0,1.0
+Bhutan,5.0,1.0
+Bhutan,6.0,1.0
+Bhutan,7.0,1.0
+Bhutan,8.0,1.0
+Bhutan,9.0,1.0
+Bhutan,10.0,1.0
+Bhutan,11.0,1.0
+Bhutan,12.0,1.0
+Bhutan,13.0,1.0
+Bhutan,14.0,1.0
+Bhutan,15.0,2.0
+Bhutan,16.0,2.0
+Bhutan,17.0,2.0
+Bolivia,1.0,2.0
+Bolivia,2.0,2.0
+Bolivia,3.0,3.0
+Bolivia,4.0,10.0
+Bolivia,5.0,10.0
+Bolivia,6.0,11.0
+Bolivia,7.0,11.0
+Bolivia,8.0,12.0
+Bolivia,9.0,12.0
+Bolivia,10.0,15.0
+Bolivia,11.0,19.0
+Bolivia,12.0,24.0
+Bosnia and Herzegovina,1.0,2.0
+Bosnia and Herzegovina,2.0,2.0
+Bosnia and Herzegovina,3.0,3.0
+Bosnia and Herzegovina,4.0,3.0
+Bosnia and Herzegovina,5.0,3.0
+Bosnia and Herzegovina,6.0,5.0
+Bosnia and Herzegovina,7.0,7.0
+Bosnia and Herzegovina,8.0,11.0
+Bosnia and Herzegovina,9.0,13.0
+Bosnia and Herzegovina,10.0,18.0
+Bosnia and Herzegovina,11.0,24.0
+Bosnia and Herzegovina,12.0,25.0
+Bosnia and Herzegovina,13.0,26.0
+Bosnia and Herzegovina,14.0,38.0
+Bosnia and Herzegovina,15.0,63.0
+Bosnia and Herzegovina,16.0,89.0
+Bosnia and Herzegovina,17.0,93.0
+Bosnia and Herzegovina,18.0,126.0
+Brazil,1.0,1.0
+Brazil,2.0,1.0
+Brazil,3.0,1.0
+Brazil,4.0,2.0
+Brazil,5.0,2.0
+Brazil,6.0,2.0
+Brazil,7.0,2.0
+Brazil,8.0,4.0
+Brazil,9.0,4.0
+Brazil,10.0,13.0
+Brazil,11.0,13.0
+Brazil,12.0,20.0
+Brazil,13.0,25.0
+Brazil,14.0,31.0
+Brazil,15.0,38.0
+Brazil,16.0,52.0
+Brazil,17.0,151.0
+Brazil,18.0,151.0
+Brazil,19.0,162.0
+Brazil,20.0,200.0
+Brazil,21.0,321.0
+Brazil,22.0,372.0
+Brazil,23.0,621.0
+Brazil,24.0,793.0
+Brazil,25.0,1021.0
+Brazil,26.0,1593.0
+Brunei,1.0,1.0
+Brunei,2.0,1.0
+Brunei,3.0,11.0
+Brunei,4.0,11.0
+Brunei,5.0,37.0
+Brunei,6.0,40.0
+Brunei,7.0,50.0
+Brunei,8.0,54.0
+Brunei,9.0,56.0
+Brunei,10.0,68.0
+Brunei,11.0,75.0
+Brunei,12.0,78.0
+Brunei,13.0,83.0
+Brunei,14.0,88.0
+Bulgaria,1.0,4.0
+Bulgaria,2.0,4.0
+Bulgaria,3.0,4.0
+Bulgaria,4.0,7.0
+Bulgaria,5.0,7.0
+Bulgaria,6.0,23.0
+Bulgaria,7.0,41.0
+Bulgaria,8.0,51.0
+Bulgaria,9.0,52.0
+Bulgaria,10.0,67.0
+Bulgaria,11.0,92.0
+Bulgaria,12.0,94.0
+Bulgaria,13.0,127.0
+Bulgaria,14.0,163.0
+Bulgaria,15.0,187.0
+Burkina Faso,1.0,1.0
+Burkina Faso,2.0,2.0
+Burkina Faso,3.0,2.0
+Burkina Faso,4.0,2.0
+Burkina Faso,5.0,2.0
+Burkina Faso,6.0,3.0
+Burkina Faso,7.0,15.0
+Burkina Faso,8.0,15.0
+Burkina Faso,9.0,20.0
+Burkina Faso,10.0,33.0
+Burkina Faso,11.0,40.0
+Burkina Faso,12.0,64.0
+Burkina Faso,13.0,75.0
+Cabo Verde,1.0,1.0
+Cabo Verde,2.0,3.0
+Cabo Verde,3.0,3.0
+Cambodia,1.0,1.0
+Cambodia,2.0,1.0
+Cambodia,3.0,1.0
+Cambodia,4.0,1.0
+Cambodia,5.0,1.0
+Cambodia,6.0,1.0
+Cambodia,7.0,1.0
+Cambodia,8.0,1.0
+Cambodia,9.0,1.0
+Cambodia,10.0,1.0
+Cambodia,11.0,1.0
+Cambodia,12.0,1.0
+Cambodia,13.0,1.0
+Cambodia,14.0,1.0
+Cambodia,15.0,1.0
+Cambodia,16.0,1.0
+Cambodia,17.0,1.0
+Cambodia,18.0,1.0
+Cambodia,19.0,1.0
+Cambodia,20.0,1.0
+Cambodia,21.0,1.0
+Cambodia,22.0,1.0
+Cambodia,23.0,1.0
+Cambodia,24.0,1.0
+Cambodia,25.0,1.0
+Cambodia,26.0,1.0
+Cambodia,27.0,1.0
+Cambodia,28.0,1.0
+Cambodia,29.0,1.0
+Cambodia,30.0,1.0
+Cambodia,31.0,1.0
+Cambodia,32.0,1.0
+Cambodia,33.0,1.0
+Cambodia,34.0,1.0
+Cambodia,35.0,1.0
+Cambodia,36.0,1.0
+Cambodia,37.0,1.0
+Cambodia,38.0,1.0
+Cambodia,39.0,1.0
+Cambodia,40.0,1.0
+Cambodia,41.0,1.0
+Cambodia,42.0,2.0
+Cambodia,43.0,2.0
+Cambodia,44.0,2.0
+Cambodia,45.0,3.0
+Cambodia,46.0,3.0
+Cambodia,47.0,5.0
+Cambodia,48.0,7.0
+Cambodia,49.0,7.0
+Cambodia,50.0,7.0
+Cambodia,51.0,33.0
+Cambodia,52.0,35.0
+Cambodia,53.0,37.0
+Cambodia,54.0,51.0
+Cambodia,55.0,53.0
+Cambodia,56.0,84.0
+Cameroon,1.0,1.0
+Cameroon,2.0,1.0
+Cameroon,3.0,2.0
+Cameroon,4.0,2.0
+Cameroon,5.0,2.0
+Cameroon,6.0,2.0
+Cameroon,7.0,2.0
+Cameroon,8.0,2.0
+Cameroon,9.0,2.0
+Cameroon,10.0,2.0
+Cameroon,11.0,4.0
+Cameroon,12.0,10.0
+Cameroon,13.0,10.0
+Cameroon,14.0,13.0
+Cameroon,15.0,20.0
+Cameroon,16.0,27.0
+Cameroon,17.0,40.0
+Canada,1.0,1.0
+Canada,2.0,1.0
+Canada,3.0,2.0
+Canada,4.0,2.0
+Canada,5.0,2.0
+Canada,6.0,4.0
+Canada,7.0,4.0
+Canada,8.0,4.0
+Canada,9.0,4.0
+Canada,10.0,4.0
+Canada,11.0,5.0
+Canada,12.0,5.0
+Canada,13.0,7.0
+Canada,14.0,7.0
+Canada,15.0,7.0
+Canada,16.0,7.0
+Canada,17.0,7.0
+Canada,18.0,7.0
+Canada,19.0,7.0
+Canada,20.0,7.0
+Canada,21.0,7.0
+Canada,22.0,7.0
+Canada,23.0,8.0
+Canada,24.0,8.0
+Canada,25.0,8.0
+Canada,26.0,8.0
+Canada,27.0,9.0
+Canada,28.0,9.0
+Canada,29.0,9.0
+Canada,30.0,10.0
+Canada,31.0,11.0
+Canada,32.0,11.0
+Canada,33.0,13.0
+Canada,34.0,14.0
+Canada,35.0,20.0
+Canada,36.0,24.0
+Canada,37.0,27.0
+Canada,38.0,30.0
+Canada,39.0,33.0
+Canada,40.0,37.0
+Canada,41.0,49.0
+Canada,42.0,54.0
+Canada,43.0,64.0
+Canada,44.0,77.0
+Canada,45.0,79.0
+Canada,46.0,108.0
+Canada,47.0,117.0
+Canada,48.0,193.0
+Canada,49.0,198.0
+Canada,50.0,252.0
+Canada,51.0,415.0
+Canada,52.0,478.0
+Canada,53.0,657.0
+Canada,54.0,800.0
+Canada,55.0,943.0
+Canada,56.0,1278.0
+Canada,57.0,1465.0
+Cape Verde,1.0,1.0
+Cape Verde,2.0,1.0
+Central African Republic,1.0,1.0
+Central African Republic,2.0,1.0
+Central African Republic,3.0,1.0
+Central African Republic,4.0,1.0
+Central African Republic,5.0,1.0
+Central African Republic,6.0,3.0
+Central African Republic,7.0,3.0
+Central African Republic,8.0,3.0
+Chad,1.0,1.0
+Chad,2.0,1.0
+Chad,3.0,1.0
+Chad,4.0,1.0
+Chile,1.0,1.0
+Chile,2.0,1.0
+Chile,3.0,4.0
+Chile,4.0,4.0
+Chile,5.0,4.0
+Chile,6.0,8.0
+Chile,7.0,8.0
+Chile,8.0,13.0
+Chile,9.0,23.0
+Chile,10.0,23.0
+Chile,11.0,43.0
+Chile,12.0,61.0
+Chile,13.0,74.0
+Chile,14.0,155.0
+Chile,15.0,201.0
+Chile,16.0,238.0
+Chile,17.0,238.0
+Chile,18.0,434.0
+Chile,19.0,537.0
+Chile,20.0,632.0
+China,1.0,548.0
+China,2.0,643.0
+China,3.0,920.0
+China,4.0,1406.0
+China,5.0,2075.0
+China,6.0,2877.0
+China,7.0,5509.0
+China,8.0,6087.0
+China,9.0,8141.0
+China,10.0,9802.0
+China,11.0,11891.0
+China,12.0,16630.0
+China,13.0,19716.0
+China,14.0,23707.0
+China,15.0,27440.0
+China,16.0,30587.0
+China,17.0,34110.0
+China,18.0,36814.0
+China,19.0,39829.0
+China,20.0,42354.0
+China,21.0,44386.0
+China,22.0,44759.0
+China,23.0,59895.0
+China,24.0,66358.0
+China,25.0,68413.0
+China,26.0,70513.0
+China,27.0,72434.0
+China,28.0,74211.0
+China,29.0,74619.0
+China,30.0,75077.0
+China,31.0,75550.0
+China,32.0,77001.0
+China,33.0,77022.0
+China,34.0,77241.0
+China,35.0,77754.0
+China,36.0,78166.0
+China,37.0,78600.0
+China,38.0,78928.0
+China,39.0,79356.0
+China,40.0,79932.0
+China,41.0,80136.0
+China,42.0,80261.0
+China,43.0,80386.0
+China,44.0,80537.0
+China,45.0,80690.0
+China,46.0,80770.0
+China,47.0,80823.0
+China,48.0,80860.0
+China,49.0,80887.0
+China,50.0,80921.0
+China,51.0,80932.0
+China,52.0,80945.0
+China,53.0,80977.0
+China,54.0,81003.0
+China,55.0,81033.0
+China,56.0,81058.0
+China,57.0,81102.0
+China,58.0,81156.0
+China,59.0,81250.0
+China,60.0,81305.0
+China,61.0,81397.0
+Colombia,1.0,1.0
+Colombia,2.0,1.0
+Colombia,3.0,1.0
+Colombia,4.0,1.0
+Colombia,5.0,3.0
+Colombia,6.0,9.0
+Colombia,7.0,9.0
+Colombia,8.0,13.0
+Colombia,9.0,22.0
+Colombia,10.0,34.0
+Colombia,11.0,54.0
+Colombia,12.0,65.0
+Colombia,13.0,93.0
+Colombia,14.0,102.0
+Colombia,15.0,128.0
+Colombia,16.0,196.0
+Colombia,17.0,231.0
+Congo (Brazzaville),1.0,1.0
+Congo (Brazzaville),2.0,1.0
+Congo (Brazzaville),3.0,1.0
+Congo (Brazzaville),4.0,1.0
+Congo (Brazzaville),5.0,3.0
+Congo (Brazzaville),6.0,3.0
+Congo (Brazzaville),7.0,3.0
+Congo (Brazzaville),8.0,3.0
+Congo (Kinshasa),1.0,1.0
+Congo (Kinshasa),2.0,1.0
+Congo (Kinshasa),3.0,2.0
+Congo (Kinshasa),4.0,2.0
+Congo (Kinshasa),5.0,2.0
+Congo (Kinshasa),6.0,2.0
+Congo (Kinshasa),7.0,3.0
+Congo (Kinshasa),8.0,4.0
+Congo (Kinshasa),9.0,14.0
+Congo (Kinshasa),10.0,18.0
+Congo (Kinshasa),11.0,23.0
+Congo (Kinshasa),12.0,30.0
+Costa Rica,1.0,1.0
+Costa Rica,2.0,1.0
+Costa Rica,3.0,5.0
+Costa Rica,4.0,9.0
+Costa Rica,5.0,9.0
+Costa Rica,6.0,13.0
+Costa Rica,7.0,22.0
+Costa Rica,8.0,23.0
+Costa Rica,9.0,26.0
+Costa Rica,10.0,27.0
+Costa Rica,11.0,35.0
+Costa Rica,12.0,41.0
+Costa Rica,13.0,50.0
+Costa Rica,14.0,69.0
+Costa Rica,15.0,89.0
+Costa Rica,16.0,117.0
+Costa Rica,17.0,134.0
+Cote d'Ivoire,1.0,1.0
+Cote d'Ivoire,2.0,1.0
+Cote d'Ivoire,3.0,1.0
+Cote d'Ivoire,4.0,1.0
+Cote d'Ivoire,5.0,1.0
+Cote d'Ivoire,6.0,1.0
+Cote d'Ivoire,7.0,5.0
+Cote d'Ivoire,8.0,6.0
+Cote d'Ivoire,9.0,9.0
+Cote d'Ivoire,10.0,9.0
+Cote d'Ivoire,11.0,14.0
+Cote d'Ivoire,12.0,14.0
+Croatia,1.0,1.0
+Croatia,2.0,3.0
+Croatia,3.0,3.0
+Croatia,4.0,5.0
+Croatia,5.0,6.0
+Croatia,6.0,7.0
+Croatia,7.0,7.0
+Croatia,8.0,9.0
+Croatia,9.0,10.0
+Croatia,10.0,10.0
+Croatia,11.0,11.0
+Croatia,12.0,12.0
+Croatia,13.0,12.0
+Croatia,14.0,12.0
+Croatia,15.0,14.0
+Croatia,16.0,19.0
+Croatia,17.0,19.0
+Croatia,18.0,32.0
+Croatia,19.0,38.0
+Croatia,20.0,49.0
+Croatia,21.0,57.0
+Croatia,22.0,65.0
+Croatia,23.0,81.0
+Croatia,24.0,105.0
+Croatia,25.0,128.0
+Croatia,26.0,206.0
+Croatia,27.0,254.0
+Cruise Ship,1.0,61.0
+Cruise Ship,2.0,61.0
+Cruise Ship,3.0,64.0
+Cruise Ship,4.0,135.0
+Cruise Ship,5.0,135.0
+Cruise Ship,6.0,175.0
+Cruise Ship,7.0,175.0
+Cruise Ship,8.0,218.0
+Cruise Ship,9.0,285.0
+Cruise Ship,10.0,355.0
+Cruise Ship,11.0,454.0
+Cruise Ship,12.0,542.0
+Cruise Ship,13.0,621.0
+Cruise Ship,14.0,634.0
+Cruise Ship,15.0,634.0
+Cruise Ship,16.0,634.0
+Cruise Ship,17.0,691.0
+Cruise Ship,18.0,691.0
+Cruise Ship,19.0,691.0
+Cruise Ship,20.0,705.0
+Cruise Ship,21.0,705.0
+Cruise Ship,22.0,705.0
+Cruise Ship,23.0,705.0
+Cruise Ship,24.0,705.0
+Cruise Ship,25.0,705.0
+Cruise Ship,26.0,706.0
+Cruise Ship,27.0,706.0
+Cruise Ship,28.0,706.0
+Cruise Ship,29.0,696.0
+Cruise Ship,30.0,696.0
+Cruise Ship,31.0,696.0
+Cruise Ship,32.0,696.0
+Cruise Ship,33.0,696.0
+Cruise Ship,34.0,696.0
+Cruise Ship,35.0,696.0
+Cruise Ship,36.0,696.0
+Cruise Ship,37.0,696.0
+Cruise Ship,38.0,696.0
+Cruise Ship,39.0,696.0
+Cruise Ship,40.0,696.0
+Cruise Ship,41.0,712.0
+Cruise Ship,42.0,712.0
+Cruise Ship,43.0,712.0
+Cruise Ship,44.0,712.0
+Cruise Ship,45.0,712.0
+Cuba,1.0,3.0
+Cuba,2.0,4.0
+Cuba,3.0,4.0
+Cuba,4.0,4.0
+Cuba,5.0,4.0
+Cuba,6.0,5.0
+Cuba,7.0,7.0
+Cuba,8.0,11.0
+Cuba,9.0,16.0
+Cuba,10.0,21.0
+Cuba,11.0,35.0
+Cyprus,1.0,2.0
+Cyprus,2.0,3.0
+Cyprus,3.0,6.0
+Cyprus,4.0,6.0
+Cyprus,5.0,14.0
+Cyprus,6.0,26.0
+Cyprus,7.0,26.0
+Cyprus,8.0,33.0
+Cyprus,9.0,46.0
+Cyprus,10.0,49.0
+Cyprus,11.0,67.0
+Cyprus,12.0,67.0
+Cyprus,13.0,84.0
+Cyprus,14.0,95.0
+Czechia,1.0,3.0
+Czechia,2.0,3.0
+Czechia,3.0,5.0
+Czechia,4.0,8.0
+Czechia,5.0,12.0
+Czechia,6.0,18.0
+Czechia,7.0,19.0
+Czechia,8.0,31.0
+Czechia,9.0,31.0
+Czechia,10.0,41.0
+Czechia,11.0,91.0
+Czechia,12.0,94.0
+Czechia,13.0,141.0
+Czechia,14.0,189.0
+Czechia,15.0,253.0
+Czechia,16.0,298.0
+Czechia,17.0,396.0
+Czechia,18.0,464.0
+Czechia,19.0,694.0
+Czechia,20.0,833.0
+Czechia,21.0,995.0
+Czechia,22.0,1120.0
+Denmark,1.0,1.0
+Denmark,2.0,1.0
+Denmark,3.0,3.0
+Denmark,4.0,4.0
+Denmark,5.0,4.0
+Denmark,6.0,6.0
+Denmark,7.0,11.0
+Denmark,8.0,11.0
+Denmark,9.0,24.0
+Denmark,10.0,24.0
+Denmark,11.0,37.0
+Denmark,12.0,92.0
+Denmark,13.0,264.0
+Denmark,14.0,444.0
+Denmark,15.0,617.0
+Denmark,16.0,804.0
+Denmark,17.0,836.0
+Denmark,18.0,875.0
+Denmark,19.0,933.0
+Denmark,20.0,1025.0
+Denmark,21.0,1116.0
+Denmark,22.0,1225.0
+Denmark,23.0,1337.0
+Denmark,24.0,1420.0
+Denmark,25.0,1514.0
+Djibouti,1.0,1.0
+Djibouti,2.0,1.0
+Djibouti,3.0,1.0
+Djibouti,4.0,1.0
+Djibouti,5.0,1.0
+Dominica,1.0,1.0
+Dominican Republic,1.0,1.0
+Dominican Republic,2.0,1.0
+Dominican Republic,3.0,1.0
+Dominican Republic,4.0,1.0
+Dominican Republic,5.0,1.0
+Dominican Republic,6.0,2.0
+Dominican Republic,7.0,2.0
+Dominican Republic,8.0,5.0
+Dominican Republic,9.0,5.0
+Dominican Republic,10.0,5.0
+Dominican Republic,11.0,5.0
+Dominican Republic,12.0,5.0
+Dominican Republic,13.0,5.0
+Dominican Republic,14.0,11.0
+Dominican Republic,15.0,11.0
+Dominican Republic,16.0,11.0
+Dominican Republic,17.0,21.0
+Dominican Republic,18.0,21.0
+Dominican Republic,19.0,34.0
+Dominican Republic,20.0,72.0
+Dominican Republic,21.0,112.0
+Dominican Republic,22.0,202.0
+East Timor,1.0,1.0
+East Timor,2.0,1.0
+Ecuador,1.0,6.0
+Ecuador,2.0,6.0
+Ecuador,3.0,7.0
+Ecuador,4.0,10.0
+Ecuador,5.0,13.0
+Ecuador,6.0,13.0
+Ecuador,7.0,13.0
+Ecuador,8.0,14.0
+Ecuador,9.0,15.0
+Ecuador,10.0,15.0
+Ecuador,11.0,17.0
+Ecuador,12.0,17.0
+Ecuador,13.0,17.0
+Ecuador,14.0,28.0
+Ecuador,15.0,28.0
+Ecuador,16.0,37.0
+Ecuador,17.0,58.0
+Ecuador,18.0,111.0
+Ecuador,19.0,199.0
+Ecuador,20.0,367.0
+Ecuador,21.0,506.0
+Ecuador,22.0,789.0
+Egypt,1.0,1.0
+Egypt,2.0,1.0
+Egypt,3.0,1.0
+Egypt,4.0,1.0
+Egypt,5.0,1.0
+Egypt,6.0,1.0
+Egypt,7.0,1.0
+Egypt,8.0,1.0
+Egypt,9.0,1.0
+Egypt,10.0,1.0
+Egypt,11.0,1.0
+Egypt,12.0,1.0
+Egypt,13.0,1.0
+Egypt,14.0,1.0
+Egypt,15.0,1.0
+Egypt,16.0,1.0
+Egypt,17.0,2.0
+Egypt,18.0,2.0
+Egypt,19.0,2.0
+Egypt,20.0,2.0
+Egypt,21.0,3.0
+Egypt,22.0,15.0
+Egypt,23.0,15.0
+Egypt,24.0,49.0
+Egypt,25.0,55.0
+Egypt,26.0,59.0
+Egypt,27.0,60.0
+Egypt,28.0,67.0
+Egypt,29.0,80.0
+Egypt,30.0,109.0
+Egypt,31.0,110.0
+Egypt,32.0,150.0
+Egypt,33.0,196.0
+Egypt,34.0,196.0
+Egypt,35.0,256.0
+Egypt,36.0,285.0
+Egypt,37.0,294.0
+Egypt,38.0,327.0
+El Salvador,1.0,1.0
+El Salvador,2.0,1.0
+El Salvador,3.0,3.0
+El Salvador,4.0,3.0
+Equatorial Guinea,1.0,1.0
+Equatorial Guinea,2.0,1.0
+Equatorial Guinea,3.0,1.0
+Equatorial Guinea,4.0,4.0
+Equatorial Guinea,5.0,6.0
+Equatorial Guinea,6.0,6.0
+Equatorial Guinea,7.0,6.0
+Equatorial Guinea,8.0,6.0
+Eritrea,1.0,1.0
+Eritrea,2.0,1.0
+Estonia,1.0,1.0
+Estonia,2.0,1.0
+Estonia,3.0,1.0
+Estonia,4.0,1.0
+Estonia,5.0,1.0
+Estonia,6.0,2.0
+Estonia,7.0,2.0
+Estonia,8.0,3.0
+Estonia,9.0,10.0
+Estonia,10.0,10.0
+Estonia,11.0,10.0
+Estonia,12.0,10.0
+Estonia,13.0,12.0
+Estonia,14.0,16.0
+Estonia,15.0,16.0
+Estonia,16.0,79.0
+Estonia,17.0,115.0
+Estonia,18.0,171.0
+Estonia,19.0,205.0
+Estonia,20.0,225.0
+Estonia,21.0,258.0
+Estonia,22.0,267.0
+Estonia,23.0,283.0
+Estonia,24.0,306.0
+Estonia,25.0,326.0
+Eswatini,1.0,1.0
+Eswatini,2.0,1.0
+Eswatini,3.0,1.0
+Eswatini,4.0,1.0
+Eswatini,5.0,1.0
+Eswatini,6.0,1.0
+Eswatini,7.0,1.0
+Eswatini,8.0,1.0
+Eswatini,9.0,4.0
+Ethiopia,1.0,1.0
+Ethiopia,2.0,1.0
+Ethiopia,3.0,1.0
+Ethiopia,4.0,5.0
+Ethiopia,5.0,5.0
+Ethiopia,6.0,6.0
+Ethiopia,7.0,6.0
+Ethiopia,8.0,9.0
+Ethiopia,9.0,9.0
+Ethiopia,10.0,11.0
+Fiji,1.0,1.0
+Fiji,2.0,1.0
+Fiji,3.0,1.0
+Fiji,4.0,2.0
+Finland,1.0,1.0
+Finland,2.0,1.0
+Finland,3.0,1.0
+Finland,4.0,1.0
+Finland,5.0,1.0
+Finland,6.0,1.0
+Finland,7.0,1.0
+Finland,8.0,1.0
+Finland,9.0,1.0
+Finland,10.0,1.0
+Finland,11.0,1.0
+Finland,12.0,1.0
+Finland,13.0,1.0
+Finland,14.0,1.0
+Finland,15.0,1.0
+Finland,16.0,1.0
+Finland,17.0,1.0
+Finland,18.0,1.0
+Finland,19.0,1.0
+Finland,20.0,1.0
+Finland,21.0,1.0
+Finland,22.0,1.0
+Finland,23.0,1.0
+Finland,24.0,1.0
+Finland,25.0,1.0
+Finland,26.0,1.0
+Finland,27.0,1.0
+Finland,28.0,1.0
+Finland,29.0,2.0
+Finland,30.0,2.0
+Finland,31.0,2.0
+Finland,32.0,3.0
+Finland,33.0,6.0
+Finland,34.0,6.0
+Finland,35.0,6.0
+Finland,36.0,6.0
+Finland,37.0,12.0
+Finland,38.0,15.0
+Finland,39.0,15.0
+Finland,40.0,23.0
+Finland,41.0,30.0
+Finland,42.0,40.0
+Finland,43.0,59.0
+Finland,44.0,59.0
+Finland,45.0,155.0
+Finland,46.0,225.0
+Finland,47.0,244.0
+Finland,48.0,277.0
+Finland,49.0,321.0
+Finland,50.0,336.0
+Finland,51.0,400.0
+Finland,52.0,450.0
+Finland,53.0,523.0
+Finland,54.0,626.0
+France,1.0,2.0
+France,2.0,3.0
+France,3.0,3.0
+France,4.0,3.0
+France,5.0,4.0
+France,6.0,5.0
+France,7.0,5.0
+France,8.0,5.0
+France,9.0,6.0
+France,10.0,6.0
+France,11.0,6.0
+France,12.0,6.0
+France,13.0,6.0
+France,14.0,6.0
+France,15.0,6.0
+France,16.0,11.0
+France,17.0,11.0
+France,18.0,11.0
+France,19.0,11.0
+France,20.0,11.0
+France,21.0,11.0
+France,22.0,11.0
+France,23.0,12.0
+France,24.0,12.0
+France,25.0,12.0
+France,26.0,12.0
+France,27.0,12.0
+France,28.0,12.0
+France,29.0,12.0
+France,30.0,12.0
+France,31.0,12.0
+France,32.0,12.0
+France,33.0,14.0
+France,34.0,18.0
+France,35.0,38.0
+France,36.0,57.0
+France,37.0,100.0
+France,38.0,130.0
+France,39.0,191.0
+France,40.0,204.0
+France,41.0,288.0
+France,42.0,380.0
+France,43.0,656.0
+France,44.0,957.0
+France,45.0,1134.0
+France,46.0,1217.0
+France,47.0,1792.0
+France,48.0,2290.0
+France,49.0,2290.0
+France,50.0,3678.0
+France,51.0,4487.0
+France,52.0,4523.0
+France,53.0,6668.0
+France,54.0,7699.0
+France,55.0,9105.0
+France,56.0,10947.0
+France,57.0,12726.0
+France,58.0,14431.0
+France,59.0,16176.0
+Gabon,1.0,1.0
+Gabon,2.0,1.0
+Gabon,3.0,1.0
+Gabon,4.0,1.0
+Gabon,5.0,1.0
+Gabon,6.0,1.0
+Gabon,7.0,3.0
+Gabon,8.0,4.0
+Gabon,9.0,5.0
+"Gambia, The",1.0,1.0
+"Gambia, The",2.0,1.0
+"Gambia, The",3.0,1.0
+"Gambia, The",4.0,1.0
+"Gambia, The",5.0,1.0
+"Gambia, The",6.0,1.0
+Georgia,1.0,1.0
+Georgia,2.0,1.0
+Georgia,3.0,1.0
+Georgia,4.0,1.0
+Georgia,5.0,3.0
+Georgia,6.0,3.0
+Georgia,7.0,3.0
+Georgia,8.0,3.0
+Georgia,9.0,4.0
+Georgia,10.0,4.0
+Georgia,11.0,4.0
+Georgia,12.0,13.0
+Georgia,13.0,15.0
+Georgia,14.0,15.0
+Georgia,15.0,24.0
+Georgia,16.0,24.0
+Georgia,17.0,25.0
+Georgia,18.0,30.0
+Georgia,19.0,33.0
+Georgia,20.0,33.0
+Georgia,21.0,34.0
+Georgia,22.0,38.0
+Georgia,23.0,40.0
+Georgia,24.0,43.0
+Georgia,25.0,49.0
+Georgia,26.0,54.0
+Germany,1.0,1.0
+Germany,2.0,4.0
+Germany,3.0,4.0
+Germany,4.0,4.0
+Germany,5.0,5.0
+Germany,6.0,8.0
+Germany,7.0,10.0
+Germany,8.0,12.0
+Germany,9.0,12.0
+Germany,10.0,12.0
+Germany,11.0,12.0
+Germany,12.0,13.0
+Germany,13.0,13.0
+Germany,14.0,14.0
+Germany,15.0,14.0
+Germany,16.0,16.0
+Germany,17.0,16.0
+Germany,18.0,16.0
+Germany,19.0,16.0
+Germany,20.0,16.0
+Germany,21.0,16.0
+Germany,22.0,16.0
+Germany,23.0,16.0
+Germany,24.0,16.0
+Germany,25.0,16.0
+Germany,26.0,16.0
+Germany,27.0,16.0
+Germany,28.0,16.0
+Germany,29.0,16.0
+Germany,30.0,17.0
+Germany,31.0,27.0
+Germany,32.0,46.0
+Germany,33.0,48.0
+Germany,34.0,79.0
+Germany,35.0,130.0
+Germany,36.0,159.0
+Germany,37.0,196.0
+Germany,38.0,262.0
+Germany,39.0,482.0
+Germany,40.0,670.0
+Germany,41.0,799.0
+Germany,42.0,1040.0
+Germany,43.0,1176.0
+Germany,44.0,1457.0
+Germany,45.0,1908.0
+Germany,46.0,2078.0
+Germany,47.0,3675.0
+Germany,48.0,4585.0
+Germany,49.0,5795.0
+Germany,50.0,7272.0
+Germany,51.0,9257.0
+Germany,52.0,12327.0
+Germany,53.0,15320.0
+Germany,54.0,19848.0
+Germany,55.0,22213.0
+Germany,56.0,24873.0
+Ghana,1.0,3.0
+Ghana,2.0,6.0
+Ghana,3.0,6.0
+Ghana,4.0,7.0
+Ghana,5.0,7.0
+Ghana,6.0,11.0
+Ghana,7.0,16.0
+Ghana,8.0,19.0
+Ghana,9.0,24.0
+Greece,1.0,1.0
+Greece,2.0,3.0
+Greece,3.0,4.0
+Greece,4.0,4.0
+Greece,5.0,7.0
+Greece,6.0,7.0
+Greece,7.0,7.0
+Greece,8.0,9.0
+Greece,9.0,31.0
+Greece,10.0,45.0
+Greece,11.0,46.0
+Greece,12.0,73.0
+Greece,13.0,73.0
+Greece,14.0,89.0
+Greece,15.0,99.0
+Greece,16.0,99.0
+Greece,17.0,190.0
+Greece,18.0,228.0
+Greece,19.0,331.0
+Greece,20.0,331.0
+Greece,21.0,387.0
+Greece,22.0,418.0
+Greece,23.0,418.0
+Greece,24.0,495.0
+Greece,25.0,530.0
+Greece,26.0,624.0
+Grenada,1.0,1.0
+Guatemala,1.0,1.0
+Guatemala,2.0,1.0
+Guatemala,3.0,2.0
+Guatemala,4.0,6.0
+Guatemala,5.0,6.0
+Guatemala,6.0,9.0
+Guatemala,7.0,12.0
+Guatemala,8.0,17.0
+Guatemala,9.0,19.0
+Guinea,1.0,1.0
+Guinea,2.0,1.0
+Guinea,3.0,1.0
+Guinea,4.0,1.0
+Guinea,5.0,1.0
+Guinea,6.0,1.0
+Guinea,7.0,1.0
+Guinea,8.0,1.0
+Guinea,9.0,2.0
+Guinea,10.0,2.0
+Guyana,1.0,1.0
+Guyana,2.0,1.0
+Guyana,3.0,1.0
+Guyana,4.0,4.0
+Guyana,5.0,4.0
+Guyana,6.0,7.0
+Guyana,7.0,7.0
+Guyana,8.0,7.0
+Guyana,9.0,7.0
+Guyana,10.0,7.0
+Guyana,11.0,7.0
+Haiti,1.0,2.0
+Haiti,2.0,2.0
+Haiti,3.0,2.0
+Holy See,1.0,1.0
+Holy See,2.0,1.0
+Holy See,3.0,1.0
+Holy See,4.0,1.0
+Holy See,5.0,1.0
+Holy See,6.0,1.0
+Holy See,7.0,1.0
+Holy See,8.0,1.0
+Holy See,9.0,1.0
+Holy See,10.0,1.0
+Holy See,11.0,1.0
+Holy See,12.0,1.0
+Holy See,13.0,1.0
+Holy See,14.0,1.0
+Holy See,15.0,1.0
+Holy See,16.0,1.0
+Holy See,17.0,1.0
+Honduras,1.0,2.0
+Honduras,2.0,2.0
+Honduras,3.0,2.0
+Honduras,4.0,2.0
+Honduras,5.0,3.0
+Honduras,6.0,6.0
+Honduras,7.0,8.0
+Honduras,8.0,9.0
+Honduras,9.0,12.0
+Honduras,10.0,24.0
+Honduras,11.0,24.0
+Honduras,12.0,26.0
+Hungary,1.0,2.0
+Hungary,2.0,2.0
+Hungary,3.0,2.0
+Hungary,4.0,4.0
+Hungary,5.0,7.0
+Hungary,6.0,9.0
+Hungary,7.0,9.0
+Hungary,8.0,13.0
+Hungary,9.0,13.0
+Hungary,10.0,19.0
+Hungary,11.0,30.0
+Hungary,12.0,32.0
+Hungary,13.0,39.0
+Hungary,14.0,50.0
+Hungary,15.0,58.0
+Hungary,16.0,73.0
+Hungary,17.0,85.0
+Hungary,18.0,103.0
+Hungary,19.0,131.0
+Iceland,1.0,1.0
+Iceland,2.0,1.0
+Iceland,3.0,3.0
+Iceland,4.0,6.0
+Iceland,5.0,11.0
+Iceland,6.0,26.0
+Iceland,7.0,34.0
+Iceland,8.0,43.0
+Iceland,9.0,50.0
+Iceland,10.0,50.0
+Iceland,11.0,58.0
+Iceland,12.0,69.0
+Iceland,13.0,85.0
+Iceland,14.0,103.0
+Iceland,15.0,134.0
+Iceland,16.0,156.0
+Iceland,17.0,171.0
+Iceland,18.0,180.0
+Iceland,19.0,220.0
+Iceland,20.0,250.0
+Iceland,21.0,330.0
+Iceland,22.0,409.0
+Iceland,23.0,473.0
+Iceland,24.0,568.0
+India,1.0,1.0
+India,2.0,1.0
+India,3.0,1.0
+India,4.0,2.0
+India,5.0,3.0
+India,6.0,3.0
+India,7.0,3.0
+India,8.0,3.0
+India,9.0,3.0
+India,10.0,3.0
+India,11.0,3.0
+India,12.0,3.0
+India,13.0,3.0
+India,14.0,3.0
+India,15.0,3.0
+India,16.0,3.0
+India,17.0,3.0
+India,18.0,3.0
+India,19.0,3.0
+India,20.0,3.0
+India,21.0,3.0
+India,22.0,3.0
+India,23.0,3.0
+India,24.0,3.0
+India,25.0,3.0
+India,26.0,3.0
+India,27.0,3.0
+India,28.0,3.0
+India,29.0,3.0
+India,30.0,3.0
+India,31.0,3.0
+India,32.0,3.0
+India,33.0,5.0
+India,34.0,5.0
+India,35.0,28.0
+India,36.0,30.0
+India,37.0,31.0
+India,38.0,34.0
+India,39.0,39.0
+India,40.0,43.0
+India,41.0,56.0
+India,42.0,62.0
+India,43.0,73.0
+India,44.0,82.0
+India,45.0,102.0
+India,46.0,113.0
+India,47.0,119.0
+India,48.0,142.0
+India,49.0,156.0
+India,50.0,194.0
+India,51.0,244.0
+India,52.0,330.0
+India,53.0,396.0
+Indonesia,1.0,2.0
+Indonesia,2.0,2.0
+Indonesia,3.0,2.0
+Indonesia,4.0,2.0
+Indonesia,5.0,4.0
+Indonesia,6.0,4.0
+Indonesia,7.0,6.0
+Indonesia,8.0,19.0
+Indonesia,9.0,27.0
+Indonesia,10.0,34.0
+Indonesia,11.0,34.0
+Indonesia,12.0,69.0
+Indonesia,13.0,96.0
+Indonesia,14.0,117.0
+Indonesia,15.0,134.0
+Indonesia,16.0,172.0
+Indonesia,17.0,227.0
+Indonesia,18.0,311.0
+Indonesia,19.0,369.0
+Indonesia,20.0,450.0
+Indonesia,21.0,514.0
+Iran,1.0,2.0
+Iran,2.0,5.0
+Iran,3.0,18.0
+Iran,4.0,28.0
+Iran,5.0,43.0
+Iran,6.0,61.0
+Iran,7.0,95.0
+Iran,8.0,139.0
+Iran,9.0,245.0
+Iran,10.0,388.0
+Iran,11.0,593.0
+Iran,12.0,978.0
+Iran,13.0,1501.0
+Iran,14.0,2336.0
+Iran,15.0,2922.0
+Iran,16.0,3513.0
+Iran,17.0,4747.0
+Iran,18.0,5823.0
+Iran,19.0,6566.0
+Iran,20.0,7161.0
+Iran,21.0,8042.0
+Iran,22.0,9000.0
+Iran,23.0,10075.0
+Iran,24.0,11364.0
+Iran,25.0,12729.0
+Iran,26.0,13938.0
+Iran,27.0,14991.0
+Iran,28.0,16169.0
+Iran,29.0,17361.0
+Iran,30.0,18407.0
+Iran,31.0,19644.0
+Iran,32.0,20610.0
+Iran,33.0,21638.0
+Iraq,1.0,1.0
+Iraq,2.0,1.0
+Iraq,3.0,5.0
+Iraq,4.0,7.0
+Iraq,5.0,7.0
+Iraq,6.0,13.0
+Iraq,7.0,19.0
+Iraq,8.0,26.0
+Iraq,9.0,32.0
+Iraq,10.0,35.0
+Iraq,11.0,35.0
+Iraq,12.0,40.0
+Iraq,13.0,54.0
+Iraq,14.0,60.0
+Iraq,15.0,60.0
+Iraq,16.0,71.0
+Iraq,17.0,71.0
+Iraq,18.0,71.0
+Iraq,19.0,101.0
+Iraq,20.0,110.0
+Iraq,21.0,116.0
+Iraq,22.0,124.0
+Iraq,23.0,154.0
+Iraq,24.0,164.0
+Iraq,25.0,192.0
+Iraq,26.0,208.0
+Iraq,27.0,214.0
+Iraq,28.0,233.0
+Ireland,1.0,1.0
+Ireland,2.0,1.0
+Ireland,3.0,1.0
+Ireland,4.0,2.0
+Ireland,5.0,6.0
+Ireland,6.0,6.0
+Ireland,7.0,18.0
+Ireland,8.0,18.0
+Ireland,9.0,19.0
+Ireland,10.0,21.0
+Ireland,11.0,34.0
+Ireland,12.0,43.0
+Ireland,13.0,43.0
+Ireland,14.0,90.0
+Ireland,15.0,129.0
+Ireland,16.0,129.0
+Ireland,17.0,169.0
+Ireland,18.0,223.0
+Ireland,19.0,292.0
+Ireland,20.0,557.0
+Ireland,21.0,683.0
+Ireland,22.0,785.0
+Ireland,23.0,906.0
+Israel,1.0,1.0
+Israel,2.0,1.0
+Israel,3.0,1.0
+Israel,4.0,1.0
+Israel,5.0,1.0
+Israel,6.0,2.0
+Israel,7.0,3.0
+Israel,8.0,4.0
+Israel,9.0,7.0
+Israel,10.0,10.0
+Israel,11.0,10.0
+Israel,12.0,12.0
+Israel,13.0,15.0
+Israel,14.0,20.0
+Israel,15.0,37.0
+Israel,16.0,43.0
+Israel,17.0,61.0
+Israel,18.0,61.0
+Israel,19.0,83.0
+Israel,20.0,109.0
+Israel,21.0,131.0
+Israel,22.0,161.0
+Israel,23.0,193.0
+Israel,24.0,251.0
+Israel,25.0,255.0
+Israel,26.0,337.0
+Israel,27.0,433.0
+Israel,28.0,677.0
+Israel,29.0,705.0
+Israel,30.0,883.0
+Israel,31.0,1071.0
+Italy,1.0,2.0
+Italy,2.0,2.0
+Italy,3.0,2.0
+Italy,4.0,2.0
+Italy,5.0,2.0
+Italy,6.0,2.0
+Italy,7.0,2.0
+Italy,8.0,3.0
+Italy,9.0,3.0
+Italy,10.0,3.0
+Italy,11.0,3.0
+Italy,12.0,3.0
+Italy,13.0,3.0
+Italy,14.0,3.0
+Italy,15.0,3.0
+Italy,16.0,3.0
+Italy,17.0,3.0
+Italy,18.0,3.0
+Italy,19.0,3.0
+Italy,20.0,3.0
+Italy,21.0,3.0
+Italy,22.0,20.0
+Italy,23.0,62.0
+Italy,24.0,155.0
+Italy,25.0,229.0
+Italy,26.0,322.0
+Italy,27.0,453.0
+Italy,28.0,655.0
+Italy,29.0,888.0
+Italy,30.0,1128.0
+Italy,31.0,1694.0
+Italy,32.0,2036.0
+Italy,33.0,2502.0
+Italy,34.0,3089.0
+Italy,35.0,3858.0
+Italy,36.0,4636.0
+Italy,37.0,5883.0
+Italy,38.0,7375.0
+Italy,39.0,9172.0
+Italy,40.0,10149.0
+Italy,41.0,12462.0
+Italy,42.0,12462.0
+Italy,43.0,17660.0
+Italy,44.0,21157.0
+Italy,45.0,24747.0
+Italy,46.0,27980.0
+Italy,47.0,31506.0
+Italy,48.0,35713.0
+Italy,49.0,41035.0
+Italy,50.0,47021.0
+Italy,51.0,53578.0
+Italy,52.0,59138.0
+Jamaica,1.0,1.0
+Jamaica,2.0,2.0
+Jamaica,3.0,8.0
+Jamaica,4.0,8.0
+Jamaica,5.0,10.0
+Jamaica,6.0,10.0
+Jamaica,7.0,12.0
+Jamaica,8.0,13.0
+Jamaica,9.0,15.0
+Jamaica,10.0,16.0
+Jamaica,11.0,16.0
+Jamaica,12.0,16.0
+Japan,1.0,2.0
+Japan,2.0,1.0
+Japan,3.0,2.0
+Japan,4.0,2.0
+Japan,5.0,4.0
+Japan,6.0,4.0
+Japan,7.0,7.0
+Japan,8.0,7.0
+Japan,9.0,11.0
+Japan,10.0,15.0
+Japan,11.0,20.0
+Japan,12.0,20.0
+Japan,13.0,20.0
+Japan,14.0,22.0
+Japan,15.0,22.0
+Japan,16.0,45.0
+Japan,17.0,25.0
+Japan,18.0,25.0
+Japan,19.0,26.0
+Japan,20.0,26.0
+Japan,21.0,26.0
+Japan,22.0,28.0
+Japan,23.0,28.0
+Japan,24.0,29.0
+Japan,25.0,43.0
+Japan,26.0,59.0
+Japan,27.0,66.0
+Japan,28.0,74.0
+Japan,29.0,84.0
+Japan,30.0,94.0
+Japan,31.0,105.0
+Japan,32.0,122.0
+Japan,33.0,147.0
+Japan,34.0,159.0
+Japan,35.0,170.0
+Japan,36.0,189.0
+Japan,37.0,214.0
+Japan,38.0,228.0
+Japan,39.0,241.0
+Japan,40.0,256.0
+Japan,41.0,274.0
+Japan,42.0,293.0
+Japan,43.0,331.0
+Japan,44.0,360.0
+Japan,45.0,420.0
+Japan,46.0,461.0
+Japan,47.0,502.0
+Japan,48.0,511.0
+Japan,49.0,581.0
+Japan,50.0,639.0
+Japan,51.0,639.0
+Japan,52.0,701.0
+Japan,53.0,773.0
+Japan,54.0,839.0
+Japan,55.0,825.0
+Japan,56.0,878.0
+Japan,57.0,889.0
+Japan,58.0,924.0
+Japan,59.0,963.0
+Japan,60.0,1007.0
+Japan,61.0,1086.0
+Jordan,1.0,1.0
+Jordan,2.0,1.0
+Jordan,3.0,1.0
+Jordan,4.0,1.0
+Jordan,5.0,1.0
+Jordan,6.0,1.0
+Jordan,7.0,1.0
+Jordan,8.0,1.0
+Jordan,9.0,1.0
+Jordan,10.0,1.0
+Jordan,11.0,1.0
+Jordan,12.0,1.0
+Jordan,13.0,8.0
+Jordan,14.0,17.0
+Jordan,15.0,34.0
+Jordan,16.0,52.0
+Jordan,17.0,69.0
+Jordan,18.0,85.0
+Jordan,19.0,85.0
+Jordan,20.0,112.0
+Kazakhstan,1.0,4.0
+Kazakhstan,2.0,6.0
+Kazakhstan,3.0,9.0
+Kazakhstan,4.0,10.0
+Kazakhstan,5.0,33.0
+Kazakhstan,6.0,35.0
+Kazakhstan,7.0,44.0
+Kazakhstan,8.0,49.0
+Kazakhstan,9.0,53.0
+Kazakhstan,10.0,60.0
+Kenya,1.0,1.0
+Kenya,2.0,1.0
+Kenya,3.0,3.0
+Kenya,4.0,3.0
+Kenya,5.0,3.0
+Kenya,6.0,3.0
+Kenya,7.0,7.0
+Kenya,8.0,7.0
+Kenya,9.0,7.0
+Kenya,10.0,15.0
+"Korea, South",1.0,1.0
+"Korea, South",2.0,1.0
+"Korea, South",3.0,2.0
+"Korea, South",4.0,2.0
+"Korea, South",5.0,3.0
+"Korea, South",6.0,4.0
+"Korea, South",7.0,4.0
+"Korea, South",8.0,4.0
+"Korea, South",9.0,4.0
+"Korea, South",10.0,11.0
+"Korea, South",11.0,12.0
+"Korea, South",12.0,15.0
+"Korea, South",13.0,15.0
+"Korea, South",14.0,16.0
+"Korea, South",15.0,19.0
+"Korea, South",16.0,23.0
+"Korea, South",17.0,24.0
+"Korea, South",18.0,24.0
+"Korea, South",19.0,25.0
+"Korea, South",20.0,27.0
+"Korea, South",21.0,28.0
+"Korea, South",22.0,28.0
+"Korea, South",23.0,28.0
+"Korea, South",24.0,28.0
+"Korea, South",25.0,28.0
+"Korea, South",26.0,29.0
+"Korea, South",27.0,30.0
+"Korea, South",28.0,31.0
+"Korea, South",29.0,31.0
+"Korea, South",30.0,104.0
+"Korea, South",31.0,204.0
+"Korea, South",32.0,433.0
+"Korea, South",33.0,602.0
+"Korea, South",34.0,833.0
+"Korea, South",35.0,977.0
+"Korea, South",36.0,1261.0
+"Korea, South",37.0,1766.0
+"Korea, South",38.0,2337.0
+"Korea, South",39.0,3150.0
+"Korea, South",40.0,3736.0
+"Korea, South",41.0,4335.0
+"Korea, South",42.0,5186.0
+"Korea, South",43.0,5621.0
+"Korea, South",44.0,6088.0
+"Korea, South",45.0,6593.0
+"Korea, South",46.0,7041.0
+"Korea, South",47.0,7314.0
+"Korea, South",48.0,7478.0
+"Korea, South",49.0,7513.0
+"Korea, South",50.0,7755.0
+"Korea, South",51.0,7869.0
+"Korea, South",52.0,7979.0
+"Korea, South",53.0,8086.0
+"Korea, South",54.0,8162.0
+"Korea, South",55.0,8236.0
+"Korea, South",56.0,8320.0
+"Korea, South",57.0,8413.0
+"Korea, South",58.0,8565.0
+"Korea, South",59.0,8652.0
+"Korea, South",60.0,8799.0
+"Korea, South",61.0,8897.0
+Kosovo,1.0,2.0
+Kosovo,2.0,2.0
+Kosovo,3.0,2.0
+Kosovo,4.0,2.0
+Kosovo,5.0,2.0
+Kosovo,6.0,2.0
+Kosovo,7.0,2.0
+Kosovo,8.0,2.0
+Kuwait,1.0,1.0
+Kuwait,2.0,11.0
+Kuwait,3.0,26.0
+Kuwait,4.0,43.0
+Kuwait,5.0,45.0
+Kuwait,6.0,45.0
+Kuwait,7.0,45.0
+Kuwait,8.0,56.0
+Kuwait,9.0,56.0
+Kuwait,10.0,56.0
+Kuwait,11.0,58.0
+Kuwait,12.0,58.0
+Kuwait,13.0,61.0
+Kuwait,14.0,64.0
+Kuwait,15.0,64.0
+Kuwait,16.0,69.0
+Kuwait,17.0,72.0
+Kuwait,18.0,80.0
+Kuwait,19.0,80.0
+Kuwait,20.0,104.0
+Kuwait,21.0,112.0
+Kuwait,22.0,123.0
+Kuwait,23.0,130.0
+Kuwait,24.0,142.0
+Kuwait,25.0,148.0
+Kuwait,26.0,159.0
+Kuwait,27.0,176.0
+Kuwait,28.0,188.0
+Kyrgyzstan,1.0,3.0
+Kyrgyzstan,2.0,3.0
+Kyrgyzstan,3.0,6.0
+Kyrgyzstan,4.0,14.0
+Kyrgyzstan,5.0,14.0
+Latvia,1.0,1.0
+Latvia,2.0,1.0
+Latvia,3.0,1.0
+Latvia,4.0,1.0
+Latvia,5.0,1.0
+Latvia,6.0,1.0
+Latvia,7.0,2.0
+Latvia,8.0,6.0
+Latvia,9.0,8.0
+Latvia,10.0,10.0
+Latvia,11.0,10.0
+Latvia,12.0,17.0
+Latvia,13.0,26.0
+Latvia,14.0,30.0
+Latvia,15.0,34.0
+Latvia,16.0,49.0
+Latvia,17.0,71.0
+Latvia,18.0,86.0
+Latvia,19.0,111.0
+Latvia,20.0,124.0
+Latvia,21.0,139.0
+Lebanon,1.0,1.0
+Lebanon,2.0,1.0
+Lebanon,3.0,1.0
+Lebanon,4.0,1.0
+Lebanon,5.0,1.0
+Lebanon,6.0,2.0
+Lebanon,7.0,2.0
+Lebanon,8.0,2.0
+Lebanon,9.0,4.0
+Lebanon,10.0,10.0
+Lebanon,11.0,13.0
+Lebanon,12.0,13.0
+Lebanon,13.0,13.0
+Lebanon,14.0,16.0
+Lebanon,15.0,22.0
+Lebanon,16.0,22.0
+Lebanon,17.0,32.0
+Lebanon,18.0,32.0
+Lebanon,19.0,41.0
+Lebanon,20.0,61.0
+Lebanon,21.0,61.0
+Lebanon,22.0,77.0
+Lebanon,23.0,93.0
+Lebanon,24.0,110.0
+Lebanon,25.0,99.0
+Lebanon,26.0,120.0
+Lebanon,27.0,133.0
+Lebanon,28.0,157.0
+Lebanon,29.0,163.0
+Lebanon,30.0,187.0
+Lebanon,31.0,248.0
+Liberia,1.0,1.0
+Liberia,2.0,1.0
+Liberia,3.0,2.0
+Liberia,4.0,2.0
+Liberia,5.0,2.0
+Liberia,6.0,3.0
+Liberia,7.0,3.0
+Liechtenstein,1.0,1.0
+Liechtenstein,2.0,1.0
+Liechtenstein,3.0,1.0
+Liechtenstein,4.0,1.0
+Liechtenstein,5.0,1.0
+Liechtenstein,6.0,1.0
+Liechtenstein,7.0,1.0
+Liechtenstein,8.0,1.0
+Liechtenstein,9.0,1.0
+Liechtenstein,10.0,1.0
+Liechtenstein,11.0,4.0
+Liechtenstein,12.0,4.0
+Liechtenstein,13.0,4.0
+Liechtenstein,14.0,7.0
+Liechtenstein,15.0,28.0
+Liechtenstein,16.0,28.0
+Liechtenstein,17.0,28.0
+Liechtenstein,18.0,37.0
+Liechtenstein,19.0,37.0
+Lithuania,1.0,1.0
+Lithuania,2.0,1.0
+Lithuania,3.0,1.0
+Lithuania,4.0,1.0
+Lithuania,5.0,1.0
+Lithuania,6.0,1.0
+Lithuania,7.0,1.0
+Lithuania,8.0,1.0
+Lithuania,9.0,1.0
+Lithuania,10.0,1.0
+Lithuania,11.0,1.0
+Lithuania,12.0,1.0
+Lithuania,13.0,3.0
+Lithuania,14.0,3.0
+Lithuania,15.0,6.0
+Lithuania,16.0,8.0
+Lithuania,17.0,12.0
+Lithuania,18.0,17.0
+Lithuania,19.0,25.0
+Lithuania,20.0,27.0
+Lithuania,21.0,36.0
+Lithuania,22.0,49.0
+Lithuania,23.0,83.0
+Lithuania,24.0,131.0
+Luxembourg,1.0,1.0
+Luxembourg,2.0,1.0
+Luxembourg,3.0,1.0
+Luxembourg,4.0,1.0
+Luxembourg,5.0,1.0
+Luxembourg,6.0,1.0
+Luxembourg,7.0,2.0
+Luxembourg,8.0,2.0
+Luxembourg,9.0,3.0
+Luxembourg,10.0,3.0
+Luxembourg,11.0,5.0
+Luxembourg,12.0,7.0
+Luxembourg,13.0,19.0
+Luxembourg,14.0,34.0
+Luxembourg,15.0,51.0
+Luxembourg,16.0,59.0
+Luxembourg,17.0,77.0
+Luxembourg,18.0,140.0
+Luxembourg,19.0,203.0
+Luxembourg,20.0,335.0
+Luxembourg,21.0,484.0
+Luxembourg,22.0,670.0
+Luxembourg,23.0,798.0
+Madagascar,1.0,3.0
+Madagascar,2.0,3.0
+Madagascar,3.0,3.0
+Malaysia,1.0,3.0
+Malaysia,2.0,4.0
+Malaysia,3.0,4.0
+Malaysia,4.0,4.0
+Malaysia,5.0,7.0
+Malaysia,6.0,8.0
+Malaysia,7.0,8.0
+Malaysia,8.0,8.0
+Malaysia,9.0,8.0
+Malaysia,10.0,8.0
+Malaysia,11.0,10.0
+Malaysia,12.0,12.0
+Malaysia,13.0,12.0
+Malaysia,14.0,12.0
+Malaysia,15.0,16.0
+Malaysia,16.0,16.0
+Malaysia,17.0,18.0
+Malaysia,18.0,18.0
+Malaysia,19.0,18.0
+Malaysia,20.0,19.0
+Malaysia,21.0,19.0
+Malaysia,22.0,22.0
+Malaysia,23.0,22.0
+Malaysia,24.0,22.0
+Malaysia,25.0,22.0
+Malaysia,26.0,22.0
+Malaysia,27.0,22.0
+Malaysia,28.0,22.0
+Malaysia,29.0,22.0
+Malaysia,30.0,22.0
+Malaysia,31.0,22.0
+Malaysia,32.0,22.0
+Malaysia,33.0,22.0
+Malaysia,34.0,23.0
+Malaysia,35.0,23.0
+Malaysia,36.0,25.0
+Malaysia,37.0,29.0
+Malaysia,38.0,29.0
+Malaysia,39.0,36.0
+Malaysia,40.0,50.0
+Malaysia,41.0,50.0
+Malaysia,42.0,83.0
+Malaysia,43.0,93.0
+Malaysia,44.0,99.0
+Malaysia,45.0,117.0
+Malaysia,46.0,129.0
+Malaysia,47.0,149.0
+Malaysia,48.0,149.0
+Malaysia,49.0,197.0
+Malaysia,50.0,238.0
+Malaysia,51.0,428.0
+Malaysia,52.0,566.0
+Malaysia,53.0,673.0
+Malaysia,54.0,790.0
+Malaysia,55.0,900.0
+Malaysia,56.0,1030.0
+Malaysia,57.0,1183.0
+Malaysia,58.0,1306.0
+Maldives,1.0,4.0
+Maldives,2.0,4.0
+Maldives,3.0,6.0
+Maldives,4.0,8.0
+Maldives,5.0,8.0
+Maldives,6.0,9.0
+Maldives,7.0,10.0
+Maldives,8.0,13.0
+Maldives,9.0,13.0
+Maldives,10.0,13.0
+Maldives,11.0,13.0
+Maldives,12.0,13.0
+Maldives,13.0,13.0
+Maldives,14.0,13.0
+Maldives,15.0,13.0
+Malta,1.0,3.0
+Malta,2.0,3.0
+Malta,3.0,3.0
+Malta,4.0,5.0
+Malta,5.0,6.0
+Malta,6.0,6.0
+Malta,7.0,12.0
+Malta,8.0,18.0
+Malta,9.0,21.0
+Malta,10.0,30.0
+Malta,11.0,38.0
+Malta,12.0,38.0
+Malta,13.0,53.0
+Malta,14.0,64.0
+Malta,15.0,73.0
+Malta,16.0,90.0
+Martinique,1.0,2.0
+Martinique,2.0,2.0
+Martinique,3.0,2.0
+Martinique,4.0,2.0
+Martinique,5.0,3.0
+Martinique,6.0,3.0
+Martinique,7.0,3.0
+Martinique,8.0,9.0
+Martinique,9.0,9.0
+Martinique,10.0,15.0
+Martinique,11.0,16.0
+Martinique,12.0,19.0
+Martinique,13.0,23.0
+Martinique,14.0,32.0
+Martinique,15.0,32.0
+Martinique,16.0,37.0
+Mauritania,1.0,1.0
+Mauritania,2.0,1.0
+Mauritania,3.0,1.0
+Mauritania,4.0,1.0
+Mauritania,5.0,1.0
+Mauritania,6.0,2.0
+Mauritania,7.0,2.0
+Mauritania,8.0,2.0
+Mauritania,9.0,2.0
+Mauritius,1.0,3.0
+Mauritius,2.0,3.0
+Mauritius,3.0,12.0
+Mauritius,4.0,14.0
+Mauritius,5.0,18.0
+Mexico,1.0,1.0
+Mexico,2.0,4.0
+Mexico,3.0,5.0
+Mexico,4.0,5.0
+Mexico,5.0,5.0
+Mexico,6.0,5.0
+Mexico,7.0,5.0
+Mexico,8.0,6.0
+Mexico,9.0,6.0
+Mexico,10.0,7.0
+Mexico,11.0,7.0
+Mexico,12.0,7.0
+Mexico,13.0,8.0
+Mexico,14.0,12.0
+Mexico,15.0,12.0
+Mexico,16.0,26.0
+Mexico,17.0,41.0
+Mexico,18.0,53.0
+Mexico,19.0,82.0
+Mexico,20.0,93.0
+Mexico,21.0,118.0
+Mexico,22.0,164.0
+Mexico,23.0,203.0
+Mexico,24.0,251.0
+Moldova,1.0,1.0
+Moldova,2.0,1.0
+Moldova,3.0,3.0
+Moldova,4.0,3.0
+Moldova,5.0,3.0
+Moldova,6.0,6.0
+Moldova,7.0,12.0
+Moldova,8.0,23.0
+Moldova,9.0,23.0
+Moldova,10.0,30.0
+Moldova,11.0,30.0
+Moldova,12.0,49.0
+Moldova,13.0,66.0
+Moldova,14.0,80.0
+Moldova,15.0,94.0
+Monaco,1.0,1.0
+Monaco,2.0,1.0
+Monaco,3.0,1.0
+Monaco,4.0,1.0
+Monaco,5.0,1.0
+Monaco,6.0,1.0
+Monaco,7.0,1.0
+Monaco,8.0,1.0
+Monaco,9.0,1.0
+Monaco,10.0,1.0
+Monaco,11.0,1.0
+Monaco,12.0,1.0
+Monaco,13.0,2.0
+Monaco,14.0,2.0
+Monaco,15.0,2.0
+Monaco,16.0,2.0
+Monaco,17.0,7.0
+Monaco,18.0,7.0
+Monaco,19.0,7.0
+Monaco,20.0,7.0
+Monaco,21.0,11.0
+Monaco,22.0,11.0
+Monaco,23.0,23.0
+Mongolia,1.0,1.0
+Mongolia,2.0,1.0
+Mongolia,3.0,1.0
+Mongolia,4.0,1.0
+Mongolia,5.0,1.0
+Mongolia,6.0,1.0
+Mongolia,7.0,1.0
+Mongolia,8.0,5.0
+Mongolia,9.0,6.0
+Mongolia,10.0,6.0
+Mongolia,11.0,6.0
+Mongolia,12.0,10.0
+Mongolia,13.0,10.0
+Montenegro,1.0,2.0
+Montenegro,2.0,1.0
+Montenegro,3.0,3.0
+Montenegro,4.0,14.0
+Montenegro,5.0,14.0
+Montenegro,6.0,21.0
+Morocco,1.0,1.0
+Morocco,2.0,1.0
+Morocco,3.0,1.0
+Morocco,4.0,2.0
+Morocco,5.0,2.0
+Morocco,6.0,2.0
+Morocco,7.0,2.0
+Morocco,8.0,2.0
+Morocco,9.0,3.0
+Morocco,10.0,5.0
+Morocco,11.0,6.0
+Morocco,12.0,7.0
+Morocco,13.0,17.0
+Morocco,14.0,28.0
+Morocco,15.0,29.0
+Morocco,16.0,38.0
+Morocco,17.0,49.0
+Morocco,18.0,63.0
+Morocco,19.0,77.0
+Morocco,20.0,96.0
+Morocco,21.0,115.0
+Mozambique,1.0,1.0
+Namibia,1.0,2.0
+Namibia,2.0,2.0
+Namibia,3.0,2.0
+Namibia,4.0,2.0
+Namibia,5.0,2.0
+Namibia,6.0,3.0
+Namibia,7.0,3.0
+Namibia,8.0,3.0
+Namibia,9.0,3.0
+Nepal,1.0,1.0
+Nepal,2.0,1.0
+Nepal,3.0,1.0
+Nepal,4.0,1.0
+Nepal,5.0,1.0
+Nepal,6.0,1.0
+Nepal,7.0,1.0
+Nepal,8.0,1.0
+Nepal,9.0,1.0
+Nepal,10.0,1.0
+Nepal,11.0,1.0
+Nepal,12.0,1.0
+Nepal,13.0,1.0
+Nepal,14.0,1.0
+Nepal,15.0,1.0
+Nepal,16.0,1.0
+Nepal,17.0,1.0
+Nepal,18.0,1.0
+Nepal,19.0,1.0
+Nepal,20.0,1.0
+Nepal,21.0,1.0
+Nepal,22.0,1.0
+Nepal,23.0,1.0
+Nepal,24.0,1.0
+Nepal,25.0,1.0
+Nepal,26.0,1.0
+Nepal,27.0,1.0
+Nepal,28.0,1.0
+Nepal,29.0,1.0
+Nepal,30.0,1.0
+Nepal,31.0,1.0
+Nepal,32.0,1.0
+Nepal,33.0,1.0
+Nepal,34.0,1.0
+Nepal,35.0,1.0
+Nepal,36.0,1.0
+Nepal,37.0,1.0
+Nepal,38.0,1.0
+Nepal,39.0,1.0
+Nepal,40.0,1.0
+Nepal,41.0,1.0
+Nepal,42.0,1.0
+Nepal,43.0,1.0
+Nepal,44.0,1.0
+Nepal,45.0,1.0
+Nepal,46.0,1.0
+Nepal,47.0,1.0
+Nepal,48.0,1.0
+Nepal,49.0,1.0
+Nepal,50.0,1.0
+Nepal,51.0,1.0
+Nepal,52.0,1.0
+Nepal,53.0,1.0
+Nepal,54.0,1.0
+Nepal,55.0,1.0
+Nepal,56.0,1.0
+Nepal,57.0,1.0
+Nepal,58.0,2.0
+Netherlands,1.0,1.0
+Netherlands,2.0,1.0
+Netherlands,3.0,6.0
+Netherlands,4.0,10.0
+Netherlands,5.0,18.0
+Netherlands,6.0,24.0
+Netherlands,7.0,38.0
+Netherlands,8.0,82.0
+Netherlands,9.0,128.0
+Netherlands,10.0,188.0
+Netherlands,11.0,265.0
+Netherlands,12.0,321.0
+Netherlands,13.0,382.0
+Netherlands,14.0,503.0
+Netherlands,15.0,503.0
+Netherlands,16.0,806.0
+Netherlands,17.0,962.0
+Netherlands,18.0,1138.0
+Netherlands,19.0,1416.0
+Netherlands,20.0,1711.0
+Netherlands,21.0,2058.0
+Netherlands,22.0,2467.0
+Netherlands,23.0,3003.0
+Netherlands,24.0,3640.0
+Netherlands,25.0,4216.0
+New Zealand,1.0,1.0
+New Zealand,2.0,1.0
+New Zealand,3.0,1.0
+New Zealand,4.0,1.0
+New Zealand,5.0,1.0
+New Zealand,6.0,3.0
+New Zealand,7.0,3.0
+New Zealand,8.0,4.0
+New Zealand,9.0,5.0
+New Zealand,10.0,5.0
+New Zealand,11.0,5.0
+New Zealand,12.0,5.0
+New Zealand,13.0,5.0
+New Zealand,14.0,5.0
+New Zealand,15.0,5.0
+New Zealand,16.0,6.0
+New Zealand,17.0,8.0
+New Zealand,18.0,8.0
+New Zealand,19.0,12.0
+New Zealand,20.0,20.0
+New Zealand,21.0,28.0
+New Zealand,22.0,39.0
+New Zealand,23.0,52.0
+New Zealand,24.0,66.0
+Nicaragua,1.0,1.0
+Nicaragua,2.0,1.0
+Nicaragua,3.0,2.0
+Nicaragua,4.0,2.0
+Niger,1.0,1.0
+Niger,2.0,1.0
+Niger,3.0,2.0
+Nigeria,1.0,1.0
+Nigeria,2.0,1.0
+Nigeria,3.0,1.0
+Nigeria,4.0,1.0
+Nigeria,5.0,1.0
+Nigeria,6.0,1.0
+Nigeria,7.0,1.0
+Nigeria,8.0,1.0
+Nigeria,9.0,1.0
+Nigeria,10.0,1.0
+Nigeria,11.0,2.0
+Nigeria,12.0,2.0
+Nigeria,13.0,2.0
+Nigeria,14.0,2.0
+Nigeria,15.0,2.0
+Nigeria,16.0,2.0
+Nigeria,17.0,2.0
+Nigeria,18.0,2.0
+Nigeria,19.0,3.0
+Nigeria,20.0,8.0
+Nigeria,21.0,8.0
+Nigeria,22.0,12.0
+Nigeria,23.0,22.0
+Nigeria,24.0,30.0
+North Macedonia,1.0,1.0
+North Macedonia,2.0,1.0
+North Macedonia,3.0,1.0
+North Macedonia,4.0,1.0
+North Macedonia,5.0,1.0
+North Macedonia,6.0,1.0
+North Macedonia,7.0,1.0
+North Macedonia,8.0,1.0
+North Macedonia,9.0,1.0
+North Macedonia,10.0,3.0
+North Macedonia,11.0,3.0
+North Macedonia,12.0,3.0
+North Macedonia,13.0,3.0
+North Macedonia,14.0,7.0
+North Macedonia,15.0,7.0
+North Macedonia,16.0,7.0
+North Macedonia,17.0,14.0
+North Macedonia,18.0,14.0
+North Macedonia,19.0,14.0
+North Macedonia,20.0,18.0
+North Macedonia,21.0,26.0
+North Macedonia,22.0,35.0
+North Macedonia,23.0,48.0
+North Macedonia,24.0,67.0
+North Macedonia,25.0,85.0
+North Macedonia,26.0,114.0
+Norway,1.0,1.0
+Norway,2.0,1.0
+Norway,3.0,6.0
+Norway,4.0,15.0
+Norway,5.0,19.0
+Norway,6.0,25.0
+Norway,7.0,32.0
+Norway,8.0,56.0
+Norway,9.0,87.0
+Norway,10.0,108.0
+Norway,11.0,147.0
+Norway,12.0,176.0
+Norway,13.0,205.0
+Norway,14.0,400.0
+Norway,15.0,598.0
+Norway,16.0,702.0
+Norway,17.0,996.0
+Norway,18.0,1090.0
+Norway,19.0,1221.0
+Norway,20.0,1333.0
+Norway,21.0,1463.0
+Norway,22.0,1550.0
+Norway,23.0,1746.0
+Norway,24.0,1914.0
+Norway,25.0,2118.0
+Norway,26.0,2383.0
+Oman,1.0,2.0
+Oman,2.0,2.0
+Oman,3.0,4.0
+Oman,4.0,4.0
+Oman,5.0,4.0
+Oman,6.0,6.0
+Oman,7.0,6.0
+Oman,8.0,6.0
+Oman,9.0,12.0
+Oman,10.0,15.0
+Oman,11.0,16.0
+Oman,12.0,16.0
+Oman,13.0,16.0
+Oman,14.0,16.0
+Oman,15.0,16.0
+Oman,16.0,18.0
+Oman,17.0,18.0
+Oman,18.0,18.0
+Oman,19.0,19.0
+Oman,20.0,19.0
+Oman,21.0,22.0
+Oman,22.0,22.0
+Oman,23.0,24.0
+Oman,24.0,39.0
+Oman,25.0,48.0
+Oman,26.0,48.0
+Oman,27.0,52.0
+Oman,28.0,55.0
+Pakistan,1.0,2.0
+Pakistan,2.0,2.0
+Pakistan,3.0,2.0
+Pakistan,4.0,4.0
+Pakistan,5.0,4.0
+Pakistan,6.0,4.0
+Pakistan,7.0,5.0
+Pakistan,8.0,5.0
+Pakistan,9.0,5.0
+Pakistan,10.0,6.0
+Pakistan,11.0,6.0
+Pakistan,12.0,6.0
+Pakistan,13.0,6.0
+Pakistan,14.0,16.0
+Pakistan,15.0,19.0
+Pakistan,16.0,20.0
+Pakistan,17.0,28.0
+Pakistan,18.0,31.0
+Pakistan,19.0,53.0
+Pakistan,20.0,136.0
+Pakistan,21.0,236.0
+Pakistan,22.0,299.0
+Pakistan,23.0,454.0
+Pakistan,24.0,501.0
+Pakistan,25.0,730.0
+Pakistan,26.0,776.0
+Panama,1.0,1.0
+Panama,2.0,8.0
+Panama,3.0,11.0
+Panama,4.0,27.0
+Panama,5.0,36.0
+Panama,6.0,43.0
+Panama,7.0,55.0
+Panama,8.0,69.0
+Panama,9.0,86.0
+Panama,10.0,109.0
+Panama,11.0,137.0
+Panama,12.0,200.0
+Panama,13.0,245.0
+Papua New Guinea,1.0,1.0
+Papua New Guinea,2.0,1.0
+Papua New Guinea,3.0,1.0
+Paraguay,1.0,1.0
+Paraguay,2.0,1.0
+Paraguay,3.0,1.0
+Paraguay,4.0,5.0
+Paraguay,5.0,5.0
+Paraguay,6.0,6.0
+Paraguay,7.0,6.0
+Paraguay,8.0,6.0
+Paraguay,9.0,8.0
+Paraguay,10.0,9.0
+Paraguay,11.0,11.0
+Paraguay,12.0,11.0
+Paraguay,13.0,13.0
+Paraguay,14.0,18.0
+Paraguay,15.0,22.0
+Peru,1.0,1.0
+Peru,2.0,1.0
+Peru,3.0,6.0
+Peru,4.0,7.0
+Peru,5.0,11.0
+Peru,6.0,11.0
+Peru,7.0,15.0
+Peru,8.0,28.0
+Peru,9.0,38.0
+Peru,10.0,43.0
+Peru,11.0,86.0
+Peru,12.0,117.0
+Peru,13.0,145.0
+Peru,14.0,234.0
+Peru,15.0,234.0
+Peru,16.0,318.0
+Peru,17.0,363.0
+Philippines,1.0,1.0
+Philippines,2.0,1.0
+Philippines,3.0,1.0
+Philippines,4.0,2.0
+Philippines,5.0,2.0
+Philippines,6.0,2.0
+Philippines,7.0,2.0
+Philippines,8.0,2.0
+Philippines,9.0,3.0
+Philippines,10.0,3.0
+Philippines,11.0,3.0
+Philippines,12.0,3.0
+Philippines,13.0,3.0
+Philippines,14.0,3.0
+Philippines,15.0,3.0
+Philippines,16.0,3.0
+Philippines,17.0,3.0
+Philippines,18.0,3.0
+Philippines,19.0,3.0
+Philippines,20.0,3.0
+Philippines,21.0,3.0
+Philippines,22.0,3.0
+Philippines,23.0,3.0
+Philippines,24.0,3.0
+Philippines,25.0,3.0
+Philippines,26.0,3.0
+Philippines,27.0,3.0
+Philippines,28.0,3.0
+Philippines,29.0,3.0
+Philippines,30.0,3.0
+Philippines,31.0,3.0
+Philippines,32.0,3.0
+Philippines,33.0,3.0
+Philippines,34.0,3.0
+Philippines,35.0,3.0
+Philippines,36.0,3.0
+Philippines,37.0,5.0
+Philippines,38.0,6.0
+Philippines,39.0,10.0
+Philippines,40.0,20.0
+Philippines,41.0,33.0
+Philippines,42.0,49.0
+Philippines,43.0,52.0
+Philippines,44.0,64.0
+Philippines,45.0,111.0
+Philippines,46.0,140.0
+Philippines,47.0,142.0
+Philippines,48.0,187.0
+Philippines,49.0,202.0
+Philippines,50.0,217.0
+Philippines,51.0,230.0
+Philippines,52.0,307.0
+Philippines,53.0,380.0
+Poland,1.0,1.0
+Poland,2.0,1.0
+Poland,3.0,5.0
+Poland,4.0,5.0
+Poland,5.0,11.0
+Poland,6.0,16.0
+Poland,7.0,22.0
+Poland,8.0,31.0
+Poland,9.0,49.0
+Poland,10.0,68.0
+Poland,11.0,103.0
+Poland,12.0,119.0
+Poland,13.0,177.0
+Poland,14.0,238.0
+Poland,15.0,251.0
+Poland,16.0,355.0
+Poland,17.0,425.0
+Poland,18.0,536.0
+Poland,19.0,634.0
+Portugal,1.0,2.0
+Portugal,2.0,2.0
+Portugal,3.0,5.0
+Portugal,4.0,8.0
+Portugal,5.0,13.0
+Portugal,6.0,20.0
+Portugal,7.0,30.0
+Portugal,8.0,30.0
+Portugal,9.0,41.0
+Portugal,10.0,59.0
+Portugal,11.0,59.0
+Portugal,12.0,112.0
+Portugal,13.0,169.0
+Portugal,14.0,245.0
+Portugal,15.0,331.0
+Portugal,16.0,448.0
+Portugal,17.0,448.0
+Portugal,18.0,785.0
+Portugal,19.0,1020.0
+Portugal,20.0,1280.0
+Portugal,21.0,1600.0
+Qatar,1.0,1.0
+Qatar,2.0,3.0
+Qatar,3.0,3.0
+Qatar,4.0,7.0
+Qatar,5.0,8.0
+Qatar,6.0,8.0
+Qatar,7.0,8.0
+Qatar,8.0,8.0
+Qatar,9.0,15.0
+Qatar,10.0,18.0
+Qatar,11.0,24.0
+Qatar,12.0,262.0
+Qatar,13.0,262.0
+Qatar,14.0,320.0
+Qatar,15.0,337.0
+Qatar,16.0,401.0
+Qatar,17.0,439.0
+Qatar,18.0,439.0
+Qatar,19.0,452.0
+Qatar,20.0,460.0
+Qatar,21.0,470.0
+Qatar,22.0,481.0
+Qatar,23.0,494.0
+Romania,1.0,1.0
+Romania,2.0,1.0
+Romania,3.0,3.0
+Romania,4.0,3.0
+Romania,5.0,3.0
+Romania,6.0,3.0
+Romania,7.0,3.0
+Romania,8.0,4.0
+Romania,9.0,6.0
+Romania,10.0,9.0
+Romania,11.0,9.0
+Romania,12.0,15.0
+Romania,13.0,15.0
+Romania,14.0,25.0
+Romania,15.0,45.0
+Romania,16.0,49.0
+Romania,17.0,89.0
+Romania,18.0,123.0
+Romania,19.0,131.0
+Romania,20.0,158.0
+Romania,21.0,184.0
+Romania,22.0,260.0
+Romania,23.0,277.0
+Romania,24.0,308.0
+Romania,25.0,367.0
+Romania,26.0,433.0
+Russia,1.0,2.0
+Russia,2.0,2.0
+Russia,3.0,2.0
+Russia,4.0,2.0
+Russia,5.0,2.0
+Russia,6.0,2.0
+Russia,7.0,2.0
+Russia,8.0,2.0
+Russia,9.0,2.0
+Russia,10.0,2.0
+Russia,11.0,2.0
+Russia,12.0,2.0
+Russia,13.0,2.0
+Russia,14.0,2.0
+Russia,15.0,2.0
+Russia,16.0,2.0
+Russia,17.0,2.0
+Russia,18.0,2.0
+Russia,19.0,2.0
+Russia,20.0,2.0
+Russia,21.0,2.0
+Russia,22.0,2.0
+Russia,23.0,2.0
+Russia,24.0,2.0
+Russia,25.0,2.0
+Russia,26.0,2.0
+Russia,27.0,2.0
+Russia,28.0,2.0
+Russia,29.0,2.0
+Russia,30.0,2.0
+Russia,31.0,2.0
+Russia,32.0,3.0
+Russia,33.0,3.0
+Russia,34.0,3.0
+Russia,35.0,4.0
+Russia,36.0,13.0
+Russia,37.0,13.0
+Russia,38.0,17.0
+Russia,39.0,17.0
+Russia,40.0,20.0
+Russia,41.0,20.0
+Russia,42.0,28.0
+Russia,43.0,45.0
+Russia,44.0,59.0
+Russia,45.0,63.0
+Russia,46.0,90.0
+Russia,47.0,114.0
+Russia,48.0,147.0
+Russia,49.0,199.0
+Russia,50.0,253.0
+Russia,51.0,306.0
+Russia,52.0,367.0
+Rwanda,1.0,1.0
+Rwanda,2.0,1.0
+Rwanda,3.0,5.0
+Rwanda,4.0,7.0
+Rwanda,5.0,8.0
+Rwanda,6.0,8.0
+Rwanda,7.0,17.0
+Rwanda,8.0,17.0
+Rwanda,9.0,19.0
+Saint Lucia,1.0,1.0
+Saint Lucia,2.0,2.0
+Saint Lucia,3.0,2.0
+Saint Lucia,4.0,2.0
+Saint Lucia,5.0,2.0
+Saint Lucia,6.0,2.0
+Saint Lucia,7.0,2.0
+Saint Lucia,8.0,2.0
+Saint Lucia,9.0,2.0
+Saint Vincent and the Grenadines,1.0,1.0
+Saint Vincent and the Grenadines,2.0,1.0
+Saint Vincent and the Grenadines,3.0,1.0
+Saint Vincent and the Grenadines,4.0,1.0
+Saint Vincent and the Grenadines,5.0,1.0
+Saint Vincent and the Grenadines,6.0,1.0
+Saint Vincent and the Grenadines,7.0,1.0
+Saint Vincent and the Grenadines,8.0,1.0
+Saint Vincent and the Grenadines,9.0,1.0
+San Marino,1.0,1.0
+San Marino,2.0,1.0
+San Marino,3.0,1.0
+San Marino,4.0,1.0
+San Marino,5.0,8.0
+San Marino,6.0,10.0
+San Marino,7.0,16.0
+San Marino,8.0,21.0
+San Marino,9.0,21.0
+San Marino,10.0,23.0
+San Marino,11.0,36.0
+San Marino,12.0,36.0
+San Marino,13.0,51.0
+San Marino,14.0,62.0
+San Marino,15.0,69.0
+San Marino,16.0,80.0
+San Marino,17.0,80.0
+San Marino,18.0,101.0
+San Marino,19.0,109.0
+San Marino,20.0,109.0
+San Marino,21.0,119.0
+San Marino,22.0,119.0
+San Marino,23.0,144.0
+San Marino,24.0,144.0
+San Marino,25.0,160.0
+Saudi Arabia,1.0,1.0
+Saudi Arabia,2.0,1.0
+Saudi Arabia,3.0,1.0
+Saudi Arabia,4.0,5.0
+Saudi Arabia,5.0,5.0
+Saudi Arabia,6.0,5.0
+Saudi Arabia,7.0,11.0
+Saudi Arabia,8.0,15.0
+Saudi Arabia,9.0,20.0
+Saudi Arabia,10.0,21.0
+Saudi Arabia,11.0,45.0
+Saudi Arabia,12.0,86.0
+Saudi Arabia,13.0,103.0
+Saudi Arabia,14.0,103.0
+Saudi Arabia,15.0,118.0
+Saudi Arabia,16.0,171.0
+Saudi Arabia,17.0,171.0
+Saudi Arabia,18.0,274.0
+Saudi Arabia,19.0,344.0
+Saudi Arabia,20.0,392.0
+Saudi Arabia,21.0,511.0
+Senegal,1.0,1.0
+Senegal,2.0,2.0
+Senegal,3.0,4.0
+Senegal,4.0,4.0
+Senegal,5.0,4.0
+Senegal,6.0,4.0
+Senegal,7.0,4.0
+Senegal,8.0,4.0
+Senegal,9.0,4.0
+Senegal,10.0,4.0
+Senegal,11.0,4.0
+Senegal,12.0,10.0
+Senegal,13.0,10.0
+Senegal,14.0,24.0
+Senegal,15.0,24.0
+Senegal,16.0,26.0
+Senegal,17.0,31.0
+Senegal,18.0,31.0
+Senegal,19.0,38.0
+Senegal,20.0,47.0
+Senegal,21.0,67.0
+Serbia,1.0,1.0
+Serbia,2.0,1.0
+Serbia,3.0,1.0
+Serbia,4.0,1.0
+Serbia,5.0,5.0
+Serbia,6.0,12.0
+Serbia,7.0,19.0
+Serbia,8.0,35.0
+Serbia,9.0,46.0
+Serbia,10.0,48.0
+Serbia,11.0,55.0
+Serbia,12.0,65.0
+Serbia,13.0,83.0
+Serbia,14.0,103.0
+Serbia,15.0,135.0
+Serbia,16.0,171.0
+Serbia,17.0,222.0
+Seychelles,1.0,2.0
+Seychelles,2.0,2.0
+Seychelles,3.0,3.0
+Seychelles,4.0,4.0
+Seychelles,5.0,4.0
+Seychelles,6.0,6.0
+Seychelles,7.0,7.0
+Seychelles,8.0,7.0
+Seychelles,9.0,7.0
+Singapore,1.0,1.0
+Singapore,2.0,3.0
+Singapore,3.0,3.0
+Singapore,4.0,4.0
+Singapore,5.0,5.0
+Singapore,6.0,7.0
+Singapore,7.0,7.0
+Singapore,8.0,10.0
+Singapore,9.0,13.0
+Singapore,10.0,16.0
+Singapore,11.0,18.0
+Singapore,12.0,18.0
+Singapore,13.0,24.0
+Singapore,14.0,28.0
+Singapore,15.0,28.0
+Singapore,16.0,30.0
+Singapore,17.0,33.0
+Singapore,18.0,40.0
+Singapore,19.0,45.0
+Singapore,20.0,47.0
+Singapore,21.0,50.0
+Singapore,22.0,58.0
+Singapore,23.0,67.0
+Singapore,24.0,72.0
+Singapore,25.0,75.0
+Singapore,26.0,77.0
+Singapore,27.0,81.0
+Singapore,28.0,84.0
+Singapore,29.0,84.0
+Singapore,30.0,85.0
+Singapore,31.0,85.0
+Singapore,32.0,89.0
+Singapore,33.0,89.0
+Singapore,34.0,91.0
+Singapore,35.0,93.0
+Singapore,36.0,93.0
+Singapore,37.0,93.0
+Singapore,38.0,102.0
+Singapore,39.0,106.0
+Singapore,40.0,108.0
+Singapore,41.0,110.0
+Singapore,42.0,110.0
+Singapore,43.0,117.0
+Singapore,44.0,130.0
+Singapore,45.0,138.0
+Singapore,46.0,150.0
+Singapore,47.0,150.0
+Singapore,48.0,160.0
+Singapore,49.0,178.0
+Singapore,50.0,178.0
+Singapore,51.0,200.0
+Singapore,52.0,212.0
+Singapore,53.0,226.0
+Singapore,54.0,243.0
+Singapore,55.0,266.0
+Singapore,56.0,313.0
+Singapore,57.0,345.0
+Singapore,58.0,385.0
+Singapore,59.0,432.0
+Singapore,60.0,455.0
+Slovakia,1.0,1.0
+Slovakia,2.0,1.0
+Slovakia,3.0,3.0
+Slovakia,4.0,3.0
+Slovakia,5.0,7.0
+Slovakia,6.0,10.0
+Slovakia,7.0,16.0
+Slovakia,8.0,32.0
+Slovakia,9.0,44.0
+Slovakia,10.0,54.0
+Slovakia,11.0,63.0
+Slovakia,12.0,72.0
+Slovakia,13.0,105.0
+Slovakia,14.0,123.0
+Slovakia,15.0,137.0
+Slovakia,16.0,178.0
+Slovakia,17.0,185.0
+Slovenia,1.0,2.0
+Slovenia,2.0,7.0
+Slovenia,3.0,7.0
+Slovenia,4.0,16.0
+Slovenia,5.0,16.0
+Slovenia,6.0,31.0
+Slovenia,7.0,57.0
+Slovenia,8.0,89.0
+Slovenia,9.0,141.0
+Slovenia,10.0,181.0
+Slovenia,11.0,219.0
+Slovenia,12.0,253.0
+Slovenia,13.0,275.0
+Slovenia,14.0,275.0
+Slovenia,15.0,286.0
+Slovenia,16.0,341.0
+Slovenia,17.0,383.0
+Slovenia,18.0,414.0
+Somalia,1.0,1.0
+Somalia,2.0,1.0
+Somalia,3.0,1.0
+Somalia,4.0,1.0
+Somalia,5.0,1.0
+Somalia,6.0,1.0
+Somalia,7.0,1.0
+South Africa,1.0,1.0
+South Africa,2.0,1.0
+South Africa,3.0,1.0
+South Africa,4.0,3.0
+South Africa,5.0,3.0
+South Africa,6.0,7.0
+South Africa,7.0,13.0
+South Africa,8.0,17.0
+South Africa,9.0,24.0
+South Africa,10.0,38.0
+South Africa,11.0,51.0
+South Africa,12.0,62.0
+South Africa,13.0,62.0
+South Africa,14.0,116.0
+South Africa,15.0,150.0
+South Africa,16.0,202.0
+South Africa,17.0,240.0
+South Africa,18.0,274.0
+Spain,1.0,1.0
+Spain,2.0,1.0
+Spain,3.0,1.0
+Spain,4.0,1.0
+Spain,5.0,1.0
+Spain,6.0,1.0
+Spain,7.0,1.0
+Spain,8.0,1.0
+Spain,9.0,2.0
+Spain,10.0,2.0
+Spain,11.0,2.0
+Spain,12.0,2.0
+Spain,13.0,2.0
+Spain,14.0,2.0
+Spain,15.0,2.0
+Spain,16.0,2.0
+Spain,17.0,2.0
+Spain,18.0,2.0
+Spain,19.0,2.0
+Spain,20.0,2.0
+Spain,21.0,2.0
+Spain,22.0,2.0
+Spain,23.0,2.0
+Spain,24.0,2.0
+Spain,25.0,6.0
+Spain,26.0,13.0
+Spain,27.0,15.0
+Spain,28.0,32.0
+Spain,29.0,45.0
+Spain,30.0,84.0
+Spain,31.0,120.0
+Spain,32.0,165.0
+Spain,33.0,222.0
+Spain,34.0,259.0
+Spain,35.0,400.0
+Spain,36.0,500.0
+Spain,37.0,673.0
+Spain,38.0,1073.0
+Spain,39.0,1695.0
+Spain,40.0,2277.0
+Spain,41.0,2277.0
+Spain,42.0,5232.0
+Spain,43.0,6391.0
+Spain,44.0,7798.0
+Spain,45.0,9942.0
+Spain,46.0,11748.0
+Spain,47.0,13910.0
+Spain,48.0,17963.0
+Spain,49.0,20410.0
+Spain,50.0,25374.0
+Spain,51.0,28768.0
+Sri Lanka,1.0,1.0
+Sri Lanka,2.0,1.0
+Sri Lanka,3.0,1.0
+Sri Lanka,4.0,1.0
+Sri Lanka,5.0,1.0
+Sri Lanka,6.0,1.0
+Sri Lanka,7.0,1.0
+Sri Lanka,8.0,1.0
+Sri Lanka,9.0,1.0
+Sri Lanka,10.0,1.0
+Sri Lanka,11.0,1.0
+Sri Lanka,12.0,1.0
+Sri Lanka,13.0,1.0
+Sri Lanka,14.0,1.0
+Sri Lanka,15.0,1.0
+Sri Lanka,16.0,1.0
+Sri Lanka,17.0,1.0
+Sri Lanka,18.0,1.0
+Sri Lanka,19.0,1.0
+Sri Lanka,20.0,1.0
+Sri Lanka,21.0,1.0
+Sri Lanka,22.0,1.0
+Sri Lanka,23.0,1.0
+Sri Lanka,24.0,1.0
+Sri Lanka,25.0,1.0
+Sri Lanka,26.0,1.0
+Sri Lanka,27.0,1.0
+Sri Lanka,28.0,1.0
+Sri Lanka,29.0,1.0
+Sri Lanka,30.0,1.0
+Sri Lanka,31.0,1.0
+Sri Lanka,32.0,1.0
+Sri Lanka,33.0,1.0
+Sri Lanka,34.0,1.0
+Sri Lanka,35.0,1.0
+Sri Lanka,36.0,1.0
+Sri Lanka,37.0,1.0
+Sri Lanka,38.0,1.0
+Sri Lanka,39.0,1.0
+Sri Lanka,40.0,1.0
+Sri Lanka,41.0,1.0
+Sri Lanka,42.0,1.0
+Sri Lanka,43.0,1.0
+Sri Lanka,44.0,1.0
+Sri Lanka,45.0,2.0
+Sri Lanka,46.0,2.0
+Sri Lanka,47.0,6.0
+Sri Lanka,48.0,10.0
+Sri Lanka,49.0,18.0
+Sri Lanka,50.0,28.0
+Sri Lanka,51.0,44.0
+Sri Lanka,52.0,51.0
+Sri Lanka,53.0,60.0
+Sri Lanka,54.0,73.0
+Sri Lanka,55.0,77.0
+Sri Lanka,56.0,82.0
+Sudan,1.0,1.0
+Sudan,2.0,1.0
+Sudan,3.0,1.0
+Sudan,4.0,1.0
+Sudan,5.0,1.0
+Sudan,6.0,2.0
+Sudan,7.0,2.0
+Sudan,8.0,2.0
+Sudan,9.0,2.0
+Sudan,10.0,2.0
+Suriname,1.0,1.0
+Suriname,2.0,1.0
+Suriname,3.0,1.0
+Suriname,4.0,1.0
+Suriname,5.0,1.0
+Suriname,6.0,1.0
+Suriname,7.0,4.0
+Suriname,8.0,4.0
+Suriname,9.0,5.0
+Sweden,1.0,1.0
+Sweden,2.0,1.0
+Sweden,3.0,1.0
+Sweden,4.0,1.0
+Sweden,5.0,1.0
+Sweden,6.0,1.0
+Sweden,7.0,1.0
+Sweden,8.0,1.0
+Sweden,9.0,1.0
+Sweden,10.0,1.0
+Sweden,11.0,1.0
+Sweden,12.0,1.0
+Sweden,13.0,1.0
+Sweden,14.0,1.0
+Sweden,15.0,1.0
+Sweden,16.0,1.0
+Sweden,17.0,1.0
+Sweden,18.0,1.0
+Sweden,19.0,1.0
+Sweden,20.0,1.0
+Sweden,21.0,1.0
+Sweden,22.0,1.0
+Sweden,23.0,1.0
+Sweden,24.0,1.0
+Sweden,25.0,1.0
+Sweden,26.0,1.0
+Sweden,27.0,2.0
+Sweden,28.0,7.0
+Sweden,29.0,7.0
+Sweden,30.0,12.0
+Sweden,31.0,14.0
+Sweden,32.0,15.0
+Sweden,33.0,21.0
+Sweden,34.0,35.0
+Sweden,35.0,94.0
+Sweden,36.0,101.0
+Sweden,37.0,161.0
+Sweden,38.0,203.0
+Sweden,39.0,248.0
+Sweden,40.0,355.0
+Sweden,41.0,500.0
+Sweden,42.0,599.0
+Sweden,43.0,814.0
+Sweden,44.0,961.0
+Sweden,45.0,1022.0
+Sweden,46.0,1103.0
+Sweden,47.0,1190.0
+Sweden,48.0,1279.0
+Sweden,49.0,1439.0
+Sweden,50.0,1639.0
+Sweden,51.0,1763.0
+Sweden,52.0,1934.0
+Switzerland,1.0,1.0
+Switzerland,2.0,1.0
+Switzerland,3.0,8.0
+Switzerland,4.0,8.0
+Switzerland,5.0,18.0
+Switzerland,6.0,27.0
+Switzerland,7.0,42.0
+Switzerland,8.0,56.0
+Switzerland,9.0,90.0
+Switzerland,10.0,114.0
+Switzerland,11.0,214.0
+Switzerland,12.0,268.0
+Switzerland,13.0,337.0
+Switzerland,14.0,374.0
+Switzerland,15.0,491.0
+Switzerland,16.0,652.0
+Switzerland,17.0,652.0
+Switzerland,18.0,1139.0
+Switzerland,19.0,1359.0
+Switzerland,20.0,2200.0
+Switzerland,21.0,2200.0
+Switzerland,22.0,2700.0
+Switzerland,23.0,3028.0
+Switzerland,24.0,4075.0
+Switzerland,25.0,5294.0
+Switzerland,26.0,6575.0
+Switzerland,27.0,7245.0
+Syria,1.0,1.0
+Taiwan*,1.0,1.0
+Taiwan*,2.0,1.0
+Taiwan*,3.0,3.0
+Taiwan*,4.0,3.0
+Taiwan*,5.0,4.0
+Taiwan*,6.0,5.0
+Taiwan*,7.0,8.0
+Taiwan*,8.0,8.0
+Taiwan*,9.0,9.0
+Taiwan*,10.0,10.0
+Taiwan*,11.0,10.0
+Taiwan*,12.0,10.0
+Taiwan*,13.0,10.0
+Taiwan*,14.0,11.0
+Taiwan*,15.0,11.0
+Taiwan*,16.0,16.0
+Taiwan*,17.0,16.0
+Taiwan*,18.0,17.0
+Taiwan*,19.0,18.0
+Taiwan*,20.0,18.0
+Taiwan*,21.0,18.0
+Taiwan*,22.0,18.0
+Taiwan*,23.0,18.0
+Taiwan*,24.0,18.0
+Taiwan*,25.0,18.0
+Taiwan*,26.0,20.0
+Taiwan*,27.0,22.0
+Taiwan*,28.0,22.0
+Taiwan*,29.0,23.0
+Taiwan*,30.0,24.0
+Taiwan*,31.0,26.0
+Taiwan*,32.0,26.0
+Taiwan*,33.0,28.0
+Taiwan*,34.0,30.0
+Taiwan*,35.0,31.0
+Taiwan*,36.0,32.0
+Taiwan*,37.0,32.0
+Taiwan*,38.0,34.0
+Taiwan*,39.0,39.0
+Taiwan*,40.0,40.0
+Taiwan*,41.0,41.0
+Taiwan*,42.0,42.0
+Taiwan*,43.0,42.0
+Taiwan*,44.0,44.0
+Taiwan*,45.0,45.0
+Taiwan*,46.0,45.0
+Taiwan*,47.0,45.0
+Taiwan*,48.0,45.0
+Taiwan*,49.0,47.0
+Taiwan*,50.0,48.0
+Taiwan*,51.0,49.0
+Taiwan*,52.0,50.0
+Taiwan*,53.0,53.0
+Taiwan*,54.0,59.0
+Taiwan*,55.0,67.0
+Taiwan*,56.0,77.0
+Taiwan*,57.0,100.0
+Taiwan*,58.0,108.0
+Taiwan*,59.0,135.0
+Taiwan*,60.0,153.0
+Taiwan*,61.0,169.0
+Tanzania,1.0,1.0
+Tanzania,2.0,1.0
+Tanzania,3.0,3.0
+Tanzania,4.0,6.0
+Tanzania,5.0,6.0
+Tanzania,6.0,6.0
+Tanzania,7.0,12.0
+Thailand,1.0,2.0
+Thailand,2.0,3.0
+Thailand,3.0,5.0
+Thailand,4.0,7.0
+Thailand,5.0,8.0
+Thailand,6.0,8.0
+Thailand,7.0,14.0
+Thailand,8.0,14.0
+Thailand,9.0,14.0
+Thailand,10.0,19.0
+Thailand,11.0,19.0
+Thailand,12.0,19.0
+Thailand,13.0,19.0
+Thailand,14.0,25.0
+Thailand,15.0,25.0
+Thailand,16.0,25.0
+Thailand,17.0,25.0
+Thailand,18.0,32.0
+Thailand,19.0,32.0
+Thailand,20.0,32.0
+Thailand,21.0,33.0
+Thailand,22.0,33.0
+Thailand,23.0,33.0
+Thailand,24.0,33.0
+Thailand,25.0,33.0
+Thailand,26.0,34.0
+Thailand,27.0,35.0
+Thailand,28.0,35.0
+Thailand,29.0,35.0
+Thailand,30.0,35.0
+Thailand,31.0,35.0
+Thailand,32.0,35.0
+Thailand,33.0,35.0
+Thailand,34.0,35.0
+Thailand,35.0,37.0
+Thailand,36.0,40.0
+Thailand,37.0,40.0
+Thailand,38.0,41.0
+Thailand,39.0,42.0
+Thailand,40.0,42.0
+Thailand,41.0,43.0
+Thailand,42.0,43.0
+Thailand,43.0,43.0
+Thailand,44.0,47.0
+Thailand,45.0,48.0
+Thailand,46.0,50.0
+Thailand,47.0,50.0
+Thailand,48.0,50.0
+Thailand,49.0,53.0
+Thailand,50.0,59.0
+Thailand,51.0,70.0
+Thailand,52.0,75.0
+Thailand,53.0,82.0
+Thailand,54.0,114.0
+Thailand,55.0,147.0
+Thailand,56.0,177.0
+Thailand,57.0,212.0
+Thailand,58.0,272.0
+Thailand,59.0,322.0
+Thailand,60.0,411.0
+Thailand,61.0,599.0
+Timor-Leste,1.0,1.0
+Togo,1.0,1.0
+Togo,2.0,1.0
+Togo,3.0,1.0
+Togo,4.0,1.0
+Togo,5.0,1.0
+Togo,6.0,1.0
+Togo,7.0,1.0
+Togo,8.0,1.0
+Togo,9.0,1.0
+Togo,10.0,1.0
+Togo,11.0,1.0
+Togo,12.0,1.0
+Togo,13.0,1.0
+Togo,14.0,1.0
+Togo,15.0,9.0
+Togo,16.0,16.0
+Togo,17.0,16.0
+Trinidad and Tobago,1.0,2.0
+Trinidad and Tobago,2.0,2.0
+Trinidad and Tobago,3.0,4.0
+Trinidad and Tobago,4.0,5.0
+Trinidad and Tobago,5.0,7.0
+Trinidad and Tobago,6.0,9.0
+Trinidad and Tobago,7.0,9.0
+Trinidad and Tobago,8.0,49.0
+Trinidad and Tobago,9.0,50.0
+Tunisia,1.0,1.0
+Tunisia,2.0,1.0
+Tunisia,3.0,1.0
+Tunisia,4.0,1.0
+Tunisia,5.0,2.0
+Tunisia,6.0,2.0
+Tunisia,7.0,5.0
+Tunisia,8.0,7.0
+Tunisia,9.0,7.0
+Tunisia,10.0,16.0
+Tunisia,11.0,18.0
+Tunisia,12.0,18.0
+Tunisia,13.0,20.0
+Tunisia,14.0,24.0
+Tunisia,15.0,29.0
+Tunisia,16.0,39.0
+Tunisia,17.0,54.0
+Tunisia,18.0,60.0
+Tunisia,19.0,75.0
+Turkey,1.0,1.0
+Turkey,2.0,1.0
+Turkey,3.0,5.0
+Turkey,4.0,5.0
+Turkey,5.0,6.0
+Turkey,6.0,18.0
+Turkey,7.0,47.0
+Turkey,8.0,98.0
+Turkey,9.0,192.0
+Turkey,10.0,359.0
+Turkey,11.0,670.0
+Turkey,12.0,1236.0
+US,1.0,1.0
+US,2.0,1.0
+US,3.0,2.0
+US,4.0,2.0
+US,5.0,5.0
+US,6.0,5.0
+US,7.0,5.0
+US,8.0,5.0
+US,9.0,5.0
+US,10.0,7.0
+US,11.0,8.0
+US,12.0,8.0
+US,13.0,11.0
+US,14.0,11.0
+US,15.0,11.0
+US,16.0,11.0
+US,17.0,11.0
+US,18.0,11.0
+US,19.0,11.0
+US,20.0,11.0
+US,21.0,12.0
+US,22.0,12.0
+US,23.0,13.0
+US,24.0,13.0
+US,25.0,13.0
+US,26.0,13.0
+US,27.0,13.0
+US,28.0,13.0
+US,29.0,13.0
+US,30.0,13.0
+US,31.0,15.0
+US,32.0,15.0
+US,33.0,15.0
+US,34.0,51.0
+US,35.0,51.0
+US,36.0,57.0
+US,37.0,58.0
+US,38.0,60.0
+US,39.0,68.0
+US,40.0,74.0
+US,41.0,98.0
+US,42.0,118.0
+US,43.0,149.0
+US,44.0,217.0
+US,45.0,262.0
+US,46.0,402.0
+US,47.0,518.0
+US,48.0,583.0
+US,49.0,959.0
+US,50.0,1281.0
+US,51.0,1663.0
+US,52.0,2179.0
+US,53.0,2727.0
+US,54.0,3499.0
+US,55.0,4632.0
+US,56.0,6421.0
+US,57.0,7783.0
+US,58.0,13677.0
+US,59.0,19100.0
+US,60.0,25489.0
+US,61.0,33272.0
+Uganda,1.0,1.0
+Uganda,2.0,1.0
+Ukraine,1.0,1.0
+Ukraine,2.0,1.0
+Ukraine,3.0,1.0
+Ukraine,4.0,1.0
+Ukraine,5.0,1.0
+Ukraine,6.0,1.0
+Ukraine,7.0,1.0
+Ukraine,8.0,1.0
+Ukraine,9.0,1.0
+Ukraine,10.0,1.0
+Ukraine,11.0,3.0
+Ukraine,12.0,3.0
+Ukraine,13.0,3.0
+Ukraine,14.0,7.0
+Ukraine,15.0,14.0
+Ukraine,16.0,14.0
+Ukraine,17.0,16.0
+Ukraine,18.0,29.0
+Ukraine,19.0,47.0
+Ukraine,20.0,73.0
+United Arab Emirates,1.0,4.0
+United Arab Emirates,2.0,4.0
+United Arab Emirates,3.0,4.0
+United Arab Emirates,4.0,4.0
+United Arab Emirates,5.0,5.0
+United Arab Emirates,6.0,5.0
+United Arab Emirates,7.0,5.0
+United Arab Emirates,8.0,5.0
+United Arab Emirates,9.0,5.0
+United Arab Emirates,10.0,5.0
+United Arab Emirates,11.0,7.0
+United Arab Emirates,12.0,7.0
+United Arab Emirates,13.0,8.0
+United Arab Emirates,14.0,8.0
+United Arab Emirates,15.0,8.0
+United Arab Emirates,16.0,8.0
+United Arab Emirates,17.0,8.0
+United Arab Emirates,18.0,8.0
+United Arab Emirates,19.0,9.0
+United Arab Emirates,20.0,9.0
+United Arab Emirates,21.0,9.0
+United Arab Emirates,22.0,9.0
+United Arab Emirates,23.0,9.0
+United Arab Emirates,24.0,9.0
+United Arab Emirates,25.0,13.0
+United Arab Emirates,26.0,13.0
+United Arab Emirates,27.0,13.0
+United Arab Emirates,28.0,13.0
+United Arab Emirates,29.0,13.0
+United Arab Emirates,30.0,13.0
+United Arab Emirates,31.0,19.0
+United Arab Emirates,32.0,21.0
+United Arab Emirates,33.0,21.0
+United Arab Emirates,34.0,21.0
+United Arab Emirates,35.0,27.0
+United Arab Emirates,36.0,27.0
+United Arab Emirates,37.0,29.0
+United Arab Emirates,38.0,29.0
+United Arab Emirates,39.0,45.0
+United Arab Emirates,40.0,45.0
+United Arab Emirates,41.0,45.0
+United Arab Emirates,42.0,74.0
+United Arab Emirates,43.0,74.0
+United Arab Emirates,44.0,85.0
+United Arab Emirates,45.0,85.0
+United Arab Emirates,46.0,85.0
+United Arab Emirates,47.0,98.0
+United Arab Emirates,48.0,98.0
+United Arab Emirates,49.0,98.0
+United Arab Emirates,50.0,113.0
+United Arab Emirates,51.0,140.0
+United Arab Emirates,52.0,140.0
+United Arab Emirates,53.0,153.0
+United Arab Emirates,54.0,153.0
+United Kingdom,1.0,2.0
+United Kingdom,2.0,2.0
+United Kingdom,3.0,2.0
+United Kingdom,4.0,2.0
+United Kingdom,5.0,2.0
+United Kingdom,6.0,2.0
+United Kingdom,7.0,2.0
+United Kingdom,8.0,3.0
+United Kingdom,9.0,3.0
+United Kingdom,10.0,3.0
+United Kingdom,11.0,8.0
+United Kingdom,12.0,8.0
+United Kingdom,13.0,9.0
+United Kingdom,14.0,9.0
+United Kingdom,15.0,9.0
+United Kingdom,16.0,9.0
+United Kingdom,17.0,9.0
+United Kingdom,18.0,9.0
+United Kingdom,19.0,9.0
+United Kingdom,20.0,9.0
+United Kingdom,21.0,9.0
+United Kingdom,22.0,9.0
+United Kingdom,23.0,9.0
+United Kingdom,24.0,9.0
+United Kingdom,25.0,13.0
+United Kingdom,26.0,13.0
+United Kingdom,27.0,13.0
+United Kingdom,28.0,15.0
+United Kingdom,29.0,20.0
+United Kingdom,30.0,23.0
+United Kingdom,31.0,36.0
+United Kingdom,32.0,40.0
+United Kingdom,33.0,51.0
+United Kingdom,34.0,86.0
+United Kingdom,35.0,116.0
+United Kingdom,36.0,164.0
+United Kingdom,37.0,207.0
+United Kingdom,38.0,274.0
+United Kingdom,39.0,322.0
+United Kingdom,40.0,384.0
+United Kingdom,41.0,459.0
+United Kingdom,42.0,459.0
+United Kingdom,43.0,802.0
+United Kingdom,44.0,1144.0
+United Kingdom,45.0,1145.0
+United Kingdom,46.0,1551.0
+United Kingdom,47.0,1960.0
+United Kingdom,48.0,2642.0
+United Kingdom,49.0,2716.0
+United Kingdom,50.0,4014.0
+United Kingdom,51.0,5067.0
+United Kingdom,52.0,5741.0
+Uruguay,1.0,4.0
+Uruguay,2.0,4.0
+Uruguay,3.0,8.0
+Uruguay,4.0,29.0
+Uruguay,5.0,50.0
+Uruguay,6.0,79.0
+Uruguay,7.0,94.0
+Uruguay,8.0,110.0
+Uruguay,9.0,135.0
+Uzbekistan,1.0,1.0
+Uzbekistan,2.0,6.0
+Uzbekistan,3.0,10.0
+Uzbekistan,4.0,15.0
+Uzbekistan,5.0,23.0
+Uzbekistan,6.0,33.0
+Uzbekistan,7.0,43.0
+Uzbekistan,8.0,43.0
+Venezuela,1.0,2.0
+Venezuela,2.0,10.0
+Venezuela,3.0,17.0
+Venezuela,4.0,33.0
+Venezuela,5.0,36.0
+Venezuela,6.0,42.0
+Venezuela,7.0,42.0
+Venezuela,8.0,70.0
+Venezuela,9.0,70.0
+Vietnam,1.0,2.0
+Vietnam,2.0,2.0
+Vietnam,3.0,2.0
+Vietnam,4.0,2.0
+Vietnam,5.0,2.0
+Vietnam,6.0,2.0
+Vietnam,7.0,2.0
+Vietnam,8.0,2.0
+Vietnam,9.0,2.0
+Vietnam,10.0,6.0
+Vietnam,11.0,6.0
+Vietnam,12.0,8.0
+Vietnam,13.0,8.0
+Vietnam,14.0,8.0
+Vietnam,15.0,10.0
+Vietnam,16.0,10.0
+Vietnam,17.0,13.0
+Vietnam,18.0,13.0
+Vietnam,19.0,14.0
+Vietnam,20.0,15.0
+Vietnam,21.0,15.0
+Vietnam,22.0,16.0
+Vietnam,23.0,16.0
+Vietnam,24.0,16.0
+Vietnam,25.0,16.0
+Vietnam,26.0,16.0
+Vietnam,27.0,16.0
+Vietnam,28.0,16.0
+Vietnam,29.0,16.0
+Vietnam,30.0,16.0
+Vietnam,31.0,16.0
+Vietnam,32.0,16.0
+Vietnam,33.0,16.0
+Vietnam,34.0,16.0
+Vietnam,35.0,16.0
+Vietnam,36.0,16.0
+Vietnam,37.0,16.0
+Vietnam,38.0,16.0
+Vietnam,39.0,16.0
+Vietnam,40.0,16.0
+Vietnam,41.0,16.0
+Vietnam,42.0,16.0
+Vietnam,43.0,16.0
+Vietnam,44.0,16.0
+Vietnam,45.0,18.0
+Vietnam,46.0,30.0
+Vietnam,47.0,30.0
+Vietnam,48.0,31.0
+Vietnam,49.0,38.0
+Vietnam,50.0,39.0
+Vietnam,51.0,47.0
+Vietnam,52.0,53.0
+Vietnam,53.0,56.0
+Vietnam,54.0,61.0
+Vietnam,55.0,66.0
+Vietnam,56.0,75.0
+Vietnam,57.0,85.0
+Vietnam,58.0,91.0
+Vietnam,59.0,94.0
+Vietnam,60.0,113.0
+Zambia,1.0,2.0
+Zambia,2.0,2.0
+Zambia,3.0,2.0
+Zambia,4.0,2.0
+Zambia,5.0,3.0
+Zimbabwe,1.0,1.0
+Zimbabwe,2.0,3.0
+Zimbabwe,3.0,3.0
