@@ -21,6 +21,7 @@ del df['Date']
 df = df.groupby(['Country', 'day']).sum().groupby(level=0).cumsum()
 df = df.reset_index()
 df.to_csv('data.csv', index=False)
+os.system('git pull')
 os.system('git add .')
 os.system('git commit -m "Auto update"')
 os.system('git push')
