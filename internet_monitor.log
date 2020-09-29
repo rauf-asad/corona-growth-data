@@ -221,3 +221,21 @@ Monitoring Internet Connection commencing : 2020-09-27 09:24:17 polling every 1 
 -------Internet Connection unavailable at : 2020-09-27 21:33:31
 -------Internet Connection restored at    : 2020-09-27 21:33:31
 -------The duration of the downtime was   :             0:00:00
+--------------------------------------------------------------
+--------------------------------------------------------------
+Monitoring Internet Connection commencing : 2020-09-28 09:40:31 polling every 1 second(s)
+-------Internet Connection unavailable at : 2020-09-28 11:24:22
+-------Internet Connection restored at    : 2020-09-28 11:24:31
+-------The duration of the downtime was   :             0:00:08
+-------Internet Connection unavailable at : 2020-09-28 12:29:12
+-------Internet Connection restored at    : 2020-09-28 12:29:13
+-------The duration of the downtime was   :             0:00:00
+-------Internet Connection unavailable at : 2020-09-28 13:08:04
+-------Internet Connection restored at    : 2020-09-28 13:08:04
+-------The duration of the downtime was   :             0:00:00
+-------Internet Connection unavailable at : 2020-09-28 17:46:39
+-------Internet Connection restored at    : 2020-09-28 17:46:40
+-------The duration of the downtime was   :             0:00:00
+-------Internet Connection unavailable at : 2020-09-28 22:21:57
+-------Internet Connection restored at    : 2020-09-28 22:21:58
+-------The duration of the downtime was   :             0:00:00
