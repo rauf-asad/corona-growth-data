@@ -206,3 +206,49 @@ Monitoring Internet Connection commencing : 2020-10-02 07:08:40 polling every 1 
 -------Internet Connection unavailable at : 2020-10-02 20:22:55
 -------Internet Connection restored at    : 2020-10-02 20:22:55
 -------The duration of the downtime was   :             0:00:00
+--------------------------------------------------------------
+--------------------------------------------------------------
+Monitoring Internet Connection commencing : 2020-10-04 11:04:46 polling every 1 second(s)
+-------Internet Connection unavailable at : 2020-10-04 11:18:29
+-------Internet Connection restored at    : 2020-10-04 11:18:30
+-------The duration of the downtime was   :             0:00:01
+-------Internet Connection unavailable at : 2020-10-04 11:34:07
+-------Internet Connection restored at    : 2020-10-04 11:34:08
+-------The duration of the downtime was   :             0:00:01
+-------Internet Connection unavailable at : 2020-10-04 13:29:46
+-------Internet Connection restored at    : 2020-10-04 13:29:49
+-------The duration of the downtime was   :             0:00:02
+-------Internet Connection unavailable at : 2020-10-04 15:50:40
+-------Internet Connection restored at    : 2020-10-04 15:50:42
+-------The duration of the downtime was   :             0:00:02
+-------Internet Connection unavailable at : 2020-10-04 16:17:48
+-------Internet Connection restored at    : 2020-10-04 16:17:50
+-------The duration of the downtime was   :             0:00:01
+-------Internet Connection unavailable at : 2020-10-04 16:30:40
+-------Internet Connection restored at    : 2020-10-04 16:31:09
+-------The duration of the downtime was   :             0:00:28
+-------Internet Connection unavailable at : 2020-10-04 16:46:17
+-------Internet Connection restored at    : 2020-10-04 16:46:17
+-------The duration of the downtime was   :             0:00:00
+-------Internet Connection unavailable at : 2020-10-04 17:12:04
+-------Internet Connection restored at    : 2020-10-04 17:12:32
+-------The duration of the downtime was   :             0:00:27
+-------Internet Connection unavailable at : 2020-10-04 17:12:52
+-----------Internet Connection still unavailable at : 2020-10-04 17:13:59
+-------Internet Connection restored at    : 2020-10-04 17:14:24
+-------The duration of the downtime was   :             0:01:31
+-------Internet Connection unavailable at : 2020-10-04 17:14:54
+-------Internet Connection restored at    : 2020-10-04 17:15:32
+-------The duration of the downtime was   :             0:00:37
+-------Internet Connection unavailable at : 2020-10-04 17:15:33
+-------Internet Connection restored at    : 2020-10-04 17:15:36
+-------The duration of the downtime was   :             0:00:03
+-------Internet Connection unavailable at : 2020-10-04 18:53:05
+-------Internet Connection restored at    : 2020-10-04 18:53:05
+-------The duration of the downtime was   :             0:00:00
+-------Internet Connection unavailable at : 2020-10-04 18:57:47
+-------Internet Connection restored at    : 2020-10-04 18:57:48
+-------The duration of the downtime was   :             0:00:00
+-------Internet Connection unavailable at : 2020-10-04 19:00:53
+-------Internet Connection restored at    : 2020-10-04 19:00:54
+-------The duration of the downtime was   :             0:00:00
