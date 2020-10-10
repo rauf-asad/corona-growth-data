@@ -366,3 +366,15 @@ Monitoring Internet Connection commencing : 2020-10-08 06:15:28 polling every 1 
 -------Internet Connection unavailable at : 2020-10-08 11:50:46
 -------Internet Connection restored at    : 2020-10-08 11:50:47
 -------The duration of the downtime was   :             0:00:00
+--------------------------------------------------------------
+--------------------------------------------------------------
+Monitoring Internet Connection commencing : 2020-10-09 06:26:56 polling every 1 second(s)
+-------Internet Connection unavailable at : 2020-10-09 11:33:57
+-------Internet Connection restored at    : 2020-10-09 11:33:57
+-------The duration of the downtime was   :             0:00:00
+-------Internet Connection unavailable at : 2020-10-09 11:34:42
+-------Internet Connection restored at    : 2020-10-09 11:34:42
+-------The duration of the downtime was   :             0:00:00
+-------Internet Connection unavailable at : 2020-10-09 13:43:21
+-------Internet Connection restored at    : 2020-10-09 13:43:21
+-------The duration of the downtime was   :             0:00:00
