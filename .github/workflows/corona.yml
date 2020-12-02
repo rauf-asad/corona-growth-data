@@ -1,6 +1,9 @@
 name: corona
 
 on:
+  push:
+      branches:
+        - master
   schedule:
     - cron:  '5,10 5-7 * * *'
 
@@ -29,5 +32,3 @@ jobs:
       - name: Execute Python script
         run: |
           python corona_growth_push.py
-
-      
