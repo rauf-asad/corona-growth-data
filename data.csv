@@ -645,6 +645,7 @@ Afghanistan,643.0,157190.0
 Afghanistan,644.0,157218.0
 Afghanistan,645.0,157260.0
 Afghanistan,646.0,157289.0
+Afghanistan,647.0,157359.0
 Albania,1.0,2.0
 Albania,2.0,10.0
 Albania,3.0,12.0
@@ -1277,6 +1278,7 @@ Albania,629.0,199137.0
 Albania,630.0,199555.0
 Albania,631.0,199750.0
 Albania,632.0,199945.0
+Albania,633.0,200173.0
 Algeria,1.0,1.0
 Algeria,2.0,1.0
 Algeria,3.0,1.0
@@ -1922,6 +1924,7 @@ Algeria,642.0,209980.0
 Algeria,643.0,210152.0
 Algeria,644.0,210344.0
 Algeria,645.0,210531.0
+Algeria,646.0,210723.0
 Andorra,1.0,1.0
 Andorra,2.0,1.0
 Andorra,3.0,1.0
@@ -2561,6 +2564,7 @@ Andorra,636.0,16712.0
 Andorra,637.0,16712.0
 Andorra,638.0,16712.0
 Andorra,639.0,17115.0
+Andorra,640.0,17426.0
 Angola,1.0,1.0
 Angola,2.0,2.0
 Angola,3.0,2.0
@@ -3182,6 +3186,7 @@ Angola,618.0,65139.0
 Angola,619.0,65144.0
 Angola,620.0,65155.0
 Angola,621.0,65168.0
+Angola,622.0,65183.0
 Antigua and Barbuda,1.0,1.0
 Antigua and Barbuda,2.0,1.0
 Antigua and Barbuda,3.0,1.0
@@ -3810,6 +3815,7 @@ Antigua and Barbuda,625.0,4141.0
 Antigua and Barbuda,626.0,4141.0
 Antigua and Barbuda,627.0,4141.0
 Antigua and Barbuda,628.0,4141.0
+Antigua and Barbuda,629.0,4141.0
 Argentina,1.0,1.0
 Argentina,2.0,1.0
 Argentina,3.0,1.0
@@ -4448,6 +4454,7 @@ Argentina,635.0,5325560.0
 Argentina,636.0,5326448.0
 Argentina,637.0,5328416.0
 Argentina,638.0,5330748.0
+Argentina,639.0,5332629.0
 Armenia,1.0,1.0
 Armenia,2.0,1.0
 Armenia,3.0,1.0
@@ -5088,6 +5095,7 @@ Armenia,637.0,337522.0
 Armenia,638.0,337931.0
 Armenia,639.0,338120.0
 Armenia,640.0,338518.0
+Armenia,641.0,339020.0
 Australia,1.0,4.0
 Australia,2.0,5.0
 Australia,3.0,5.0
@@ -5763,6 +5771,7 @@ Australia,672.0,207984.0
 Australia,673.0,209139.0
 Australia,674.0,210238.0
 Australia,675.0,211655.0
+Australia,676.0,213357.0
 Austria,1.0,2.0
 Austria,2.0,2.0
 Austria,3.0,3.0
@@ -6408,6 +6417,7 @@ Austria,642.0,1132805.0
 Austria,643.0,1143283.0
 Austria,644.0,1151809.0
 Austria,645.0,1159995.0
+Austria,646.0,1170362.0
 Azerbaijan,1.0,3.0
 Azerbaijan,2.0,3.0
 Azerbaijan,3.0,3.0
@@ -7048,6 +7058,7 @@ Azerbaijan,637.0,584121.0
 Azerbaijan,638.0,585783.0
 Azerbaijan,639.0,586640.0
 Azerbaijan,640.0,588318.0
+Azerbaijan,641.0,590113.0
 Bahamas,1.0,1.0
 Bahamas,2.0,1.0
 Bahamas,3.0,1.0
@@ -7673,6 +7684,7 @@ Bahamas,622.0,22734.0
 Bahamas,623.0,22734.0
 Bahamas,624.0,22763.0
 Bahamas,625.0,22791.0
+Bahamas,626.0,22802.0
 Bahrain,1.0,1.0
 Bahrain,2.0,23.0
 Bahrain,3.0,33.0
@@ -8319,6 +8331,7 @@ Bahrain,643.0,277552.0
 Bahrain,644.0,277585.0
 Bahrain,645.0,277628.0
 Bahrain,646.0,277690.0
+Bahrain,647.0,277721.0
 Bangladesh,1.0,3.0
 Bangladesh,2.0,3.0
 Bangladesh,3.0,3.0
@@ -8952,6 +8965,7 @@ Bangladesh,630.0,1575579.0
 Bangladesh,631.0,1575784.0
 Bangladesh,632.0,1576011.0
 Bangladesh,633.0,1576284.0
+Bangladesh,634.0,1576566.0
 Barbados,1.0,2.0
 Barbados,2.0,2.0
 Barbados,3.0,5.0
@@ -9576,6 +9590,7 @@ Barbados,621.0,24769.0
 Barbados,622.0,24923.0
 Barbados,623.0,25152.0
 Barbados,624.0,25316.0
+Barbados,625.0,25429.0
 Belarus,1.0,1.0
 Belarus,2.0,1.0
 Belarus,3.0,1.0
@@ -10218,6 +10233,7 @@ Belarus,639.0,650168.0
 Belarus,640.0,651839.0
 Belarus,641.0,653323.0
 Belarus,642.0,654718.0
+Belarus,643.0,656510.0
 Belgium,1.0,1.0
 Belgium,2.0,1.0
 Belgium,3.0,1.0
@@ -10884,6 +10900,7 @@ Belgium,663.0,1701633.0
 Belgium,664.0,1701633.0
 Belgium,665.0,1749469.0
 Belgium,666.0,1766035.0
+Belgium,667.0,1786444.0
 Belize,1.0,1.0
 Belize,2.0,1.0
 Belize,3.0,2.0
@@ -11502,6 +11519,7 @@ Belize,615.0,30165.0
 Belize,616.0,30165.0
 Belize,617.0,30338.0
 Belize,618.0,30431.0
+Belize,619.0,30517.0
 Benin,1.0,1.0
 Benin,2.0,1.0
 Benin,3.0,2.0
@@ -12127,6 +12145,7 @@ Benin,622.0,24850.0
 Benin,623.0,24850.0
 Benin,624.0,24850.0
 Benin,625.0,24850.0
+Benin,626.0,24863.0
 Bhutan,1.0,1.0
 Bhutan,2.0,1.0
 Bhutan,3.0,1.0
@@ -12762,6 +12781,7 @@ Bhutan,632.0,2636.0
 Bhutan,633.0,2640.0
 Bhutan,634.0,2640.0
 Bhutan,635.0,2640.0
+Bhutan,636.0,2640.0
 Bolivia,1.0,2.0
 Bolivia,2.0,2.0
 Bolivia,3.0,3.0
@@ -13392,6 +13412,7 @@ Bolivia,627.0,535115.0
 Bolivia,628.0,536472.0
 Bolivia,629.0,536472.0
 Bolivia,630.0,537559.0
+Bolivia,631.0,538647.0
 Bosnia and Herzegovina,1.0,2.0
 Bosnia and Herzegovina,2.0,2.0
 Bosnia and Herzegovina,3.0,3.0
@@ -14028,6 +14049,7 @@ Bosnia and Herzegovina,633.0,272798.0
 Bosnia and Herzegovina,634.0,272798.0
 Bosnia and Herzegovina,635.0,274219.0
 Bosnia and Herzegovina,636.0,275065.0
+Bosnia and Herzegovina,637.0,275965.0
 Botswana,1.0,3.0
 Botswana,2.0,4.0
 Botswana,3.0,4.0
@@ -14639,6 +14661,7 @@ Botswana,608.0,194909.0
 Botswana,609.0,194909.0
 Botswana,610.0,195068.0
 Botswana,611.0,195068.0
+Botswana,612.0,195068.0
 Brazil,1.0,1.0
 Brazil,2.0,1.0
 Brazil,3.0,1.0
@@ -15283,6 +15306,7 @@ Brazil,641.0,22076863.0
 Brazil,642.0,22080906.0
 Brazil,643.0,22084749.0
 Brazil,644.0,22094459.0
+Brazil,645.0,22105872.0
 Brunei,1.0,1.0
 Brunei,2.0,1.0
 Brunei,3.0,11.0
@@ -15915,6 +15939,7 @@ Brunei,629.0,14992.0
 Brunei,630.0,14992.0
 Brunei,631.0,15058.0
 Brunei,632.0,15058.0
+Brunei,633.0,15111.0
 Bulgaria,1.0,4.0
 Bulgaria,2.0,4.0
 Bulgaria,3.0,4.0
@@ -16548,6 +16573,7 @@ Bulgaria,630.0,688628.0
 Bulgaria,631.0,689356.0
 Bulgaria,632.0,692376.0
 Bulgaria,633.0,695057.0
+Bulgaria,634.0,697162.0
 Burkina Faso,1.0,1.0
 Burkina Faso,2.0,2.0
 Burkina Faso,3.0,2.0
@@ -17179,6 +17205,7 @@ Burkina Faso,628.0,15711.0
 Burkina Faso,629.0,15711.0
 Burkina Faso,630.0,15711.0
 Burkina Faso,631.0,16000.0
+Burkina Faso,632.0,16000.0
 Burma,1.0,8.0
 Burma,2.0,8.0
 Burma,3.0,10.0
@@ -17793,6 +17820,7 @@ Burma,611.0,521211.0
 Burma,612.0,521561.0
 Burma,613.0,521931.0
 Burma,614.0,522402.0
+Burma,615.0,522825.0
 Burundi,1.0,2.0
 Burundi,2.0,2.0
 Burundi,3.0,3.0
@@ -18403,6 +18431,7 @@ Burundi,607.0,20386.0
 Burundi,608.0,20386.0
 Burundi,609.0,20415.0
 Burundi,610.0,20415.0
+Burundi,611.0,20432.0
 Cabo Verde,1.0,1.0
 Cabo Verde,2.0,3.0
 Cabo Verde,3.0,3.0
@@ -19024,6 +19053,7 @@ Cabo Verde,618.0,38358.0
 Cabo Verde,619.0,38362.0
 Cabo Verde,620.0,38367.0
 Cabo Verde,621.0,38370.0
+Cabo Verde,622.0,38393.0
 Cambodia,1.0,1.0
 Cambodia,2.0,1.0
 Cambodia,3.0,1.0
@@ -19698,6 +19728,7 @@ Cambodia,671.0,120064.0
 Cambodia,672.0,120087.0
 Cambodia,673.0,120112.0
 Cambodia,674.0,120134.0
+Cambodia,675.0,120160.0
 Cameroon,1.0,1.0
 Cameroon,2.0,1.0
 Cameroon,3.0,2.0
@@ -20333,6 +20364,7 @@ Cameroon,632.0,106794.0
 Cameroon,633.0,106794.0
 Cameroon,634.0,106794.0
 Cameroon,635.0,106794.0
+Cameroon,636.0,107148.0
 Canada,1.0,1.0
 Canada,2.0,1.0
 Canada,3.0,2.0
@@ -21008,6 +21040,7 @@ Canada,672.0,1792561.0
 Canada,673.0,1794286.0
 Canada,674.0,1798515.0
 Canada,675.0,1800867.0
+Canada,676.0,1804094.0
 Central African Republic,1.0,1.0
 Central African Republic,2.0,1.0
 Central African Republic,3.0,1.0
@@ -21634,6 +21667,7 @@ Central African Republic,623.0,11708.0
 Central African Republic,624.0,11708.0
 Central African Republic,625.0,11708.0
 Central African Republic,626.0,11708.0
+Central African Republic,627.0,11708.0
 Chad,1.0,1.0
 Chad,2.0,1.0
 Chad,3.0,1.0
@@ -22256,6 +22290,7 @@ Chad,619.0,5107.0
 Chad,620.0,5107.0
 Chad,621.0,5107.0
 Chad,622.0,5107.0
+Chad,623.0,5107.0
 Chile,1.0,2.0
 Chile,2.0,2.0
 Chile,3.0,2.0
@@ -22903,6 +22938,7 @@ Chile,644.0,1757077.0
 Chile,645.0,1759405.0
 Chile,646.0,1761365.0
 Chile,647.0,1762751.0
+Chile,648.0,1764274.0
 China,1.0,548.0
 China,2.0,643.0
 China,3.0,920.0
@@ -23582,6 +23618,7 @@ China,676.0,111132.0
 China,677.0,111176.0
 China,678.0,111218.0
 China,679.0,111337.0
+China,680.0,111413.0
 Colombia,1.0,1.0
 Colombia,2.0,1.0
 Colombia,3.0,1.0
@@ -24217,6 +24254,7 @@ Colombia,632.0,5063177.0
 Colombia,633.0,5065373.0
 Colombia,634.0,5067348.0
 Colombia,635.0,5069644.0
+Colombia,636.0,5071817.0
 Comoros,1.0,1.0
 Comoros,2.0,1.0
 Comoros,3.0,3.0
@@ -24797,6 +24835,7 @@ Comoros,577.0,4489.0
 Comoros,578.0,4498.0
 Comoros,579.0,4498.0
 Comoros,580.0,4501.0
+Comoros,581.0,4508.0
 Congo (Brazzaville),1.0,1.0
 Congo (Brazzaville),2.0,1.0
 Congo (Brazzaville),3.0,1.0
@@ -25423,6 +25462,7 @@ Congo (Brazzaville),623.0,18837.0
 Congo (Brazzaville),624.0,18837.0
 Congo (Brazzaville),625.0,18905.0
 Congo (Brazzaville),626.0,18970.0
+Congo (Brazzaville),627.0,18970.0
 Congo (Kinshasa),1.0,1.0
 Congo (Kinshasa),2.0,1.0
 Congo (Kinshasa),3.0,2.0
@@ -26053,6 +26093,7 @@ Congo (Kinshasa),627.0,58115.0
 Congo (Kinshasa),628.0,58115.0
 Congo (Kinshasa),629.0,58234.0
 Congo (Kinshasa),630.0,58234.0
+Congo (Kinshasa),631.0,58306.0
 Costa Rica,1.0,1.0
 Costa Rica,2.0,1.0
 Costa Rica,3.0,5.0
@@ -26688,6 +26729,7 @@ Costa Rica,632.0,566560.0
 Costa Rica,633.0,566560.0
 Costa Rica,634.0,566560.0
 Costa Rica,635.0,566839.0
+Costa Rica,636.0,566959.0
 Cote d'Ivoire,1.0,1.0
 Cote d'Ivoire,2.0,1.0
 Cote d'Ivoire,3.0,1.0
@@ -27318,6 +27360,7 @@ Cote d'Ivoire,627.0,61704.0
 Cote d'Ivoire,628.0,61708.0
 Cote d'Ivoire,629.0,61712.0
 Cote d'Ivoire,630.0,61724.0
+Cote d'Ivoire,631.0,61758.0
 Croatia,1.0,1.0
 Croatia,2.0,3.0
 Croatia,3.0,3.0
@@ -27963,6 +28006,7 @@ Croatia,642.0,599977.0
 Croatia,643.0,603316.0
 Croatia,644.0,604347.0
 Croatia,645.0,608205.0
+Croatia,646.0,613914.0
 Cuba,1.0,3.0
 Cuba,2.0,4.0
 Cuba,3.0,4.0
@@ -28592,6 +28636,7 @@ Cuba,626.0,962067.0
 Cuba,627.0,962220.0
 Cuba,628.0,962350.0
 Cuba,629.0,962486.0
+Cuba,630.0,962628.0
 Cyprus,1.0,2.0
 Cyprus,2.0,2.0
 Cyprus,3.0,6.0
@@ -29223,6 +29268,7 @@ Cyprus,628.0,131951.0
 Cyprus,629.0,131951.0
 Cyprus,630.0,133860.0
 Cyprus,631.0,134473.0
+Cyprus,632.0,134965.0
 Czechia,1.0,3.0
 Czechia,2.0,3.0
 Czechia,3.0,5.0
@@ -29863,6 +29909,7 @@ Czechia,637.0,2110274.0
 Czechia,638.0,2132380.0
 Czechia,639.0,2132380.0
 Czechia,640.0,2150042.0
+Czechia,641.0,2172084.0
 Denmark,1.0,1.0
 Denmark,2.0,1.0
 Denmark,3.0,3.0
@@ -30506,6 +30553,7 @@ Denmark,640.0,479377.0
 Denmark,641.0,483764.0
 Denmark,642.0,488262.0
 Denmark,643.0,492483.0
+Denmark,644.0,497665.0
 Diamond Princess,1.0,61.0
 Diamond Princess,2.0,61.0
 Diamond Princess,3.0,64.0
@@ -31169,6 +31217,7 @@ Diamond Princess,660.0,712.0
 Diamond Princess,661.0,712.0
 Diamond Princess,662.0,712.0
 Diamond Princess,663.0,712.0
+Diamond Princess,664.0,712.0
 Djibouti,1.0,1.0
 Djibouti,2.0,1.0
 Djibouti,3.0,1.0
@@ -31792,6 +31841,7 @@ Djibouti,620.0,13504.0
 Djibouti,621.0,13504.0
 Djibouti,622.0,13504.0
 Djibouti,623.0,13504.0
+Djibouti,624.0,13504.0
 Dominica,1.0,1.0
 Dominica,2.0,2.0
 Dominica,3.0,2.0
@@ -32411,6 +32461,7 @@ Dominica,616.0,5819.0
 Dominica,617.0,5955.0
 Dominica,618.0,5955.0
 Dominica,619.0,6028.0
+Dominica,620.0,6028.0
 Dominican Republic,1.0,1.0
 Dominican Republic,2.0,1.0
 Dominican Republic,3.0,1.0
@@ -33051,6 +33102,7 @@ Dominican Republic,637.0,406511.0
 Dominican Republic,638.0,406803.0
 Dominican Republic,639.0,407113.0
 Dominican Republic,640.0,407251.0
+Dominican Republic,641.0,407474.0
 Ecuador,1.0,6.0
 Ecuador,2.0,6.0
 Ecuador,3.0,7.0
@@ -33691,6 +33743,7 @@ Ecuador,637.0,524432.0
 Ecuador,638.0,524432.0
 Ecuador,639.0,526615.0
 Ecuador,640.0,526870.0
+Ecuador,641.0,526870.0
 Egypt,1.0,1.0
 Egypt,2.0,1.0
 Egypt,3.0,1.0
@@ -34347,6 +34400,7 @@ Egypt,653.0,355767.0
 Egypt,654.0,356718.0
 Egypt,655.0,357629.0
 Egypt,656.0,358578.0
+Egypt,657.0,359516.0
 El Salvador,1.0,1.0
 El Salvador,2.0,1.0
 El Salvador,3.0,3.0
@@ -34969,6 +35023,7 @@ El Salvador,619.0,118919.0
 El Salvador,620.0,119803.0
 El Salvador,621.0,119803.0
 El Salvador,622.0,119803.0
+El Salvador,623.0,119803.0
 Equatorial Guinea,1.0,1.0
 Equatorial Guinea,2.0,1.0
 Equatorial Guinea,3.0,1.0
@@ -35595,6 +35650,7 @@ Equatorial Guinea,623.0,13579.0
 Equatorial Guinea,624.0,13579.0
 Equatorial Guinea,625.0,13579.0
 Equatorial Guinea,626.0,13592.0
+Equatorial Guinea,627.0,13592.0
 Eritrea,1.0,1.0
 Eritrea,2.0,1.0
 Eritrea,3.0,1.0
@@ -36215,6 +36271,7 @@ Eritrea,617.0,7305.0
 Eritrea,618.0,7318.0
 Eritrea,619.0,7341.0
 Eritrea,620.0,7358.0
+Eritrea,621.0,7393.0
 Estonia,1.0,1.0
 Estonia,2.0,1.0
 Estonia,3.0,1.0
@@ -36858,6 +36915,7 @@ Estonia,640.0,221160.0
 Estonia,641.0,221549.0
 Estonia,642.0,221860.0
 Estonia,643.0,222584.0
+Estonia,644.0,223171.0
 Eswatini,1.0,1.0
 Eswatini,2.0,1.0
 Eswatini,3.0,1.0
@@ -37485,6 +37543,7 @@ Eswatini,624.0,46528.0
 Eswatini,625.0,46538.0
 Eswatini,626.0,46582.0
 Eswatini,627.0,46656.0
+Eswatini,628.0,46753.0
 Ethiopia,1.0,1.0
 Ethiopia,2.0,1.0
 Ethiopia,3.0,1.0
@@ -38113,6 +38172,7 @@ Ethiopia,625.0,371177.0
 Ethiopia,626.0,371262.0
 Ethiopia,627.0,371346.0
 Ethiopia,628.0,371536.0
+Ethiopia,629.0,371672.0
 Fiji,1.0,1.0
 Fiji,2.0,1.0
 Fiji,3.0,1.0
@@ -38735,6 +38795,7 @@ Fiji,619.0,52494.0
 Fiji,620.0,52494.0
 Fiji,621.0,52506.0
 Fiji,622.0,52506.0
+Fiji,623.0,52532.0
 Finland,1.0,1.0
 Finland,2.0,1.0
 Finland,3.0,1.0
@@ -39407,6 +39468,7 @@ Finland,669.0,182284.0
 Finland,670.0,182284.0
 Finland,671.0,185622.0
 Finland,672.0,186538.0
+Finland,673.0,188108.0
 France,1.0,2.0
 France,2.0,3.0
 France,3.0,3.0
@@ -40080,10 +40142,11 @@ France,670.0,7553513.0
 France,671.0,7586146.0
 France,672.0,7619656.0
 France,673.0,7654128.0
-France,674.0,7654160.0
-France,675.0,7723032.0
+France,674.0,7691217.0
+France,675.0,7722804.0
 France,676.0,7731351.0
 France,677.0,7778575.0
+France,678.0,7829045.0
 Gabon,1.0,1.0
 Gabon,2.0,1.0
 Gabon,3.0,1.0
@@ -40711,6 +40774,7 @@ Gabon,624.0,37298.0
 Gabon,625.0,37298.0
 Gabon,626.0,37342.0
 Gabon,627.0,37342.0
+Gabon,628.0,37342.0
 Gambia,1.0,1.0
 Gambia,2.0,1.0
 Gambia,3.0,1.0
@@ -41335,6 +41399,7 @@ Gambia,621.0,9989.0
 Gambia,622.0,9989.0
 Gambia,623.0,9989.0
 Gambia,624.0,9989.0
+Gambia,625.0,9989.0
 Georgia,1.0,1.0
 Georgia,2.0,1.0
 Georgia,3.0,1.0
@@ -41979,6 +42044,7 @@ Georgia,641.0,835306.0
 Georgia,642.0,838639.0
 Georgia,643.0,840593.0
 Georgia,644.0,845643.0
+Georgia,645.0,850102.0
 Germany,1.0,1.0
 Germany,2.0,4.0
 Germany,3.0,4.0
@@ -42653,6 +42719,7 @@ Germany,671.0,5780814.0
 Germany,672.0,5804139.0
 Germany,673.0,5854884.0
 Germany,674.0,5923564.0
+Germany,675.0,5999020.0
 Ghana,1.0,3.0
 Ghana,2.0,6.0
 Ghana,3.0,6.0
@@ -43280,6 +43347,7 @@ Ghana,624.0,130920.0
 Ghana,625.0,130920.0
 Ghana,626.0,130920.0
 Ghana,627.0,130920.0
+Ghana,628.0,130920.0
 Greece,1.0,1.0
 Greece,2.0,3.0
 Greece,3.0,4.0
@@ -43924,6 +43992,7 @@ Greece,641.0,920683.0
 Greece,642.0,924506.0
 Greece,643.0,931183.0
 Greece,644.0,938903.0
+Greece,645.0,945095.0
 Grenada,1.0,1.0
 Grenada,2.0,1.0
 Grenada,3.0,1.0
@@ -44543,6 +44612,7 @@ Grenada,616.0,5888.0
 Grenada,617.0,5888.0
 Grenada,618.0,5888.0
 Grenada,619.0,5897.0
+Grenada,620.0,5898.0
 Guatemala,1.0,1.0
 Guatemala,2.0,1.0
 Guatemala,3.0,2.0
@@ -45170,6 +45240,7 @@ Guatemala,624.0,617495.0
 Guatemala,625.0,617610.0
 Guatemala,626.0,617621.0
 Guatemala,627.0,617984.0
+Guatemala,628.0,618436.0
 Guinea,1.0,1.0
 Guinea,2.0,1.0
 Guinea,3.0,1.0
@@ -45798,6 +45869,7 @@ Guinea,625.0,30763.0
 Guinea,626.0,30763.0
 Guinea,627.0,30770.0
 Guinea,628.0,30770.0
+Guinea,629.0,30770.0
 Guinea-Bissau,1.0,2.0
 Guinea-Bissau,2.0,2.0
 Guinea-Bissau,3.0,2.0
@@ -46414,6 +46486,7 @@ Guinea-Bissau,613.0,6440.0
 Guinea-Bissau,614.0,6440.0
 Guinea-Bissau,615.0,6440.0
 Guinea-Bissau,616.0,6440.0
+Guinea-Bissau,617.0,6442.0
 Guyana,1.0,1.0
 Guyana,2.0,1.0
 Guyana,3.0,1.0
@@ -47043,6 +47116,7 @@ Guyana,626.0,37707.0
 Guyana,627.0,37773.0
 Guyana,628.0,37825.0
 Guyana,629.0,37874.0
+Guyana,630.0,37951.0
 Haiti,1.0,2.0
 Haiti,2.0,2.0
 Haiti,3.0,2.0
@@ -47664,6 +47738,7 @@ Haiti,618.0,25027.0
 Haiti,619.0,25027.0
 Haiti,620.0,25175.0
 Haiti,621.0,25175.0
+Haiti,622.0,25351.0
 Holy See,1.0,1.0
 Holy See,2.0,1.0
 Holy See,3.0,1.0
@@ -48299,6 +48374,7 @@ Holy See,632.0,27.0
 Holy See,633.0,27.0
 Holy See,634.0,27.0
 Holy See,635.0,27.0
+Holy See,636.0,27.0
 Honduras,1.0,2.0
 Honduras,2.0,2.0
 Honduras,3.0,2.0
@@ -48929,6 +49005,7 @@ Honduras,627.0,377859.0
 Honduras,628.0,377859.0
 Honduras,629.0,377859.0
 Honduras,630.0,377859.0
+Honduras,631.0,377859.0
 Hungary,1.0,2.0
 Hungary,2.0,2.0
 Hungary,3.0,2.0
@@ -49566,6 +49643,7 @@ Hungary,634.0,1068888.0
 Hungary,635.0,1068888.0
 Hungary,636.0,1096718.0
 Hungary,637.0,1103108.0
+Hungary,638.0,1114260.0
 Iceland,1.0,1.0
 Iceland,2.0,1.0
 Iceland,3.0,3.0
@@ -50208,6 +50286,7 @@ Iceland,639.0,17446.0
 Iceland,640.0,17446.0
 Iceland,641.0,17770.0
 Iceland,642.0,17894.0
+Iceland,643.0,18055.0
 India,1.0,1.0
 India,2.0,1.0
 India,3.0,1.0
@@ -50748,7 +50827,7 @@ India,537.0,31174322.0
 India,538.0,31216337.0
 India,539.0,31257720.0
 India,540.0,31293062.0
-India,541.0,31293062.0
+India,541.0,31332159.0
 India,542.0,31371901.0
 India,543.0,31411262.0
 India,544.0,31440951.0
@@ -50878,7 +50957,8 @@ India,667.0,34563749.0
 India,668.0,34572523.0
 India,669.0,34580832.0
 India,670.0,34587822.0
-India,671.0,34587822.0
+India,671.0,34596776.0
+India,672.0,34596776.0
 Indonesia,1.0,2.0
 Indonesia,2.0,2.0
 Indonesia,3.0,2.0
@@ -51518,6 +51598,7 @@ Indonesia,636.0,4255672.0
 Indonesia,637.0,4255936.0
 Indonesia,638.0,4256112.0
 Indonesia,639.0,4256409.0
+Indonesia,640.0,4256687.0
 Iran,1.0,2.0
 Iran,2.0,5.0
 Iran,3.0,18.0
@@ -52169,6 +52250,7 @@ Iran,648.0,6105101.0
 Iran,649.0,6108882.0
 Iran,650.0,6113192.0
 Iran,651.0,6117445.0
+Iran,652.0,6121757.0
 Iraq,1.0,1.0
 Iraq,2.0,1.0
 Iraq,3.0,5.0
@@ -52815,6 +52897,7 @@ Iraq,643.0,2079084.0
 Iraq,644.0,2079622.0
 Iraq,645.0,2080448.0
 Iraq,646.0,2081172.0
+Iraq,647.0,2082061.0
 Ireland,1.0,1.0
 Ireland,2.0,1.0
 Ireland,3.0,1.0
@@ -53456,6 +53539,7 @@ Ireland,638.0,556319.0
 Ireland,639.0,560054.0
 Ireland,640.0,564657.0
 Ireland,641.0,570115.0
+Ireland,642.0,573905.0
 Israel,1.0,1.0
 Israel,2.0,1.0
 Israel,3.0,1.0
@@ -54105,6 +54189,7 @@ Israel,646.0,1341881.0
 Israel,647.0,1342210.0
 Israel,648.0,1342976.0
 Israel,649.0,1343660.0
+Israel,650.0,1344103.0
 Italy,1.0,2.0
 Italy,2.0,2.0
 Italy,3.0,2.0
@@ -54775,6 +54860,7 @@ Italy,667.0,4994891.0
 Italy,668.0,5007818.0
 Italy,669.0,5015790.0
 Italy,670.0,5028547.0
+Italy,671.0,5043620.0
 Jamaica,1.0,1.0
 Jamaica,2.0,2.0
 Jamaica,3.0,8.0
@@ -55405,6 +55491,7 @@ Jamaica,627.0,91122.0
 Jamaica,628.0,91169.0
 Jamaica,629.0,91222.0
 Jamaica,630.0,91249.0
+Jamaica,631.0,91272.0
 Japan,1.0,2.0
 Japan,2.0,2.0
 Japan,3.0,2.0
@@ -56084,6 +56171,7 @@ Japan,676.0,1726419.0
 Japan,677.0,1726479.0
 Japan,678.0,1726555.0
 Japan,679.0,1726636.0
+Japan,680.0,1726751.0
 Jordan,1.0,1.0
 Jordan,2.0,1.0
 Jordan,3.0,1.0
@@ -56722,6 +56810,7 @@ Jordan,635.0,939293.0
 Jordan,636.0,943305.0
 Jordan,637.0,948966.0
 Jordan,638.0,953943.0
+Jordan,639.0,958990.0
 Kazakhstan,1.0,4.0
 Kazakhstan,2.0,6.0
 Kazakhstan,3.0,9.0
@@ -57350,6 +57439,7 @@ Kazakhstan,625.0,1052622.0
 Kazakhstan,626.0,1053427.0
 Kazakhstan,627.0,1054091.0
 Kazakhstan,628.0,1054972.0
+Kazakhstan,629.0,1055779.0
 Kenya,1.0,1.0
 Kenya,2.0,1.0
 Kenya,3.0,3.0
@@ -57978,6 +58068,7 @@ Kenya,625.0,254940.0
 Kenya,626.0,254951.0
 Kenya,627.0,254979.0
 Kenya,628.0,255088.0
+Kenya,629.0,255164.0
 Kiribati,1.0,1.0
 Kiribati,2.0,1.0
 Kiribati,3.0,1.0
@@ -58175,6 +58266,7 @@ Kiribati,194.0,2.0
 Kiribati,195.0,2.0
 Kiribati,196.0,2.0
 Kiribati,197.0,2.0
+Kiribati,198.0,2.0
 "Korea, South",1.0,1.0
 "Korea, South",2.0,1.0
 "Korea, South",3.0,2.0
@@ -58854,6 +58946,7 @@ Kiribati,197.0,2.0
 "Korea, South",677.0,444200.0
 "Korea, South",678.0,447230.0
 "Korea, South",679.0,452350.0
+"Korea, South",680.0,457612.0
 Kosovo,1.0,2.0
 Kosovo,2.0,5.0
 Kosovo,3.0,13.0
@@ -59481,6 +59574,7 @@ Kosovo,624.0,161075.0
 Kosovo,625.0,161081.0
 Kosovo,626.0,161083.0
 Kosovo,627.0,161091.0
+Kosovo,628.0,161099.0
 Kuwait,1.0,1.0
 Kuwait,2.0,11.0
 Kuwait,3.0,26.0
@@ -60127,6 +60221,7 @@ Kuwait,643.0,413266.0
 Kuwait,644.0,413266.0
 Kuwait,645.0,413327.0
 Kuwait,646.0,413362.0
+Kuwait,647.0,413383.0
 Kyrgyzstan,1.0,3.0
 Kyrgyzstan,2.0,3.0
 Kyrgyzstan,3.0,6.0
@@ -60750,6 +60845,7 @@ Kyrgyzstan,620.0,183207.0
 Kyrgyzstan,621.0,183248.0
 Kyrgyzstan,622.0,183285.0
 Kyrgyzstan,623.0,183351.0
+Kyrgyzstan,624.0,183404.0
 Laos,1.0,2.0
 Laos,2.0,3.0
 Laos,3.0,6.0
@@ -61367,6 +61463,7 @@ Laos,614.0,70323.0
 Laos,615.0,71518.0
 Laos,616.0,72447.0
 Laos,617.0,73738.0
+Laos,618.0,75163.0
 Latvia,1.0,1.0
 Latvia,2.0,1.0
 Latvia,3.0,1.0
@@ -62006,6 +62103,7 @@ Latvia,636.0,251925.0
 Latvia,637.0,252413.0
 Latvia,638.0,252728.0
 Latvia,639.0,253659.0
+Latvia,640.0,254690.0
 Lebanon,1.0,1.0
 Lebanon,2.0,1.0
 Lebanon,3.0,1.0
@@ -62655,6 +62753,7 @@ Lebanon,646.0,666768.0
 Lebanon,647.0,668087.0
 Lebanon,648.0,668605.0
 Lebanon,649.0,670656.0
+Lebanon,650.0,672548.0
 Lesotho,1.0,1.0
 Lesotho,2.0,1.0
 Lesotho,3.0,1.0
@@ -63222,6 +63321,7 @@ Lesotho,564.0,21755.0
 Lesotho,565.0,21755.0
 Lesotho,566.0,21768.0
 Lesotho,567.0,21779.0
+Lesotho,568.0,21807.0
 Liberia,1.0,5.0
 Liberia,2.0,6.0
 Liberia,3.0,6.0
@@ -63846,6 +63946,7 @@ Liberia,621.0,5821.0
 Liberia,622.0,5821.0
 Liberia,623.0,5823.0
 Liberia,624.0,5824.0
+Liberia,625.0,5824.0
 Libya,1.0,1.0
 Libya,2.0,1.0
 Libya,3.0,1.0
@@ -64463,6 +64564,7 @@ Libya,614.0,370787.0
 Libya,615.0,371571.0
 Libya,616.0,372209.0
 Libya,617.0,372636.0
+Libya,618.0,373210.0
 Liechtenstein,1.0,1.0
 Liechtenstein,2.0,1.0
 Liechtenstein,3.0,1.0
@@ -65100,6 +65202,7 @@ Liechtenstein,634.0,4477.0
 Liechtenstein,635.0,4507.0
 Liechtenstein,636.0,4562.0
 Liechtenstein,637.0,4678.0
+Liechtenstein,638.0,4745.0
 Lithuania,1.0,1.0
 Lithuania,2.0,1.0
 Lithuania,3.0,1.0
@@ -65741,6 +65844,7 @@ Lithuania,638.0,466608.0
 Lithuania,639.0,467900.0
 Lithuania,640.0,468494.0
 Lithuania,641.0,470298.0
+Lithuania,642.0,472239.0
 Luxembourg,1.0,1.0
 Luxembourg,2.0,1.0
 Luxembourg,3.0,1.0
@@ -66382,6 +66486,7 @@ Luxembourg,638.0,88108.0
 Luxembourg,639.0,88108.0
 Luxembourg,640.0,89010.0
 Luxembourg,641.0,89181.0
+Luxembourg,642.0,89766.0
 MS Zaandam,1.0,2.0
 MS Zaandam,2.0,2.0
 MS Zaandam,3.0,2.0
@@ -66995,6 +67100,7 @@ MS Zaandam,610.0,9.0
 MS Zaandam,611.0,9.0
 MS Zaandam,612.0,9.0
 MS Zaandam,613.0,9.0
+MS Zaandam,614.0,9.0
 Madagascar,1.0,3.0
 Madagascar,2.0,3.0
 Madagascar,3.0,3.0
@@ -67616,6 +67722,7 @@ Madagascar,618.0,44072.0
 Madagascar,619.0,44072.0
 Madagascar,620.0,44330.0
 Madagascar,621.0,44330.0
+Madagascar,622.0,44330.0
 Malawi,1.0,3.0
 Malawi,2.0,3.0
 Malawi,3.0,4.0
@@ -68224,6 +68331,7 @@ Malawi,605.0,61889.0
 Malawi,606.0,61897.0
 Malawi,607.0,61901.0
 Malawi,608.0,61916.0
+Malawi,609.0,61926.0
 Malaysia,1.0,4.0
 Malaysia,2.0,4.0
 Malaysia,3.0,4.0
@@ -68900,6 +69008,7 @@ Malaysia,673.0,2619577.0
 Malaysia,674.0,2623816.0
 Malaysia,675.0,2627903.0
 Malaysia,676.0,2632782.0
+Malaysia,677.0,2638221.0
 Maldives,1.0,4.0
 Maldives,2.0,4.0
 Maldives,3.0,6.0
@@ -69533,6 +69642,7 @@ Maldives,630.0,91350.0
 Maldives,631.0,91464.0
 Maldives,632.0,91543.0
 Maldives,633.0,91650.0
+Maldives,634.0,91750.0
 Mali,1.0,2.0
 Mali,2.0,4.0
 Mali,3.0,11.0
@@ -70149,6 +70259,7 @@ Mali,613.0,17300.0
 Mali,614.0,17339.0
 Mali,615.0,17364.0
 Mali,616.0,17434.0
+Mali,617.0,17500.0
 Malta,1.0,3.0
 Malta,2.0,3.0
 Malta,3.0,3.0
@@ -70783,6 +70894,7 @@ Malta,631.0,39162.0
 Malta,632.0,39234.0
 Malta,633.0,39329.0
 Malta,634.0,39435.0
+Malta,635.0,39530.0
 Marshall Islands,1.0,2.0
 Marshall Islands,2.0,2.0
 Marshall Islands,3.0,2.0
@@ -71182,6 +71294,7 @@ Marshall Islands,396.0,4.0
 Marshall Islands,397.0,4.0
 Marshall Islands,398.0,4.0
 Marshall Islands,399.0,4.0
+Marshall Islands,400.0,4.0
 Mauritania,1.0,1.0
 Mauritania,2.0,1.0
 Mauritania,3.0,1.0
@@ -71809,6 +71922,7 @@ Mauritania,624.0,39115.0
 Mauritania,625.0,39178.0
 Mauritania,626.0,39213.0
 Mauritania,627.0,39266.0
+Mauritania,628.0,39339.0
 Mauritius,1.0,3.0
 Mauritius,2.0,3.0
 Mauritius,3.0,12.0
@@ -72432,6 +72546,7 @@ Mauritius,620.0,21040.0
 Mauritius,621.0,21040.0
 Mauritius,622.0,21040.0
 Mauritius,623.0,21040.0
+Mauritius,624.0,21040.0
 Mexico,1.0,1.0
 Mexico,2.0,4.0
 Mexico,3.0,5.0
@@ -73074,6 +73189,7 @@ Mexico,639.0,3879836.0
 Mexico,640.0,3882792.0
 Mexico,641.0,3884566.0
 Mexico,642.0,3884566.0
+Mexico,643.0,3891218.0
 Micronesia,1.0,1.0
 Micronesia,2.0,1.0
 Micronesia,3.0,1.0
@@ -73388,6 +73504,7 @@ Micronesia,311.0,1.0
 Micronesia,312.0,1.0
 Micronesia,313.0,1.0
 Micronesia,314.0,1.0
+Micronesia,315.0,1.0
 Moldova,1.0,1.0
 Moldova,2.0,1.0
 Moldova,3.0,3.0
@@ -74021,6 +74138,7 @@ Moldova,630.0,362326.0
 Moldova,631.0,362433.0
 Moldova,632.0,363110.0
 Moldova,633.0,363774.0
+Moldova,634.0,364433.0
 Monaco,1.0,1.0
 Monaco,2.0,1.0
 Monaco,3.0,1.0
@@ -74662,6 +74780,7 @@ Monaco,638.0,3705.0
 Monaco,639.0,3705.0
 Monaco,640.0,3738.0
 Monaco,641.0,3738.0
+Monaco,642.0,3797.0
 Mongolia,1.0,1.0
 Mongolia,2.0,1.0
 Mongolia,3.0,1.0
@@ -75293,6 +75412,7 @@ Mongolia,628.0,380945.0
 Mongolia,629.0,380945.0
 Mongolia,630.0,381528.0
 Mongolia,631.0,382082.0
+Mongolia,632.0,382523.0
 Montenegro,1.0,2.0
 Montenegro,2.0,2.0
 Montenegro,3.0,3.0
@@ -75917,6 +76037,7 @@ Montenegro,621.0,156608.0
 Montenegro,622.0,156873.0
 Montenegro,623.0,157085.0
 Montenegro,624.0,157376.0
+Montenegro,625.0,157611.0
 Morocco,1.0,1.0
 Morocco,2.0,1.0
 Morocco,3.0,1.0
@@ -76556,6 +76677,7 @@ Morocco,636.0,949648.0
 Morocco,637.0,949732.0
 Morocco,638.0,949785.0
 Morocco,639.0,949917.0
+Morocco,640.0,950088.0
 Mozambique,1.0,1.0
 Mozambique,2.0,1.0
 Mozambique,3.0,3.0
@@ -77175,6 +77297,7 @@ Mozambique,616.0,151515.0
 Mozambique,617.0,151524.0
 Mozambique,618.0,151528.0
 Mozambique,619.0,151548.0
+Mozambique,620.0,151594.0
 Namibia,1.0,2.0
 Namibia,2.0,2.0
 Namibia,3.0,2.0
@@ -77802,6 +77925,7 @@ Namibia,624.0,129160.0
 Namibia,625.0,129180.0
 Namibia,626.0,129180.0
 Namibia,627.0,129187.0
+Namibia,628.0,129243.0
 Nepal,1.0,1.0
 Nepal,2.0,1.0
 Nepal,3.0,1.0
@@ -78478,6 +78602,7 @@ Nepal,673.0,820724.0
 Nepal,674.0,820878.0
 Nepal,675.0,821121.0
 Nepal,676.0,821366.0
+Nepal,677.0,821651.0
 Netherlands,1.0,1.0
 Netherlands,2.0,1.0
 Netherlands,3.0,6.0
@@ -79121,6 +79246,7 @@ Netherlands,640.0,2618592.0
 Netherlands,641.0,2640764.0
 Netherlands,642.0,2662247.0
 Netherlands,643.0,2684457.0
+Netherlands,644.0,2703052.0
 New Zealand,1.0,1.0
 New Zealand,2.0,1.0
 New Zealand,3.0,1.0
@@ -79763,6 +79889,7 @@ New Zealand,639.0,11261.0
 New Zealand,640.0,11445.0
 New Zealand,641.0,11577.0
 New Zealand,642.0,11724.0
+New Zealand,643.0,11896.0
 Nicaragua,1.0,1.0
 Nicaragua,2.0,1.0
 Nicaragua,3.0,2.0
@@ -80385,6 +80512,7 @@ Nicaragua,619.0,17152.0
 Nicaragua,620.0,17152.0
 Nicaragua,621.0,17152.0
 Nicaragua,622.0,17254.0
+Nicaragua,623.0,17254.0
 Niger,1.0,1.0
 Niger,2.0,1.0
 Niger,3.0,2.0
@@ -81006,6 +81134,7 @@ Niger,618.0,6958.0
 Niger,619.0,6958.0
 Niger,620.0,6989.0
 Niger,621.0,7007.0
+Niger,622.0,7007.0
 Nigeria,1.0,1.0
 Nigeria,2.0,1.0
 Nigeria,3.0,1.0
@@ -81648,6 +81777,7 @@ Nigeria,639.0,213924.0
 Nigeria,640.0,213982.0
 Nigeria,641.0,214113.0
 Nigeria,642.0,214218.0
+Nigeria,643.0,214270.0
 North Macedonia,1.0,1.0
 North Macedonia,2.0,1.0
 North Macedonia,3.0,1.0
@@ -82292,6 +82422,7 @@ North Macedonia,641.0,214676.0
 North Macedonia,642.0,215009.0
 North Macedonia,643.0,215125.0
 North Macedonia,644.0,215585.0
+North Macedonia,645.0,215995.0
 Norway,1.0,1.0
 Norway,2.0,1.0
 Norway,3.0,6.0
@@ -82936,6 +83067,7 @@ Norway,641.0,259200.0
 Norway,642.0,260921.0
 Norway,643.0,263798.0
 Norway,644.0,267843.0
+Norway,645.0,271623.0
 Oman,1.0,2.0
 Oman,2.0,2.0
 Oman,3.0,4.0
@@ -83582,6 +83714,7 @@ Oman,643.0,304519.0
 Oman,644.0,304519.0
 Oman,645.0,304519.0
 Oman,646.0,304554.0
+Oman,647.0,304572.0
 Pakistan,1.0,2.0
 Pakistan,2.0,2.0
 Pakistan,3.0,2.0
@@ -84227,6 +84360,7 @@ Pakistan,642.0,1284189.0
 Pakistan,643.0,1284365.0
 Pakistan,644.0,1284840.0
 Pakistan,645.0,1285254.0
+Pakistan,646.0,1285631.0
 Palau,1.0,1.0
 Palau,2.0,1.0
 Palau,3.0,2.0
@@ -84328,6 +84462,7 @@ Palau,98.0,8.0
 Palau,99.0,8.0
 Palau,100.0,8.0
 Palau,101.0,8.0
+Palau,102.0,8.0
 Panama,1.0,1.0
 Panama,2.0,8.0
 Panama,3.0,11.0
@@ -84959,6 +85094,7 @@ Panama,628.0,477306.0
 Panama,629.0,477306.0
 Panama,630.0,477514.0
 Panama,631.0,477742.0
+Panama,632.0,477990.0
 Papua New Guinea,1.0,1.0
 Papua New Guinea,2.0,1.0
 Papua New Guinea,3.0,1.0
@@ -85580,6 +85716,7 @@ Papua New Guinea,618.0,34906.0
 Papua New Guinea,619.0,35029.0
 Papua New Guinea,620.0,35090.0
 Papua New Guinea,621.0,35179.0
+Papua New Guinea,622.0,35237.0
 Paraguay,1.0,1.0
 Paraguay,2.0,1.0
 Paraguay,3.0,5.0
@@ -86213,6 +86350,7 @@ Paraguay,630.0,462605.0
 Paraguay,631.0,462605.0
 Paraguay,632.0,463001.0
 Paraguay,633.0,463058.0
+Paraguay,634.0,463121.0
 Peru,1.0,1.0
 Peru,2.0,1.0
 Peru,3.0,6.0
@@ -86848,6 +86986,7 @@ Peru,632.0,2232749.0
 Peru,633.0,2234075.0
 Peru,634.0,2234970.0
 Peru,635.0,2236351.0
+Peru,636.0,2236351.0
 Philippines,1.0,1.0
 Philippines,2.0,1.0
 Philippines,3.0,1.0
@@ -87519,6 +87658,7 @@ Philippines,668.0,2831177.0
 Philippines,669.0,2831807.0
 Philippines,670.0,2832375.0
 Philippines,671.0,2832734.0
+Philippines,672.0,2833038.0
 Poland,1.0,1.0
 Poland,2.0,1.0
 Poland,3.0,5.0
@@ -88156,6 +88296,7 @@ Poland,634.0,3487254.0
 Poland,635.0,3507828.0
 Poland,636.0,3520961.0
 Poland,637.0,3540061.0
+Poland,638.0,3569137.0
 Portugal,1.0,2.0
 Portugal,2.0,2.0
 Portugal,3.0,5.0
@@ -88795,6 +88936,7 @@ Portugal,636.0,1139810.0
 Portugal,637.0,1142707.0
 Portugal,638.0,1144342.0
 Portugal,639.0,1147249.0
+Portugal,640.0,1151919.0
 Qatar,1.0,1.0
 Qatar,2.0,3.0
 Qatar,3.0,3.0
@@ -89436,6 +89578,7 @@ Qatar,638.0,242979.0
 Qatar,639.0,243132.0
 Qatar,640.0,243290.0
 Qatar,641.0,243447.0
+Qatar,642.0,243607.0
 Romania,1.0,1.0
 Romania,2.0,1.0
 Romania,3.0,3.0
@@ -90080,6 +90223,7 @@ Romania,641.0,1775572.0
 Romania,642.0,1776949.0
 Romania,643.0,1778045.0
 Romania,644.0,1779667.0
+Romania,645.0,1780808.0
 Russia,1.0,2.0
 Russia,2.0,2.0
 Russia,3.0,2.0
@@ -90750,6 +90894,7 @@ Russia,667.0,9370694.0
 Russia,668.0,9403480.0
 Russia,669.0,9436650.0
 Russia,670.0,9468640.0
+Russia,671.0,9500836.0
 Rwanda,1.0,1.0
 Rwanda,2.0,1.0
 Rwanda,3.0,5.0
@@ -91377,6 +91522,7 @@ Rwanda,624.0,100325.0
 Rwanda,625.0,100330.0
 Rwanda,626.0,100344.0
 Rwanda,627.0,100349.0
+Rwanda,628.0,100362.0
 Saint Kitts and Nevis,1.0,2.0
 Saint Kitts and Nevis,2.0,2.0
 Saint Kitts and Nevis,3.0,2.0
@@ -91993,6 +92139,7 @@ Saint Kitts and Nevis,613.0,2779.0
 Saint Kitts and Nevis,614.0,2782.0
 Saint Kitts and Nevis,615.0,2782.0
 Saint Kitts and Nevis,616.0,2786.0
+Saint Kitts and Nevis,617.0,2786.0
 Saint Lucia,1.0,1.0
 Saint Lucia,2.0,2.0
 Saint Lucia,3.0,2.0
@@ -92620,6 +92767,7 @@ Saint Lucia,624.0,12954.0
 Saint Lucia,625.0,12977.0
 Saint Lucia,626.0,12989.0
 Saint Lucia,627.0,13000.0
+Saint Lucia,628.0,13017.0
 Saint Vincent and the Grenadines,1.0,1.0
 Saint Vincent and the Grenadines,2.0,1.0
 Saint Vincent and the Grenadines,3.0,1.0
@@ -93247,6 +93395,7 @@ Saint Vincent and the Grenadines,624.0,5500.0
 Saint Vincent and the Grenadines,625.0,5500.0
 Saint Vincent and the Grenadines,626.0,5525.0
 Saint Vincent and the Grenadines,627.0,5525.0
+Saint Vincent and the Grenadines,628.0,5562.0
 Samoa,1.0,1.0
 Samoa,2.0,1.0
 Samoa,3.0,1.0
@@ -93625,6 +93774,7 @@ Samoa,375.0,3.0
 Samoa,376.0,3.0
 Samoa,377.0,3.0
 Samoa,378.0,3.0
+Samoa,379.0,3.0
 San Marino,1.0,1.0
 San Marino,2.0,1.0
 San Marino,3.0,1.0
@@ -94266,6 +94416,7 @@ San Marino,638.0,5930.0
 San Marino,639.0,5930.0
 San Marino,640.0,5979.0
 San Marino,641.0,6039.0
+San Marino,642.0,6084.0
 Sao Tome and Principe,1.0,4.0
 Sao Tome and Principe,2.0,4.0
 Sao Tome and Principe,3.0,4.0
@@ -94870,6 +95021,7 @@ Sao Tome and Principe,601.0,3731.0
 Sao Tome and Principe,602.0,3731.0
 Sao Tome and Principe,603.0,3731.0
 Sao Tome and Principe,604.0,3731.0
+Sao Tome and Principe,605.0,3731.0
 Saudi Arabia,1.0,1.0
 Saudi Arabia,2.0,1.0
 Saudi Arabia,3.0,1.0
@@ -95509,6 +95661,7 @@ Saudi Arabia,636.0,549671.0
 Saudi Arabia,637.0,549695.0
 Saudi Arabia,638.0,549720.0
 Saudi Arabia,639.0,549752.0
+Saudi Arabia,640.0,549786.0
 Senegal,1.0,1.0
 Senegal,2.0,2.0
 Senegal,3.0,4.0
@@ -96148,6 +96301,7 @@ Senegal,636.0,73981.0
 Senegal,637.0,73985.0
 Senegal,638.0,73987.0
 Senegal,639.0,73987.0
+Senegal,640.0,73990.0
 Serbia,1.0,1.0
 Serbia,2.0,1.0
 Serbia,3.0,1.0
@@ -96783,6 +96937,7 @@ Serbia,632.0,1248719.0
 Serbia,633.0,1250393.0
 Serbia,634.0,1252573.0
 Serbia,635.0,1254845.0
+Serbia,636.0,1257025.0
 Seychelles,1.0,6.0
 Seychelles,2.0,8.0
 Seychelles,3.0,8.0
@@ -97409,6 +97564,7 @@ Seychelles,623.0,23197.0
 Seychelles,624.0,23197.0
 Seychelles,625.0,23390.0
 Seychelles,626.0,23417.0
+Seychelles,627.0,23537.0
 Sierra Leone,1.0,1.0
 Sierra Leone,2.0,2.0
 Sierra Leone,3.0,2.0
@@ -98019,6 +98175,7 @@ Sierra Leone,607.0,6401.0
 Sierra Leone,608.0,6401.0
 Sierra Leone,609.0,6402.0
 Sierra Leone,610.0,6402.0
+Sierra Leone,611.0,6402.0
 Singapore,1.0,1.0
 Singapore,2.0,3.0
 Singapore,3.0,3.0
@@ -98697,6 +98854,7 @@ Singapore,675.0,261636.0
 Singapore,676.0,262383.0
 Singapore,677.0,263486.0
 Singapore,678.0,264725.0
+Singapore,679.0,266049.0
 Slovakia,1.0,1.0
 Slovakia,2.0,1.0
 Slovakia,3.0,3.0
@@ -99332,6 +99490,7 @@ Slovakia,632.0,1143068.0
 Slovakia,633.0,1152125.0
 Slovakia,634.0,1159767.0
 Slovakia,635.0,1170200.0
+Slovakia,636.0,1182562.0
 Slovenia,1.0,2.0
 Slovenia,2.0,7.0
 Slovenia,3.0,7.0
@@ -99968,6 +100127,7 @@ Slovenia,633.0,415898.0
 Slovenia,634.0,417376.0
 Slovenia,635.0,418413.0
 Slovenia,636.0,420898.0
+Slovenia,637.0,423162.0
 Solomon Islands,1.0,2.0
 Solomon Islands,2.0,2.0
 Solomon Islands,3.0,2.0
@@ -100383,6 +100543,7 @@ Solomon Islands,412.0,20.0
 Solomon Islands,413.0,20.0
 Solomon Islands,414.0,20.0
 Solomon Islands,415.0,20.0
+Solomon Islands,416.0,20.0
 Somalia,1.0,1.0
 Somalia,2.0,1.0
 Somalia,3.0,1.0
@@ -101008,6 +101169,7 @@ Somalia,622.0,23016.0
 Somalia,623.0,23016.0
 Somalia,624.0,23016.0
 Somalia,625.0,23016.0
+Somalia,626.0,23016.0
 South Africa,1.0,1.0
 South Africa,2.0,1.0
 South Africa,3.0,1.0
@@ -101644,6 +101806,7 @@ South Africa,633.0,2958548.0
 South Africa,634.0,2961406.0
 South Africa,635.0,2963679.0
 South Africa,636.0,2968052.0
+South Africa,637.0,2976613.0
 South Sudan,1.0,1.0
 South Sudan,2.0,1.0
 South Sudan,3.0,2.0
@@ -102249,6 +102412,7 @@ South Sudan,602.0,12717.0
 South Sudan,603.0,12717.0
 South Sudan,604.0,12755.0
 South Sudan,605.0,12758.0
+South Sudan,606.0,12777.0
 Spain,1.0,1.0
 Spain,2.0,1.0
 Spain,3.0,1.0
@@ -102918,6 +103082,7 @@ Spain,666.0,5131012.0
 Spain,667.0,5131012.0
 Spain,668.0,5153923.0
 Spain,669.0,5164184.0
+Spain,670.0,5174720.0
 Sri Lanka,1.0,1.0
 Sri Lanka,2.0,1.0
 Sri Lanka,3.0,1.0
@@ -103592,6 +103757,7 @@ Sri Lanka,671.0,561778.0
 Sri Lanka,672.0,562520.0
 Sri Lanka,673.0,563267.0
 Sri Lanka,674.0,563989.0
+Sri Lanka,675.0,564733.0
 Sudan,1.0,1.0
 Sudan,2.0,1.0
 Sudan,3.0,1.0
@@ -104219,6 +104385,7 @@ Sudan,624.0,42056.0
 Sudan,625.0,42056.0
 Sudan,626.0,42826.0
 Sudan,627.0,43084.0
+Sudan,628.0,43229.0
 Summer Olympics 2020,1.0,1.0
 Summer Olympics 2020,2.0,1.0
 Summer Olympics 2020,3.0,1.0
@@ -104384,6 +104551,7 @@ Summer Olympics 2020,162.0,865.0
 Summer Olympics 2020,163.0,865.0
 Summer Olympics 2020,164.0,865.0
 Summer Olympics 2020,165.0,865.0
+Summer Olympics 2020,166.0,865.0
 Suriname,1.0,1.0
 Suriname,2.0,1.0
 Suriname,3.0,1.0
@@ -105011,6 +105179,7 @@ Suriname,624.0,50741.0
 Suriname,625.0,50760.0
 Suriname,626.0,50823.0
 Suriname,627.0,50848.0
+Suriname,628.0,50882.0
 Sweden,1.0,1.0
 Sweden,2.0,1.0
 Sweden,3.0,1.0
@@ -105680,6 +105849,7 @@ Sweden,666.0,1198848.0
 Sweden,667.0,1198848.0
 Sweden,668.0,1198848.0
 Sweden,669.0,1204859.0
+Sweden,670.0,1207498.0
 Switzerland,1.0,1.0
 Switzerland,2.0,1.0
 Switzerland,3.0,8.0
@@ -106325,6 +106495,7 @@ Switzerland,642.0,986834.0
 Switzerland,643.0,986834.0
 Switzerland,644.0,1006239.0
 Switzerland,645.0,1014662.0
+Switzerland,646.0,1025129.0
 Syria,1.0,1.0
 Syria,2.0,1.0
 Syria,3.0,1.0
@@ -106944,6 +107115,7 @@ Syria,616.0,47764.0
 Syria,617.0,47965.0
 Syria,618.0,48068.0
 Syria,619.0,48170.0
+Syria,620.0,48267.0
 Taiwan*,1.0,1.0
 Taiwan*,2.0,1.0
 Taiwan*,3.0,3.0
@@ -107623,6 +107795,7 @@ Taiwan*,676.0,16578.0
 Taiwan*,677.0,16588.0
 Taiwan*,678.0,16596.0
 Taiwan*,679.0,16601.0
+Taiwan*,680.0,16609.0
 Tajikistan,1.0,15.0
 Tajikistan,2.0,32.0
 Tajikistan,3.0,76.0
@@ -108202,6 +108375,7 @@ Tajikistan,576.0,17493.0
 Tajikistan,577.0,17493.0
 Tajikistan,578.0,17493.0
 Tajikistan,579.0,17493.0
+Tajikistan,580.0,17493.0
 Tanzania,1.0,1.0
 Tanzania,2.0,1.0
 Tanzania,3.0,3.0
@@ -108827,6 +109001,7 @@ Tanzania,622.0,26261.0
 Tanzania,623.0,26261.0
 Tanzania,624.0,26261.0
 Tanzania,625.0,26270.0
+Tanzania,626.0,26270.0
 Thailand,1.0,4.0
 Thailand,2.0,4.0
 Thailand,3.0,5.0
@@ -109506,6 +109681,7 @@ Thailand,676.0,2100959.0
 Thailand,677.0,2106813.0
 Thailand,678.0,2111566.0
 Thailand,679.0,2115872.0
+Thailand,680.0,2120758.0
 Timor-Leste,1.0,1.0
 Timor-Leste,2.0,1.0
 Timor-Leste,3.0,1.0
@@ -110125,6 +110301,7 @@ Timor-Leste,616.0,19822.0
 Timor-Leste,617.0,19822.0
 Timor-Leste,618.0,19822.0
 Timor-Leste,619.0,19823.0
+Timor-Leste,620.0,19825.0
 Togo,1.0,1.0
 Togo,2.0,1.0
 Togo,3.0,1.0
@@ -110760,6 +110937,7 @@ Togo,632.0,26241.0
 Togo,633.0,26241.0
 Togo,634.0,26250.0
 Togo,635.0,26265.0
+Togo,636.0,26273.0
 Tonga,1.0,1.0
 Tonga,2.0,1.0
 Tonga,3.0,1.0
@@ -110793,6 +110971,7 @@ Tonga,30.0,1.0
 Tonga,31.0,1.0
 Tonga,32.0,1.0
 Tonga,33.0,1.0
+Tonga,34.0,1.0
 Trinidad and Tobago,1.0,2.0
 Trinidad and Tobago,2.0,2.0
 Trinidad and Tobago,3.0,4.0
@@ -111420,6 +111599,7 @@ Trinidad and Tobago,624.0,69680.0
 Trinidad and Tobago,625.0,70136.0
 Trinidad and Tobago,626.0,70598.0
 Trinidad and Tobago,627.0,71361.0
+Trinidad and Tobago,628.0,72019.0
 Tunisia,1.0,1.0
 Tunisia,2.0,1.0
 Tunisia,3.0,1.0
@@ -112057,6 +112237,7 @@ Tunisia,634.0,717163.0
 Tunisia,635.0,717258.0
 Tunisia,636.0,717309.0
 Tunisia,637.0,717572.0
+Tunisia,638.0,717710.0
 Turkey,1.0,1.0
 Turkey,2.0,1.0
 Turkey,3.0,5.0
@@ -112687,6 +112868,7 @@ Turkey,627.0,8726370.0
 Turkey,628.0,8748025.0
 Turkey,629.0,8772342.0
 Turkey,630.0,8797558.0
+Turkey,631.0,8820114.0
 US,1.0,1.0
 US,2.0,1.0
 US,3.0,2.0
@@ -113366,6 +113548,7 @@ US,676.0,48201079.0
 US,677.0,48229210.0
 US,678.0,48438302.0
 US,679.0,48554890.0
+US,680.0,48692483.0
 Uganda,1.0,1.0
 Uganda,2.0,1.0
 Uganda,3.0,9.0
@@ -113986,6 +114169,7 @@ Uganda,617.0,127423.0
 Uganda,618.0,127451.0
 Uganda,619.0,127523.0
 Uganda,620.0,127550.0
+Uganda,621.0,127589.0
 Ukraine,1.0,1.0
 Ukraine,2.0,1.0
 Ukraine,3.0,1.0
@@ -114624,6 +114808,7 @@ Ukraine,635.0,3580671.0
 Ukraine,636.0,3588916.0
 Ukraine,637.0,3595410.0
 Ukraine,638.0,3606622.0
+Ukraine,639.0,3619223.0
 United Arab Emirates,1.0,4.0
 United Arab Emirates,2.0,4.0
 United Arab Emirates,3.0,4.0
@@ -115296,6 +115481,7 @@ United Arab Emirates,669.0,741858.0
 United Arab Emirates,670.0,741918.0
 United Arab Emirates,671.0,741976.0
 United Arab Emirates,672.0,742041.0
+United Arab Emirates,673.0,742109.0
 United Kingdom,1.0,2.0
 United Kingdom,2.0,2.0
 United Kingdom,3.0,2.0
@@ -115966,6 +116152,7 @@ United Kingdom,667.0,10165779.0
 United Kingdom,668.0,10202370.0
 United Kingdom,669.0,10245244.0
 United Kingdom,670.0,10285745.0
+United Kingdom,671.0,10333672.0
 Uruguay,1.0,4.0
 Uruguay,2.0,6.0
 Uruguay,3.0,8.0
@@ -116594,6 +116781,7 @@ Uruguay,625.0,399181.0
 Uruguay,626.0,399348.0
 Uruguay,627.0,399504.0
 Uruguay,628.0,399695.0
+Uruguay,629.0,399966.0
 Uzbekistan,1.0,1.0
 Uzbekistan,2.0,6.0
 Uzbekistan,3.0,10.0
@@ -117220,6 +117408,7 @@ Uzbekistan,623.0,192599.0
 Uzbekistan,624.0,192831.0
 Uzbekistan,625.0,193065.0
 Uzbekistan,626.0,193208.0
+Uzbekistan,627.0,193424.0
 Vanuatu,1.0,1.0
 Vanuatu,2.0,1.0
 Vanuatu,3.0,1.0
@@ -117606,6 +117795,7 @@ Vanuatu,383.0,6.0
 Vanuatu,384.0,6.0
 Vanuatu,385.0,6.0
 Vanuatu,386.0,6.0
+Vanuatu,387.0,6.0
 Venezuela,1.0,2.0
 Venezuela,2.0,10.0
 Venezuela,3.0,17.0
@@ -118233,6 +118423,7 @@ Venezuela,624.0,430046.0
 Venezuela,625.0,430696.0
 Venezuela,626.0,431296.0
 Venezuela,627.0,431296.0
+Venezuela,628.0,432514.0
 Vietnam,1.0,2.0
 Vietnam,2.0,2.0
 Vietnam,3.0,2.0
@@ -118911,6 +119102,7 @@ Vietnam,675.0,1197404.0
 Vietnam,676.0,1210340.0
 Vietnam,677.0,1224110.0
 Vietnam,678.0,1238082.0
+Vietnam,679.0,1252590.0
 West Bank and Gaza,1.0,4.0
 West Bank and Gaza,2.0,7.0
 West Bank and Gaza,3.0,16.0
@@ -119547,6 +119739,7 @@ West Bank and Gaza,633.0,459479.0
 West Bank and Gaza,634.0,459479.0
 West Bank and Gaza,635.0,460053.0
 West Bank and Gaza,636.0,460053.0
+West Bank and Gaza,637.0,460799.0
 Yemen,1.0,1.0
 Yemen,2.0,1.0
 Yemen,3.0,1.0
@@ -120147,6 +120340,7 @@ Yemen,597.0,9981.0
 Yemen,598.0,9987.0
 Yemen,599.0,9995.0
 Yemen,600.0,10004.0
+Yemen,601.0,10006.0
 Zambia,1.0,2.0
 Zambia,2.0,2.0
 Zambia,3.0,2.0
@@ -120770,6 +120964,7 @@ Zambia,620.0,210138.0
 Zambia,621.0,210143.0
 Zambia,622.0,210150.0
 Zambia,623.0,210169.0
+Zambia,624.0,210195.0
 Zimbabwe,1.0,1.0
 Zimbabwe,2.0,3.0
 Zimbabwe,3.0,3.0
@@ -121391,3 +121586,4 @@ Zimbabwe,618.0,133836.0
 Zimbabwe,619.0,133951.0
 Zimbabwe,620.0,134226.0
 Zimbabwe,621.0,134625.0
+Zimbabwe,622.0,135337.0
