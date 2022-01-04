@@ -678,6 +678,7 @@ Afghanistan,676.0,158056.0
 Afghanistan,677.0,158084.0
 Afghanistan,678.0,158107.0
 Afghanistan,679.0,158189.0
+Afghanistan,680.0,158183.0
 Albania,1.0,2.0
 Albania,2.0,10.0
 Albania,3.0,12.0
@@ -1343,6 +1344,7 @@ Albania,662.0,208899.0
 Albania,663.0,210224.0
 Albania,664.0,210224.0
 Albania,665.0,210885.0
+Albania,666.0,210885.0
 Algeria,1.0,1.0
 Algeria,2.0,1.0
 Algeria,3.0,1.0
@@ -2021,6 +2023,7 @@ Algeria,675.0,218037.0
 Algeria,676.0,218432.0
 Algeria,677.0,218818.0
 Algeria,678.0,219159.0
+Algeria,679.0,219532.0
 Andorra,1.0,1.0
 Andorra,2.0,1.0
 Andorra,3.0,1.0
@@ -2693,6 +2696,7 @@ Andorra,669.0,23122.0
 Andorra,670.0,23740.0
 Andorra,671.0,23740.0
 Andorra,672.0,23740.0
+Andorra,673.0,24502.0
 Angola,1.0,1.0
 Angola,2.0,2.0
 Angola,3.0,2.0
@@ -3347,6 +3351,7 @@ Angola,651.0,79871.0
 Angola,652.0,81593.0
 Angola,653.0,82398.0
 Angola,654.0,82920.0
+Angola,655.0,83764.0
 Antigua and Barbuda,1.0,1.0
 Antigua and Barbuda,2.0,1.0
 Antigua and Barbuda,3.0,1.0
@@ -4008,6 +4013,7 @@ Antigua and Barbuda,658.0,4283.0
 Antigua and Barbuda,659.0,4283.0
 Antigua and Barbuda,660.0,4283.0
 Antigua and Barbuda,661.0,4283.0
+Antigua and Barbuda,662.0,4283.0
 Argentina,1.0,1.0
 Argentina,2.0,1.0
 Argentina,3.0,1.0
@@ -4658,7 +4664,7 @@ Argentina,647.0,5350867.0
 Argentina,648.0,5354440.0
 Argentina,649.0,5356885.0
 Argentina,650.0,5358455.0
-Argentina,651.0,5358455.0
+Argentina,651.0,5361967.0
 Argentina,652.0,5366522.0
 Argentina,653.0,5371341.0
 Argentina,654.0,5376642.0
@@ -4679,6 +4685,7 @@ Argentina,668.0,5606745.0
 Argentina,669.0,5654408.0
 Argentina,670.0,5674428.0
 Argentina,671.0,5694930.0
+Argentina,672.0,5739326.0
 Armenia,1.0,1.0
 Armenia,2.0,1.0
 Armenia,3.0,1.0
@@ -5352,6 +5359,7 @@ Armenia,670.0,344826.0
 Armenia,671.0,344930.0
 Armenia,672.0,344980.0
 Armenia,673.0,345007.0
+Armenia,674.0,345036.0
 Australia,1.0,4.0
 Australia,2.0,5.0
 Australia,3.0,5.0
@@ -6060,6 +6068,7 @@ Australia,705.0,368596.0
 Australia,706.0,402949.0
 Australia,707.0,462955.0
 Australia,708.0,492563.0
+Australia,709.0,537308.0
 Austria,1.0,2.0
 Austria,2.0,2.0
 Austria,3.0,3.0
@@ -6738,6 +6747,7 @@ Austria,675.0,1274995.0
 Austria,676.0,1278619.0
 Austria,677.0,1282227.0
 Austria,678.0,1285510.0
+Austria,679.0,1288829.0
 Azerbaijan,1.0,3.0
 Azerbaijan,2.0,3.0
 Azerbaijan,3.0,3.0
@@ -7411,6 +7421,7 @@ Azerbaijan,670.0,616352.0
 Azerbaijan,671.0,616947.0
 Azerbaijan,672.0,617311.0
 Azerbaijan,673.0,617679.0
+Azerbaijan,674.0,617952.0
 Bahamas,1.0,1.0
 Bahamas,2.0,1.0
 Bahamas,3.0,1.0
@@ -8069,6 +8080,7 @@ Bahamas,655.0,24269.0
 Bahamas,656.0,24476.0
 Bahamas,657.0,24476.0
 Bahamas,658.0,25285.0
+Bahamas,659.0,25534.0
 Bahrain,1.0,1.0
 Bahrain,2.0,23.0
 Bahrain,3.0,33.0
@@ -8748,6 +8760,7 @@ Bahrain,676.0,281406.0
 Bahrain,677.0,282062.0
 Bahrain,678.0,282677.0
 Bahrain,679.0,283344.0
+Bahrain,680.0,284224.0
 Bangladesh,1.0,3.0
 Bangladesh,2.0,3.0
 Bangladesh,3.0,3.0
@@ -9414,6 +9427,7 @@ Bangladesh,663.0,1585027.0
 Bangladesh,664.0,1585539.0
 Bangladesh,665.0,1585909.0
 Bangladesh,666.0,1586466.0
+Bangladesh,667.0,1587140.0
 Barbados,1.0,2.0
 Barbados,2.0,2.0
 Barbados,3.0,5.0
@@ -10071,6 +10085,7 @@ Barbados,654.0,28310.0
 Barbados,655.0,28565.0
 Barbados,656.0,28810.0
 Barbados,657.0,28960.0
+Barbados,658.0,29160.0
 Belarus,1.0,1.0
 Belarus,2.0,1.0
 Belarus,3.0,1.0
@@ -10746,6 +10761,7 @@ Belarus,672.0,697600.0
 Belarus,673.0,699110.0
 Belarus,674.0,700421.0
 Belarus,675.0,701192.0
+Belarus,676.0,701699.0
 Belgium,1.0,1.0
 Belgium,2.0,1.0
 Belgium,3.0,1.0
@@ -11445,6 +11461,7 @@ Belgium,696.0,2089657.0
 Belgium,697.0,2105343.0
 Belgium,698.0,2105343.0
 Belgium,699.0,2105343.0
+Belgium,700.0,2133284.0
 Belize,1.0,1.0
 Belize,2.0,1.0
 Belize,3.0,2.0
@@ -12096,6 +12113,7 @@ Belize,648.0,32488.0
 Belize,649.0,32840.0
 Belize,650.0,32840.0
 Belize,651.0,32840.0
+Belize,652.0,33457.0
 Benin,1.0,1.0
 Benin,2.0,1.0
 Benin,3.0,2.0
@@ -12754,6 +12772,7 @@ Benin,655.0,24935.0
 Benin,656.0,24935.0
 Benin,657.0,24935.0
 Benin,658.0,24935.0
+Benin,659.0,24935.0
 Bhutan,1.0,1.0
 Bhutan,2.0,1.0
 Bhutan,3.0,1.0
@@ -13422,6 +13441,7 @@ Bhutan,665.0,2660.0
 Bhutan,666.0,2660.0
 Bhutan,667.0,2660.0
 Bhutan,668.0,2660.0
+Bhutan,669.0,2664.0
 Bolivia,1.0,2.0
 Bolivia,2.0,2.0
 Bolivia,3.0,3.0
@@ -14085,6 +14105,7 @@ Bolivia,660.0,591773.0
 Bolivia,661.0,599753.0
 Bolivia,662.0,599753.0
 Bolivia,663.0,611031.0
+Bolivia,664.0,622312.0
 Bosnia and Herzegovina,1.0,2.0
 Bosnia and Herzegovina,2.0,2.0
 Bosnia and Herzegovina,3.0,3.0
@@ -14754,6 +14775,7 @@ Bosnia and Herzegovina,666.0,290471.0
 Bosnia and Herzegovina,667.0,291313.0
 Bosnia and Herzegovina,668.0,291313.0
 Bosnia and Herzegovina,669.0,291313.0
+Bosnia and Herzegovina,670.0,291313.0
 Botswana,1.0,3.0
 Botswana,2.0,4.0
 Botswana,3.0,4.0
@@ -15398,6 +15420,7 @@ Botswana,641.0,219509.0
 Botswana,642.0,219509.0
 Botswana,643.0,219509.0
 Botswana,644.0,219509.0
+Botswana,645.0,222053.0
 Brazil,1.0,1.0
 Brazil,2.0,1.0
 Brazil,3.0,1.0
@@ -16075,6 +16098,7 @@ Brazil,674.0,22281649.0
 Brazil,675.0,22291839.0
 Brazil,676.0,22295621.0
 Brazil,677.0,22297427.0
+Brazil,678.0,22309081.0
 Brunei,1.0,1.0
 Brunei,2.0,1.0
 Brunei,3.0,11.0
@@ -16740,6 +16764,7 @@ Brunei,662.0,15470.0
 Brunei,663.0,15470.0
 Brunei,664.0,15470.0
 Brunei,665.0,15470.0
+Brunei,666.0,15506.0
 Bulgaria,1.0,4.0
 Bulgaria,2.0,4.0
 Bulgaria,3.0,4.0
@@ -17406,6 +17431,7 @@ Bulgaria,663.0,744298.0
 Bulgaria,664.0,747108.0
 Bulgaria,665.0,748184.0
 Bulgaria,666.0,749540.0
+Bulgaria,667.0,751458.0
 Burkina Faso,1.0,1.0
 Burkina Faso,2.0,2.0
 Burkina Faso,3.0,2.0
@@ -18070,6 +18096,7 @@ Burkina Faso,661.0,17632.0
 Burkina Faso,662.0,17632.0
 Burkina Faso,663.0,17632.0
 Burkina Faso,664.0,17632.0
+Burkina Faso,665.0,17632.0
 Burma,1.0,8.0
 Burma,2.0,8.0
 Burma,3.0,10.0
@@ -18717,6 +18744,7 @@ Burma,644.0,530645.0
 Burma,645.0,530834.0
 Burma,646.0,530946.0
 Burma,647.0,531025.0
+Burma,648.0,531155.0
 Burundi,1.0,2.0
 Burundi,2.0,2.0
 Burundi,3.0,3.0
@@ -19360,6 +19388,7 @@ Burundi,640.0,27366.0
 Burundi,641.0,27366.0
 Burundi,642.0,27366.0
 Burundi,643.0,27366.0
+Burundi,644.0,27366.0
 Cabo Verde,1.0,1.0
 Cabo Verde,2.0,3.0
 Cabo Verde,3.0,3.0
@@ -20014,6 +20043,7 @@ Cabo Verde,651.0,40738.0
 Cabo Verde,652.0,41732.0
 Cabo Verde,653.0,42463.0
 Cabo Verde,654.0,42811.0
+Cabo Verde,655.0,43567.0
 Cambodia,1.0,1.0
 Cambodia,2.0,1.0
 Cambodia,3.0,1.0
@@ -20721,6 +20751,7 @@ Cambodia,704.0,120487.0
 Cambodia,705.0,120493.0
 Cambodia,706.0,120507.0
 Cambodia,707.0,120510.0
+Cambodia,708.0,120516.0
 Cameroon,1.0,1.0
 Cameroon,2.0,1.0
 Cameroon,3.0,2.0
@@ -21389,6 +21420,7 @@ Cameroon,665.0,109367.0
 Cameroon,666.0,109367.0
 Cameroon,667.0,109367.0
 Cameroon,668.0,109367.0
+Cameroon,669.0,109367.0
 Canada,1.0,1.0
 Canada,2.0,1.0
 Canada,3.0,2.0
@@ -22097,6 +22129,7 @@ Canada,705.0,2145630.0
 Canada,706.0,2192498.0
 Canada,707.0,2210582.0
 Canada,708.0,2229009.0
+Canada,709.0,2260888.0
 Central African Republic,1.0,1.0
 Central African Republic,2.0,1.0
 Central African Republic,3.0,1.0
@@ -22756,6 +22789,7 @@ Central African Republic,656.0,12163.0
 Central African Republic,657.0,12163.0
 Central African Republic,658.0,12163.0
 Central African Republic,659.0,12163.0
+Central African Republic,660.0,12163.0
 Chad,1.0,1.0
 Chad,2.0,1.0
 Chad,3.0,1.0
@@ -23411,6 +23445,7 @@ Chad,652.0,5703.0
 Chad,653.0,5703.0
 Chad,654.0,6183.0
 Chad,655.0,6183.0
+Chad,656.0,6183.0
 Chile,1.0,2.0
 Chile,2.0,2.0
 Chile,3.0,2.0
@@ -24089,8 +24124,9 @@ Chile,675.0,1801795.0
 Chile,676.0,1802891.0
 Chile,677.0,1804682.0
 Chile,678.0,1806494.0
-Chile,679.0,1806494.0
+Chile,679.0,1808398.0
 Chile,680.0,1810302.0
+Chile,681.0,1811297.0
 China,1.0,548.0
 China,2.0,643.0
 China,3.0,920.0
@@ -24803,6 +24839,7 @@ China,709.0,114794.0
 China,710.0,115042.0
 China,711.0,115251.0
 China,712.0,115409.0
+China,713.0,115597.0
 Colombia,1.0,1.0
 Colombia,2.0,1.0
 Colombia,3.0,1.0
@@ -25471,6 +25508,7 @@ Colombia,665.0,5147039.0
 Colombia,666.0,5157440.0
 Colombia,667.0,5169855.0
 Colombia,668.0,5181173.0
+Colombia,669.0,5191021.0
 Comoros,1.0,1.0
 Comoros,2.0,1.0
 Comoros,3.0,3.0
@@ -26084,6 +26122,7 @@ Comoros,610.0,6284.0
 Comoros,611.0,6515.0
 Comoros,612.0,6688.0
 Comoros,613.0,6835.0
+Comoros,614.0,6907.0
 Congo (Brazzaville),1.0,1.0
 Congo (Brazzaville),2.0,1.0
 Congo (Brazzaville),3.0,1.0
@@ -26743,6 +26782,7 @@ Congo (Brazzaville),656.0,20089.0
 Congo (Brazzaville),657.0,20089.0
 Congo (Brazzaville),658.0,20089.0
 Congo (Brazzaville),659.0,20089.0
+Congo (Brazzaville),660.0,21277.0
 Congo (Kinshasa),1.0,1.0
 Congo (Kinshasa),2.0,1.0
 Congo (Kinshasa),3.0,2.0
@@ -27406,6 +27446,7 @@ Congo (Kinshasa),660.0,74793.0
 Congo (Kinshasa),661.0,74793.0
 Congo (Kinshasa),662.0,74793.0
 Congo (Kinshasa),663.0,74793.0
+Congo (Kinshasa),664.0,74793.0
 Costa Rica,1.0,1.0
 Costa Rica,2.0,1.0
 Costa Rica,3.0,5.0
@@ -28074,6 +28115,7 @@ Costa Rica,665.0,570556.0
 Costa Rica,666.0,570556.0
 Costa Rica,667.0,570556.0
 Costa Rica,668.0,570556.0
+Costa Rica,669.0,570556.0
 Cote d'Ivoire,1.0,1.0
 Cote d'Ivoire,2.0,1.0
 Cote d'Ivoire,3.0,1.0
@@ -28737,6 +28779,7 @@ Cote d'Ivoire,660.0,68146.0
 Cote d'Ivoire,661.0,71004.0
 Cote d'Ivoire,662.0,71815.0
 Cote d'Ivoire,663.0,72352.0
+Cote d'Ivoire,664.0,72352.0
 Croatia,1.0,1.0
 Croatia,2.0,3.0
 Croatia,3.0,3.0
@@ -29415,6 +29458,7 @@ Croatia,675.0,709678.0
 Croatia,676.0,715245.0
 Croatia,677.0,720538.0
 Croatia,678.0,720951.0
+Croatia,679.0,722054.0
 Cuba,1.0,3.0
 Cuba,2.0,4.0
 Cuba,3.0,4.0
@@ -30077,6 +30121,7 @@ Cuba,659.0,965571.0
 Cuba,660.0,966004.0
 Cuba,661.0,966473.0
 Cuba,662.0,966942.0
+Cuba,663.0,967498.0
 Cyprus,1.0,2.0
 Cyprus,2.0,2.0
 Cyprus,3.0,6.0
@@ -30741,6 +30786,7 @@ Cyprus,661.0,161779.0
 Cyprus,662.0,166827.0
 Cyprus,663.0,169159.0
 Cyprus,664.0,172697.0
+Cyprus,665.0,177721.0
 Czechia,1.0,3.0
 Czechia,2.0,3.0
 Czechia,3.0,5.0
@@ -31414,6 +31460,7 @@ Czechia,670.0,2469951.0
 Czechia,671.0,2475729.0
 Czechia,672.0,2480736.0
 Czechia,673.0,2481832.0
+Czechia,674.0,2483762.0
 Denmark,1.0,1.0
 Denmark,2.0,1.0
 Denmark,3.0,3.0
@@ -32090,6 +32137,7 @@ Denmark,673.0,792076.0
 Denmark,674.0,810772.0
 Denmark,675.0,831974.0
 Denmark,676.0,839952.0
+Denmark,677.0,849334.0
 Diamond Princess,1.0,61.0
 Diamond Princess,2.0,61.0
 Diamond Princess,3.0,64.0
@@ -32786,6 +32834,7 @@ Diamond Princess,693.0,712.0
 Diamond Princess,694.0,712.0
 Diamond Princess,695.0,712.0
 Diamond Princess,696.0,712.0
+Diamond Princess,697.0,712.0
 Djibouti,1.0,1.0
 Djibouti,2.0,1.0
 Djibouti,3.0,1.0
@@ -33442,6 +33491,7 @@ Djibouti,653.0,13632.0
 Djibouti,654.0,13656.0
 Djibouti,655.0,13668.0
 Djibouti,656.0,13685.0
+Djibouti,657.0,13723.0
 Dominica,1.0,1.0
 Dominica,2.0,2.0
 Dominica,3.0,2.0
@@ -34094,6 +34144,7 @@ Dominica,649.0,6814.0
 Dominica,650.0,6814.0
 Dominica,651.0,6862.0
 Dominica,652.0,6862.0
+Dominica,653.0,6862.0
 Dominican Republic,1.0,1.0
 Dominican Republic,2.0,1.0
 Dominican Republic,3.0,1.0
@@ -34767,6 +34818,7 @@ Dominican Republic,670.0,417268.0
 Dominican Republic,671.0,418778.0
 Dominican Republic,672.0,419927.0
 Dominican Republic,673.0,421953.0
+Dominican Republic,674.0,424809.0
 Ecuador,1.0,6.0
 Ecuador,2.0,6.0
 Ecuador,3.0,7.0
@@ -35440,6 +35492,7 @@ Ecuador,670.0,547186.0
 Ecuador,671.0,549418.0
 Ecuador,672.0,549418.0
 Ecuador,673.0,549418.0
+Ecuador,674.0,553201.0
 Egypt,1.0,1.0
 Egypt,2.0,1.0
 Egypt,3.0,1.0
@@ -36129,6 +36182,7 @@ Egypt,686.0,384728.0
 Egypt,687.0,385575.0
 Egypt,688.0,386358.0
 Egypt,689.0,387159.0
+Egypt,690.0,387882.0
 El Salvador,1.0,1.0
 El Salvador,2.0,1.0
 El Salvador,3.0,3.0
@@ -36784,6 +36838,7 @@ El Salvador,652.0,121945.0
 El Salvador,653.0,121945.0
 El Salvador,654.0,121945.0
 El Salvador,655.0,121945.0
+El Salvador,656.0,122063.0
 Equatorial Guinea,1.0,1.0
 Equatorial Guinea,2.0,1.0
 Equatorial Guinea,3.0,1.0
@@ -37443,6 +37498,7 @@ Equatorial Guinea,656.0,13710.0
 Equatorial Guinea,657.0,13710.0
 Equatorial Guinea,658.0,13710.0
 Equatorial Guinea,659.0,13710.0
+Equatorial Guinea,660.0,13710.0
 Eritrea,1.0,1.0
 Eritrea,2.0,1.0
 Eritrea,3.0,1.0
@@ -38096,6 +38152,7 @@ Eritrea,650.0,7982.0
 Eritrea,651.0,8011.0
 Eritrea,652.0,8026.0
 Eritrea,653.0,8049.0
+Eritrea,654.0,8063.0
 Estonia,1.0,1.0
 Estonia,2.0,1.0
 Estonia,3.0,1.0
@@ -38772,6 +38829,7 @@ Estonia,673.0,240334.0
 Estonia,674.0,241408.0
 Estonia,675.0,242123.0
 Estonia,676.0,242552.0
+Estonia,677.0,243236.0
 Eswatini,1.0,1.0
 Eswatini,2.0,1.0
 Eswatini,3.0,1.0
@@ -39432,6 +39490,7 @@ Eswatini,657.0,65832.0
 Eswatini,658.0,66109.0
 Eswatini,659.0,66241.0
 Eswatini,660.0,66286.0
+Eswatini,661.0,66441.0
 Ethiopia,1.0,1.0
 Ethiopia,2.0,1.0
 Ethiopia,3.0,1.0
@@ -40093,6 +40152,7 @@ Ethiopia,658.0,415443.0
 Ethiopia,659.0,420342.0
 Ethiopia,660.0,424340.0
 Ethiopia,661.0,426656.0
+Ethiopia,662.0,428796.0
 Fiji,1.0,1.0
 Fiji,2.0,1.0
 Fiji,3.0,1.0
@@ -40748,6 +40808,7 @@ Fiji,652.0,53332.0
 Fiji,653.0,53332.0
 Fiji,654.0,54147.0
 Fiji,655.0,54147.0
+Fiji,656.0,55009.0
 Finland,1.0,1.0
 Finland,2.0,1.0
 Finland,3.0,1.0
@@ -41453,6 +41514,7 @@ Finland,702.0,248958.0
 Finland,703.0,260292.0
 Finland,704.0,260292.0
 Finland,705.0,260292.0
+Finland,706.0,277339.0
 France,1.0,2.0
 France,2.0,3.0
 France,3.0,3.0
@@ -42163,6 +42225,7 @@ France,707.0,9845583.0
 France,708.0,10077783.0
 France,709.0,10296909.0
 France,710.0,10355341.0
+France,711.0,10422830.0
 Gabon,1.0,1.0
 Gabon,2.0,1.0
 Gabon,3.0,1.0
@@ -42823,6 +42886,7 @@ Gabon,657.0,41073.0
 Gabon,658.0,41798.0
 Gabon,659.0,41798.0
 Gabon,660.0,41798.0
+Gabon,661.0,42640.0
 Gambia,1.0,1.0
 Gambia,2.0,1.0
 Gambia,3.0,1.0
@@ -43480,6 +43544,7 @@ Gambia,654.0,10136.0
 Gambia,655.0,10170.0
 Gambia,656.0,10170.0
 Gambia,657.0,10170.0
+Gambia,658.0,10170.0
 Georgia,1.0,1.0
 Georgia,2.0,1.0
 Georgia,3.0,1.0
@@ -44157,6 +44222,7 @@ Georgia,674.0,932641.0
 Georgia,675.0,934741.0
 Georgia,676.0,936844.0
 Georgia,677.0,937640.0
+Georgia,678.0,938583.0
 Germany,1.0,1.0
 Germany,2.0,4.0
 Germany,3.0,4.0
@@ -44864,6 +44930,7 @@ Germany,704.0,7171422.0
 Germany,705.0,7193186.0
 Germany,706.0,7196154.0
 Germany,707.0,7208790.0
+Germany,708.0,7258803.0
 Ghana,1.0,3.0
 Ghana,2.0,6.0
 Ghana,3.0,6.0
@@ -45524,6 +45591,7 @@ Ghana,657.0,141295.0
 Ghana,658.0,142986.0
 Ghana,659.0,143997.0
 Ghana,660.0,145052.0
+Ghana,661.0,146119.0
 Greece,1.0,1.0
 Greece,2.0,3.0
 Greece,3.0,4.0
@@ -46201,6 +46269,7 @@ Greece,674.0,1170293.0
 Greece,675.0,1210853.0
 Greece,676.0,1210853.0
 Greece,677.0,1210853.0
+Greece,678.0,1210853.0
 Grenada,1.0,1.0
 Grenada,2.0,1.0
 Grenada,3.0,1.0
@@ -46853,6 +46922,7 @@ Grenada,649.0,6181.0
 Grenada,650.0,6181.0
 Grenada,651.0,6299.0
 Grenada,652.0,6306.0
+Grenada,653.0,6338.0
 Guatemala,1.0,1.0
 Guatemala,2.0,1.0
 Guatemala,3.0,2.0
@@ -47513,6 +47583,7 @@ Guatemala,657.0,627562.0
 Guatemala,658.0,628359.0
 Guatemala,659.0,628589.0
 Guatemala,660.0,628695.0
+Guatemala,661.0,628804.0
 Guinea,1.0,1.0
 Guinea,2.0,1.0
 Guinea,3.0,1.0
@@ -48174,6 +48245,7 @@ Guinea,658.0,31641.0
 Guinea,659.0,32051.0
 Guinea,660.0,32448.0
 Guinea,661.0,32671.0
+Guinea,662.0,32867.0
 Guinea-Bissau,1.0,2.0
 Guinea-Bissau,2.0,2.0
 Guinea-Bissau,3.0,2.0
@@ -48823,6 +48895,7 @@ Guinea-Bissau,646.0,6476.0
 Guinea-Bissau,647.0,6484.0
 Guinea-Bissau,648.0,6484.0
 Guinea-Bissau,649.0,6484.0
+Guinea-Bissau,650.0,6499.0
 Guyana,1.0,1.0
 Guyana,2.0,1.0
 Guyana,3.0,1.0
@@ -49485,6 +49558,7 @@ Guyana,659.0,39395.0
 Guyana,660.0,39573.0
 Guyana,661.0,39779.0
 Guyana,662.0,40060.0
+Guyana,663.0,40154.0
 Haiti,1.0,2.0
 Haiti,2.0,2.0
 Haiti,3.0,2.0
@@ -50139,6 +50213,7 @@ Haiti,651.0,25985.0
 Haiti,652.0,25985.0
 Haiti,653.0,25985.0
 Haiti,654.0,25985.0
+Haiti,655.0,26056.0
 Holy See,1.0,1.0
 Holy See,2.0,1.0
 Holy See,3.0,1.0
@@ -50807,6 +50882,7 @@ Holy See,665.0,27.0
 Holy See,666.0,27.0
 Holy See,667.0,27.0
 Holy See,668.0,27.0
+Holy See,669.0,27.0
 Honduras,1.0,2.0
 Honduras,2.0,2.0
 Honduras,3.0,2.0
@@ -51470,6 +51546,7 @@ Honduras,660.0,379402.0
 Honduras,661.0,379402.0
 Honduras,662.0,379402.0
 Honduras,663.0,379402.0
+Honduras,664.0,379402.0
 Hungary,1.0,2.0
 Hungary,2.0,2.0
 Hungary,3.0,2.0
@@ -52140,6 +52217,7 @@ Hungary,667.0,1253055.0
 Hungary,668.0,1256415.0
 Hungary,669.0,1256415.0
 Hungary,670.0,1256415.0
+Hungary,671.0,1262280.0
 Iceland,1.0,1.0
 Iceland,2.0,1.0
 Iceland,3.0,3.0
@@ -52815,6 +52893,7 @@ Iceland,672.0,27059.0
 Iceland,673.0,27059.0
 Iceland,674.0,27059.0
 Iceland,675.0,27059.0
+Iceland,676.0,31070.0
 India,1.0,1.0
 India,2.0,1.0
 India,3.0,1.0
@@ -53518,7 +53597,8 @@ India,700.0,34822040.0
 India,701.0,34838804.0
 India,702.0,34861579.0
 India,703.0,34889132.0
-India,704.0,34889132.0
+India,704.0,34922882.0
+India,705.0,34922882.0
 Indonesia,1.0,2.0
 Indonesia,2.0,2.0
 Indonesia,3.0,2.0
@@ -54191,6 +54271,7 @@ Indonesia,669.0,4262540.0
 Indonesia,670.0,4262720.0
 Indonesia,671.0,4262994.0
 Indonesia,672.0,4263168.0
+Indonesia,673.0,4263433.0
 Iran,1.0,2.0
 Iran,2.0,5.0
 Iran,3.0,18.0
@@ -54875,6 +54956,7 @@ Iran,681.0,6192698.0
 Iran,682.0,6194401.0
 Iran,683.0,6195403.0
 Iran,684.0,6196913.0
+Iran,685.0,6198590.0
 Iraq,1.0,1.0
 Iraq,2.0,1.0
 Iraq,3.0,5.0
@@ -55554,6 +55636,7 @@ Iraq,676.0,2093436.0
 Iraq,677.0,2093740.0
 Iraq,678.0,2093891.0
 Iraq,679.0,2094097.0
+Iraq,680.0,2094349.0
 Ireland,1.0,1.0
 Ireland,2.0,1.0
 Ireland,3.0,1.0
@@ -56228,6 +56311,7 @@ Ireland,671.0,768449.0
 Ireland,672.0,788559.0
 Ireland,673.0,811840.0
 Ireland,674.0,811840.0
+Ireland,675.0,845897.0
 Israel,1.0,1.0
 Israel,2.0,1.0
 Israel,3.0,1.0
@@ -56910,6 +56994,7 @@ Israel,679.0,1380046.0
 Israel,680.0,1383932.0
 Israel,681.0,1390053.0
 Israel,682.0,1395113.0
+Israel,683.0,1404916.0
 Italy,1.0,2.0
 Italy,2.0,2.0
 Italy,3.0,2.0
@@ -57613,6 +57698,7 @@ Italy,700.0,5981428.0
 Italy,701.0,6125683.0
 Italy,702.0,6266939.0
 Italy,703.0,6328076.0
+Italy,704.0,6396110.0
 Jamaica,1.0,1.0
 Jamaica,2.0,2.0
 Jamaica,3.0,8.0
@@ -58276,6 +58362,7 @@ Jamaica,660.0,93591.0
 Jamaica,661.0,93920.0
 Jamaica,662.0,94649.0
 Jamaica,663.0,95177.0
+Jamaica,664.0,95946.0
 Japan,1.0,2.0
 Japan,2.0,2.0
 Japan,3.0,2.0
@@ -58988,6 +59075,7 @@ Japan,709.0,1731878.0
 Japan,710.0,1732296.0
 Japan,711.0,1732752.0
 Japan,712.0,1733229.0
+Japan,713.0,1733901.0
 Jordan,1.0,1.0
 Jordan,2.0,1.0
 Jordan,3.0,1.0
@@ -59659,6 +59747,7 @@ Jordan,668.0,1047953.0
 Jordan,669.0,1047953.0
 Jordan,670.0,1047953.0
 Jordan,671.0,1047953.0
+Jordan,672.0,1047953.0
 Kazakhstan,1.0,4.0
 Kazakhstan,2.0,6.0
 Kazakhstan,3.0,9.0
@@ -60320,6 +60409,7 @@ Kazakhstan,658.0,1072037.0
 Kazakhstan,659.0,1072518.0
 Kazakhstan,660.0,1072999.0
 Kazakhstan,661.0,1072999.0
+Kazakhstan,662.0,1073786.0
 Kenya,1.0,1.0
 Kenya,2.0,1.0
 Kenya,3.0,3.0
@@ -60981,6 +61071,7 @@ Kenya,658.0,292237.0
 Kenya,659.0,295028.0
 Kenya,660.0,297155.0
 Kenya,661.0,298509.0
+Kenya,662.0,299732.0
 Kiribati,1.0,1.0
 Kiribati,2.0,1.0
 Kiribati,3.0,1.0
@@ -61211,6 +61302,7 @@ Kiribati,227.0,2.0
 Kiribati,228.0,2.0
 Kiribati,229.0,2.0
 Kiribati,230.0,2.0
+Kiribati,231.0,2.0
 "Korea, South",1.0,1.0
 "Korea, South",2.0,1.0
 "Korea, South",3.0,2.0
@@ -61923,6 +62015,7 @@ Kiribati,230.0,2.0
 "Korea, South",710.0,635253.0
 "Korea, South",711.0,639083.0
 "Korea, South",712.0,642207.0
+"Korea, South",713.0,645226.0
 Kosovo,1.0,2.0
 Kosovo,2.0,5.0
 Kosovo,3.0,13.0
@@ -62583,6 +62676,7 @@ Kosovo,657.0,161442.0
 Kosovo,658.0,161484.0
 Kosovo,659.0,161531.0
 Kosovo,660.0,161560.0
+Kosovo,661.0,161598.0
 Kuwait,1.0,1.0
 Kuwait,2.0,11.0
 Kuwait,3.0,26.0
@@ -63262,6 +63356,7 @@ Kuwait,676.0,416631.0
 Kuwait,677.0,417135.0
 Kuwait,678.0,417723.0
 Kuwait,679.0,418332.0
+Kuwait,680.0,419314.0
 Kyrgyzstan,1.0,3.0
 Kyrgyzstan,2.0,3.0
 Kyrgyzstan,3.0,6.0
@@ -63918,6 +64013,7 @@ Kyrgyzstan,653.0,184633.0
 Kyrgyzstan,654.0,184689.0
 Kyrgyzstan,655.0,184748.0
 Kyrgyzstan,656.0,184786.0
+Kyrgyzstan,657.0,184827.0
 Laos,1.0,2.0
 Laos,2.0,3.0
 Laos,3.0,6.0
@@ -64568,6 +64664,7 @@ Laos,647.0,110054.0
 Laos,648.0,111060.0
 Laos,649.0,112083.0
 Laos,650.0,112767.0
+Laos,651.0,113432.0
 Latvia,1.0,1.0
 Latvia,2.0,1.0
 Latvia,3.0,1.0
@@ -65240,6 +65337,7 @@ Latvia,669.0,275517.0
 Latvia,670.0,276674.0
 Latvia,671.0,276841.0
 Latvia,672.0,277021.0
+Latvia,673.0,277692.0
 Lebanon,1.0,1.0
 Lebanon,2.0,1.0
 Lebanon,3.0,1.0
@@ -65922,6 +66020,7 @@ Lebanon,679.0,723640.0
 Lebanon,680.0,727930.0
 Lebanon,681.0,731288.0
 Lebanon,682.0,732733.0
+Lebanon,683.0,735727.0
 Lesotho,1.0,1.0
 Lesotho,2.0,1.0
 Lesotho,3.0,1.0
@@ -66522,6 +66621,7 @@ Lesotho,597.0,28408.0
 Lesotho,598.0,28408.0
 Lesotho,599.0,29652.0
 Lesotho,600.0,29756.0
+Lesotho,601.0,29999.0
 Liberia,1.0,5.0
 Liberia,2.0,6.0
 Liberia,3.0,6.0
@@ -67179,6 +67279,7 @@ Liberia,654.0,6278.0
 Liberia,655.0,6278.0
 Liberia,656.0,6278.0
 Liberia,657.0,6278.0
+Liberia,658.0,6278.0
 Libya,1.0,1.0
 Libya,2.0,1.0
 Libya,3.0,1.0
@@ -67829,6 +67930,7 @@ Libya,647.0,388183.0
 Libya,648.0,388734.0
 Libya,649.0,388734.0
 Libya,650.0,389650.0
+Libya,651.0,390284.0
 Liechtenstein,1.0,1.0
 Liechtenstein,2.0,1.0
 Liechtenstein,3.0,1.0
@@ -68499,6 +68601,7 @@ Liechtenstein,667.0,6131.0
 Liechtenstein,668.0,6131.0
 Liechtenstein,669.0,6167.0
 Liechtenstein,670.0,6208.0
+Liechtenstein,671.0,6236.0
 Lithuania,1.0,1.0
 Lithuania,2.0,1.0
 Lithuania,3.0,1.0
@@ -69173,6 +69276,7 @@ Lithuania,671.0,517655.0
 Lithuania,672.0,519597.0
 Lithuania,673.0,521692.0
 Lithuania,674.0,522884.0
+Lithuania,675.0,524128.0
 Luxembourg,1.0,1.0
 Luxembourg,2.0,1.0
 Luxembourg,3.0,1.0
@@ -69847,6 +69951,7 @@ Luxembourg,671.0,102486.0
 Luxembourg,672.0,103766.0
 Luxembourg,673.0,103766.0
 Luxembourg,674.0,103766.0
+Luxembourg,675.0,105358.0
 MS Zaandam,1.0,2.0
 MS Zaandam,2.0,2.0
 MS Zaandam,3.0,2.0
@@ -70493,6 +70598,7 @@ MS Zaandam,643.0,9.0
 MS Zaandam,644.0,9.0
 MS Zaandam,645.0,9.0
 MS Zaandam,646.0,9.0
+MS Zaandam,647.0,9.0
 Madagascar,1.0,3.0
 Madagascar,2.0,3.0
 Madagascar,3.0,3.0
@@ -71147,6 +71253,7 @@ Madagascar,651.0,50279.0
 Madagascar,652.0,50279.0
 Madagascar,653.0,50279.0
 Madagascar,654.0,50279.0
+Madagascar,655.0,50279.0
 Malawi,1.0,3.0
 Malawi,2.0,3.0
 Malawi,3.0,4.0
@@ -71788,6 +71895,7 @@ Malawi,638.0,74201.0
 Malawi,639.0,75075.0
 Malawi,640.0,75828.0
 Malawi,641.0,76066.0
+Malawi,642.0,76295.0
 Malaysia,1.0,4.0
 Malaysia,2.0,4.0
 Malaysia,3.0,4.0
@@ -72497,6 +72605,7 @@ Malaysia,706.0,2755130.0
 Malaysia,707.0,2758086.0
 Malaysia,708.0,2761472.0
 Malaysia,709.0,2764354.0
+Malaysia,710.0,2767044.0
 Maldives,1.0,4.0
 Maldives,2.0,4.0
 Maldives,3.0,6.0
@@ -73163,6 +73272,7 @@ Maldives,663.0,95540.0
 Maldives,664.0,95700.0
 Maldives,665.0,95891.0
 Maldives,666.0,96052.0
+Maldives,667.0,96294.0
 Mali,1.0,2.0
 Mali,2.0,4.0
 Mali,3.0,11.0
@@ -73812,6 +73922,7 @@ Mali,646.0,20670.0
 Mali,647.0,21008.0
 Mali,648.0,21378.0
 Mali,649.0,21549.0
+Mali,650.0,21806.0
 Malta,1.0,3.0
 Malta,2.0,3.0
 Malta,3.0,3.0
@@ -74479,6 +74590,7 @@ Malta,664.0,51070.0
 Malta,665.0,52473.0
 Malta,666.0,53503.0
 Malta,667.0,54250.0
+Malta,668.0,55062.0
 Marshall Islands,1.0,2.0
 Marshall Islands,2.0,2.0
 Marshall Islands,3.0,2.0
@@ -74911,6 +75023,7 @@ Marshall Islands,429.0,4.0
 Marshall Islands,430.0,4.0
 Marshall Islands,431.0,4.0
 Marshall Islands,432.0,4.0
+Marshall Islands,433.0,4.0
 Mauritania,1.0,1.0
 Mauritania,2.0,1.0
 Mauritania,3.0,1.0
@@ -75571,6 +75684,7 @@ Mauritania,657.0,41154.0
 Mauritania,658.0,41473.0
 Mauritania,659.0,41867.0
 Mauritania,660.0,42182.0
+Mauritania,661.0,42672.0
 Mauritius,1.0,3.0
 Mauritius,2.0,3.0
 Mauritius,3.0,12.0
@@ -76227,6 +76341,7 @@ Mauritius,653.0,23372.0
 Mauritius,654.0,23493.0
 Mauritius,655.0,23493.0
 Mauritius,656.0,23602.0
+Mauritius,657.0,23602.0
 Mexico,1.0,1.0
 Mexico,2.0,4.0
 Mexico,3.0,5.0
@@ -76902,6 +77017,7 @@ Mexico,672.0,3961662.0
 Mexico,673.0,3979723.0
 Mexico,674.0,3979723.0
 Mexico,675.0,3988916.0
+Mexico,676.0,3993464.0
 Micronesia,1.0,1.0
 Micronesia,2.0,1.0
 Micronesia,3.0,1.0
@@ -77249,6 +77365,7 @@ Micronesia,344.0,1.0
 Micronesia,345.0,1.0
 Micronesia,346.0,1.0
 Micronesia,347.0,1.0
+Micronesia,348.0,1.0
 Moldova,1.0,1.0
 Moldova,2.0,1.0
 Moldova,3.0,3.0
@@ -77915,6 +78032,7 @@ Moldova,663.0,375780.0
 Moldova,664.0,376155.0
 Moldova,665.0,376434.0
 Moldova,666.0,376602.0
+Moldova,667.0,376844.0
 Monaco,1.0,1.0
 Monaco,2.0,1.0
 Monaco,3.0,1.0
@@ -78589,6 +78707,7 @@ Monaco,671.0,4985.0
 Monaco,672.0,4985.0
 Monaco,673.0,4985.0
 Monaco,674.0,4985.0
+Monaco,675.0,4985.0
 Mongolia,1.0,1.0
 Mongolia,2.0,1.0
 Mongolia,3.0,1.0
@@ -79253,6 +79372,7 @@ Mongolia,661.0,389361.0
 Mongolia,662.0,389361.0
 Mongolia,663.0,389876.0
 Mongolia,664.0,389876.0
+Mongolia,665.0,390502.0
 Montenegro,1.0,2.0
 Montenegro,2.0,2.0
 Montenegro,3.0,3.0
@@ -79910,6 +80030,7 @@ Montenegro,654.0,168328.0
 Montenegro,655.0,170034.0
 Montenegro,656.0,171873.0
 Montenegro,657.0,173161.0
+Montenegro,658.0,174865.0
 Morocco,1.0,1.0
 Morocco,2.0,1.0
 Morocco,3.0,1.0
@@ -80582,6 +80703,7 @@ Morocco,669.0,961058.0
 Morocco,670.0,963092.0
 Morocco,671.0,965420.0
 Morocco,672.0,966777.0
+Morocco,673.0,967662.0
 Mozambique,1.0,1.0
 Mozambique,2.0,1.0
 Mozambique,3.0,3.0
@@ -81234,6 +81356,7 @@ Mozambique,649.0,184219.0
 Mozambique,650.0,189080.0
 Mozambique,651.0,191722.0
 Mozambique,652.0,192453.0
+Mozambique,653.0,193371.0
 Namibia,1.0,2.0
 Namibia,2.0,2.0
 Namibia,3.0,2.0
@@ -81894,6 +82017,7 @@ Namibia,657.0,146720.0
 Namibia,658.0,147974.0
 Namibia,659.0,148839.0
 Namibia,660.0,149478.0
+Namibia,661.0,149741.0
 Nepal,1.0,1.0
 Nepal,2.0,1.0
 Nepal,3.0,1.0
@@ -82603,6 +82727,7 @@ Nepal,706.0,828207.0
 Nepal,707.0,828431.0
 Nepal,708.0,828773.0
 Nepal,709.0,828986.0
+Nepal,710.0,829277.0
 Netherlands,1.0,1.0
 Netherlands,2.0,1.0
 Netherlands,3.0,6.0
@@ -83279,6 +83404,7 @@ Netherlands,673.0,3164890.0
 Netherlands,674.0,3183134.0
 Netherlands,675.0,3200168.0
 Netherlands,676.0,3218604.0
+Netherlands,677.0,3234143.0
 New Zealand,1.0,1.0
 New Zealand,2.0,1.0
 New Zealand,3.0,1.0
@@ -83954,6 +84080,7 @@ New Zealand,672.0,14120.0
 New Zealand,673.0,14120.0
 New Zealand,674.0,14257.0
 New Zealand,675.0,14308.0
+New Zealand,676.0,14367.0
 Nicaragua,1.0,1.0
 Nicaragua,2.0,1.0
 Nicaragua,3.0,2.0
@@ -84609,6 +84736,7 @@ Nicaragua,652.0,17487.0
 Nicaragua,653.0,17487.0
 Nicaragua,654.0,17487.0
 Nicaragua,655.0,17487.0
+Nicaragua,656.0,17487.0
 Niger,1.0,1.0
 Niger,2.0,1.0
 Niger,3.0,2.0
@@ -85263,6 +85391,7 @@ Niger,651.0,7331.0
 Niger,652.0,7405.0
 Niger,653.0,7438.0
 Niger,654.0,7438.0
+Niger,655.0,7508.0
 Nigeria,1.0,1.0
 Nigeria,2.0,1.0
 Nigeria,3.0,1.0
@@ -85938,6 +86067,7 @@ Nigeria,672.0,241513.0
 Nigeria,673.0,241513.0
 Nigeria,674.0,242877.0
 Nigeria,675.0,242877.0
+Nigeria,676.0,244120.0
 North Macedonia,1.0,1.0
 North Macedonia,2.0,1.0
 North Macedonia,3.0,1.0
@@ -86615,6 +86745,7 @@ North Macedonia,674.0,224507.0
 North Macedonia,675.0,225049.0
 North Macedonia,676.0,225484.0
 North Macedonia,677.0,225730.0
+North Macedonia,678.0,225972.0
 Norway,1.0,1.0
 Norway,2.0,1.0
 Norway,3.0,6.0
@@ -87292,6 +87423,7 @@ Norway,674.0,391214.0
 Norway,675.0,394259.0
 Norway,676.0,396415.0
 Norway,677.0,399318.0
+Norway,678.0,404551.0
 Oman,1.0,2.0
 Oman,2.0,2.0
 Oman,3.0,4.0
@@ -87971,6 +88103,7 @@ Oman,676.0,305489.0
 Oman,677.0,305489.0
 Oman,678.0,305489.0
 Oman,679.0,305832.0
+Oman,680.0,306008.0
 Pakistan,1.0,2.0
 Pakistan,2.0,2.0
 Pakistan,3.0,2.0
@@ -88648,7 +88781,8 @@ Pakistan,674.0,1294861.0
 Pakistan,675.0,1295376.0
 Pakistan,676.0,1295933.0
 Pakistan,677.0,1296527.0
-Pakistan,678.0,1296527.0
+Pakistan,678.0,1297235.0
+Pakistan,679.0,1297865.0
 Palau,1.0,1.0
 Palau,2.0,1.0
 Palau,3.0,2.0
@@ -88783,6 +88917,7 @@ Palau,131.0,8.0
 Palau,132.0,8.0
 Palau,133.0,8.0
 Palau,134.0,8.0
+Palau,135.0,8.0
 Panama,1.0,1.0
 Panama,2.0,8.0
 Panama,3.0,11.0
@@ -89447,6 +89582,7 @@ Panama,661.0,491043.0
 Panama,662.0,495920.0
 Panama,663.0,497808.0
 Panama,664.0,498785.0
+Panama,665.0,500148.0
 Papua New Guinea,1.0,1.0
 Papua New Guinea,2.0,1.0
 Papua New Guinea,3.0,1.0
@@ -90101,6 +90237,7 @@ Papua New Guinea,651.0,36158.0
 Papua New Guinea,652.0,36158.0
 Papua New Guinea,653.0,36158.0
 Papua New Guinea,654.0,36190.0
+Papua New Guinea,655.0,36192.0
 Paraguay,1.0,1.0
 Paraguay,2.0,1.0
 Paraguay,3.0,5.0
@@ -90767,6 +90904,7 @@ Paraguay,663.0,466101.0
 Paraguay,664.0,466101.0
 Paraguay,665.0,466101.0
 Paraguay,666.0,466101.0
+Paraguay,667.0,469523.0
 Peru,1.0,1.0
 Peru,2.0,1.0
 Peru,3.0,6.0
@@ -91435,6 +91573,7 @@ Peru,665.0,2292254.0
 Peru,666.0,2292254.0
 Peru,667.0,2296831.0
 Peru,668.0,2301177.0
+Peru,669.0,2304674.0
 Philippines,1.0,1.0
 Philippines,2.0,1.0
 Philippines,3.0,1.0
@@ -92139,6 +92278,7 @@ Philippines,701.0,2841260.0
 Philippines,702.0,2843979.0
 Philippines,703.0,2847486.0
 Philippines,704.0,2851931.0
+Philippines,705.0,2855819.0
 Poland,1.0,1.0
 Poland,2.0,1.0
 Poland,3.0,5.0
@@ -92809,6 +92949,7 @@ Poland,667.0,4094608.0
 Poland,668.0,4108215.0
 Poland,669.0,4120248.0
 Poland,670.0,4127428.0
+Poland,671.0,4133851.0
 Portugal,1.0,2.0
 Portugal,2.0,2.0
 Portugal,3.0,5.0
@@ -93481,6 +93622,7 @@ Portugal,669.0,1358817.0
 Portugal,670.0,1389646.0
 Portugal,671.0,1412936.0
 Portugal,672.0,1424016.0
+Portugal,673.0,1434570.0
 Qatar,1.0,1.0
 Qatar,2.0,3.0
 Qatar,3.0,3.0
@@ -94155,6 +94297,7 @@ Qatar,671.0,249787.0
 Qatar,672.0,250528.0
 Qatar,673.0,251361.0
 Qatar,674.0,252359.0
+Qatar,675.0,253536.0
 Romania,1.0,1.0
 Romania,2.0,1.0
 Romania,3.0,3.0
@@ -94832,6 +94975,7 @@ Romania,674.0,1807223.0
 Romania,675.0,1808891.0
 Romania,676.0,1810342.0
 Romania,677.0,1811300.0
+Romania,678.0,1813056.0
 Russia,1.0,2.0
 Russia,2.0,2.0
 Russia,3.0,2.0
@@ -95535,6 +95679,7 @@ Russia,700.0,10299923.0
 Russia,701.0,10320405.0
 Russia,702.0,10340011.0
 Russia,703.0,10358099.0
+Russia,704.0,10374292.0
 Rwanda,1.0,1.0
 Rwanda,2.0,1.0
 Rwanda,3.0,5.0
@@ -96195,6 +96340,7 @@ Rwanda,657.0,110558.0
 Rwanda,658.0,111786.0
 Rwanda,659.0,112654.0
 Rwanda,660.0,113582.0
+Rwanda,661.0,114580.0
 Saint Kitts and Nevis,1.0,2.0
 Saint Kitts and Nevis,2.0,2.0
 Saint Kitts and Nevis,3.0,2.0
@@ -96844,6 +96990,7 @@ Saint Kitts and Nevis,646.0,2918.0
 Saint Kitts and Nevis,647.0,2999.0
 Saint Kitts and Nevis,648.0,3043.0
 Saint Kitts and Nevis,649.0,3193.0
+Saint Kitts and Nevis,650.0,3252.0
 Saint Lucia,1.0,1.0
 Saint Lucia,2.0,2.0
 Saint Lucia,3.0,2.0
@@ -97504,6 +97651,7 @@ Saint Lucia,657.0,13473.0
 Saint Lucia,658.0,13570.0
 Saint Lucia,659.0,13640.0
 Saint Lucia,660.0,13732.0
+Saint Lucia,661.0,13816.0
 Saint Vincent and the Grenadines,1.0,1.0
 Saint Vincent and the Grenadines,2.0,1.0
 Saint Vincent and the Grenadines,3.0,1.0
@@ -98164,6 +98312,7 @@ Saint Vincent and the Grenadines,657.0,5850.0
 Saint Vincent and the Grenadines,658.0,5850.0
 Saint Vincent and the Grenadines,659.0,5850.0
 Saint Vincent and the Grenadines,660.0,5952.0
+Saint Vincent and the Grenadines,661.0,5991.0
 Samoa,1.0,1.0
 Samoa,2.0,1.0
 Samoa,3.0,1.0
@@ -98575,6 +98724,7 @@ Samoa,408.0,3.0
 Samoa,409.0,3.0
 Samoa,410.0,3.0
 Samoa,411.0,3.0
+Samoa,412.0,3.0
 San Marino,1.0,1.0
 San Marino,2.0,1.0
 San Marino,3.0,1.0
@@ -99249,6 +99399,7 @@ San Marino,671.0,7808.0
 San Marino,672.0,8202.0
 San Marino,673.0,8202.0
 San Marino,674.0,8202.0
+San Marino,675.0,8487.0
 Sao Tome and Principe,1.0,4.0
 Sao Tome and Principe,2.0,4.0
 Sao Tome and Principe,3.0,4.0
@@ -99886,6 +100037,7 @@ Sao Tome and Principe,634.0,3877.0
 Sao Tome and Principe,635.0,3897.0
 Sao Tome and Principe,636.0,3903.0
 Sao Tome and Principe,637.0,3912.0
+Sao Tome and Principe,638.0,3945.0
 Saudi Arabia,1.0,1.0
 Saudi Arabia,2.0,1.0
 Saudi Arabia,3.0,1.0
@@ -100558,6 +100710,7 @@ Saudi Arabia,669.0,555417.0
 Saudi Arabia,670.0,556236.0
 Saudi Arabia,671.0,557082.0
 Saudi Arabia,672.0,558106.0
+Saudi Arabia,673.0,559852.0
 Senegal,1.0,1.0
 Senegal,2.0,2.0
 Senegal,3.0,4.0
@@ -101230,6 +101383,7 @@ Senegal,669.0,74870.0
 Senegal,670.0,75055.0
 Senegal,671.0,75337.0
 Senegal,672.0,75671.0
+Senegal,673.0,75959.0
 Serbia,1.0,1.0
 Serbia,2.0,1.0
 Serbia,3.0,1.0
@@ -101898,6 +102052,7 @@ Serbia,665.0,1297147.0
 Serbia,666.0,1299339.0
 Serbia,667.0,1300949.0
 Serbia,668.0,1302856.0
+Serbia,669.0,1305621.0
 Seychelles,1.0,6.0
 Seychelles,2.0,8.0
 Seychelles,3.0,8.0
@@ -102557,6 +102712,7 @@ Seychelles,656.0,24788.0
 Seychelles,657.0,24788.0
 Seychelles,658.0,24788.0
 Seychelles,659.0,24788.0
+Seychelles,660.0,24788.0
 Sierra Leone,1.0,1.0
 Sierra Leone,2.0,2.0
 Sierra Leone,3.0,2.0
@@ -103200,6 +103356,7 @@ Sierra Leone,640.0,6983.0
 Sierra Leone,641.0,7064.0
 Sierra Leone,642.0,7114.0
 Sierra Leone,643.0,7179.0
+Sierra Leone,644.0,7220.0
 Singapore,1.0,1.0
 Singapore,2.0,3.0
 Singapore,3.0,3.0
@@ -103911,6 +104068,7 @@ Singapore,708.0,279061.0
 Singapore,709.0,279405.0
 Singapore,710.0,279861.0
 Singapore,711.0,280290.0
+Singapore,712.0,280754.0
 Slovakia,1.0,1.0
 Slovakia,2.0,1.0
 Slovakia,3.0,3.0
@@ -104579,6 +104737,7 @@ Slovakia,665.0,1367361.0
 Slovakia,666.0,1371082.0
 Slovakia,667.0,1374354.0
 Slovakia,668.0,1374850.0
+Slovakia,669.0,1376559.0
 Slovenia,1.0,2.0
 Slovenia,2.0,7.0
 Slovenia,3.0,7.0
@@ -105248,6 +105407,7 @@ Slovenia,666.0,462152.0
 Slovenia,667.0,464048.0
 Slovenia,668.0,465711.0
 Slovenia,669.0,466554.0
+Slovenia,670.0,467565.0
 Solomon Islands,1.0,2.0
 Solomon Islands,2.0,2.0
 Solomon Islands,3.0,2.0
@@ -105696,6 +105856,7 @@ Solomon Islands,445.0,24.0
 Solomon Islands,446.0,24.0
 Solomon Islands,447.0,24.0
 Solomon Islands,448.0,24.0
+Solomon Islands,449.0,24.0
 Somalia,1.0,1.0
 Somalia,2.0,1.0
 Somalia,3.0,1.0
@@ -106354,6 +106515,7 @@ Somalia,655.0,23532.0
 Somalia,656.0,23532.0
 Somalia,657.0,23532.0
 Somalia,658.0,23532.0
+Somalia,659.0,23532.0
 South Africa,1.0,1.0
 South Africa,2.0,1.0
 South Africa,3.0,1.0
@@ -107023,6 +107185,7 @@ South Africa,666.0,3446532.0
 South Africa,667.0,3458286.0
 South Africa,668.0,3468079.0
 South Africa,669.0,3472436.0
+South Africa,670.0,3475512.0
 South Sudan,1.0,1.0
 South Sudan,2.0,1.0
 South Sudan,3.0,2.0
@@ -107661,6 +107824,7 @@ South Sudan,635.0,15242.0
 South Sudan,636.0,15242.0
 South Sudan,637.0,15242.0
 South Sudan,638.0,15242.0
+South Sudan,639.0,15242.0
 Spain,1.0,1.0
 Spain,2.0,1.0
 Spain,3.0,1.0
@@ -108363,6 +108527,7 @@ Spain,699.0,6294745.0
 Spain,700.0,6294745.0
 Spain,701.0,6294745.0
 Spain,702.0,6294745.0
+Spain,703.0,6667511.0
 Sri Lanka,1.0,1.0
 Sri Lanka,2.0,1.0
 Sri Lanka,3.0,1.0
@@ -109070,6 +109235,7 @@ Sri Lanka,704.0,586746.0
 Sri Lanka,705.0,587245.0
 Sri Lanka,706.0,587596.0
 Sri Lanka,707.0,587935.0
+Sri Lanka,708.0,588300.0
 Sudan,1.0,1.0
 Sudan,2.0,1.0
 Sudan,3.0,1.0
@@ -109730,6 +109896,7 @@ Sudan,657.0,46518.0
 Sudan,658.0,46518.0
 Sudan,659.0,46518.0
 Sudan,660.0,46518.0
+Sudan,661.0,46518.0
 Summer Olympics 2020,1.0,1.0
 Summer Olympics 2020,2.0,1.0
 Summer Olympics 2020,3.0,1.0
@@ -109928,6 +110095,7 @@ Summer Olympics 2020,195.0,865.0
 Summer Olympics 2020,196.0,865.0
 Summer Olympics 2020,197.0,865.0
 Summer Olympics 2020,198.0,865.0
+Summer Olympics 2020,199.0,865.0
 Suriname,1.0,1.0
 Suriname,2.0,1.0
 Suriname,3.0,1.0
@@ -110588,6 +110756,7 @@ Suriname,657.0,52269.0
 Suriname,658.0,52446.0
 Suriname,659.0,52612.0
 Suriname,660.0,52895.0
+Suriname,661.0,53640.0
 Sweden,1.0,1.0
 Sweden,2.0,1.0
 Sweden,3.0,1.0
@@ -111290,6 +111459,7 @@ Sweden,699.0,1314784.0
 Sweden,700.0,1314784.0
 Sweden,701.0,1314784.0
 Sweden,702.0,1314784.0
+Sweden,703.0,1314784.0
 Switzerland,1.0,1.0
 Switzerland,2.0,1.0
 Switzerland,3.0,8.0
@@ -111968,6 +112138,7 @@ Switzerland,675.0,1313628.0
 Switzerland,676.0,1332615.0
 Switzerland,677.0,1332615.0
 Switzerland,678.0,1332615.0
+Switzerland,679.0,1371062.0
 Syria,1.0,1.0
 Syria,2.0,1.0
 Syria,3.0,1.0
@@ -112620,6 +112791,7 @@ Syria,649.0,50243.0
 Syria,650.0,50278.0
 Syria,651.0,50310.0
 Syria,652.0,50337.0
+Syria,653.0,50364.0
 Taiwan*,1.0,1.0
 Taiwan*,2.0,1.0
 Taiwan*,3.0,3.0
@@ -113332,6 +113504,7 @@ Taiwan*,709.0,16988.0
 Taiwan*,710.0,17029.0
 Taiwan*,711.0,17050.0
 Taiwan*,712.0,17070.0
+Taiwan*,713.0,17095.0
 Tajikistan,1.0,15.0
 Tajikistan,2.0,32.0
 Tajikistan,3.0,76.0
@@ -113944,6 +114117,7 @@ Tajikistan,609.0,17493.0
 Tajikistan,610.0,17493.0
 Tajikistan,611.0,17493.0
 Tajikistan,612.0,17493.0
+Tajikistan,613.0,17493.0
 Tanzania,1.0,1.0
 Tanzania,2.0,1.0
 Tanzania,3.0,3.0
@@ -114438,12 +114612,12 @@ Tanzania,491.0,509.0
 Tanzania,492.0,509.0
 Tanzania,493.0,509.0
 Tanzania,494.0,509.0
-Tanzania,495.0,509.0
-Tanzania,496.0,509.0
-Tanzania,497.0,509.0
-Tanzania,498.0,509.0
-Tanzania,499.0,509.0
-Tanzania,500.0,509.0
+Tanzania,495.0,609.0
+Tanzania,496.0,609.0
+Tanzania,497.0,609.0
+Tanzania,498.0,609.0
+Tanzania,499.0,609.0
+Tanzania,500.0,609.0
 Tanzania,501.0,1017.0
 Tanzania,502.0,1017.0
 Tanzania,503.0,1017.0
@@ -114500,14 +114674,14 @@ Tanzania,553.0,1367.0
 Tanzania,554.0,1367.0
 Tanzania,555.0,1367.0
 Tanzania,556.0,1367.0
-Tanzania,557.0,1367.0
-Tanzania,558.0,1367.0
-Tanzania,559.0,1367.0
-Tanzania,560.0,1367.0
-Tanzania,561.0,1367.0
-Tanzania,562.0,1367.0
-Tanzania,563.0,1367.0
-Tanzania,564.0,1367.0
+Tanzania,557.0,25674.0
+Tanzania,558.0,25674.0
+Tanzania,559.0,25674.0
+Tanzania,560.0,25674.0
+Tanzania,561.0,25674.0
+Tanzania,562.0,25674.0
+Tanzania,563.0,25846.0
+Tanzania,564.0,25846.0
 Tanzania,565.0,25846.0
 Tanzania,566.0,25846.0
 Tanzania,567.0,25846.0
@@ -114552,7 +114726,7 @@ Tanzania,605.0,26196.0
 Tanzania,606.0,26196.0
 Tanzania,607.0,26196.0
 Tanzania,608.0,26196.0
-Tanzania,609.0,26196.0
+Tanzania,609.0,26208.0
 Tanzania,610.0,26208.0
 Tanzania,611.0,26208.0
 Tanzania,612.0,26227.0
@@ -114602,6 +114776,7 @@ Tanzania,655.0,29306.0
 Tanzania,656.0,29306.0
 Tanzania,657.0,29306.0
 Tanzania,658.0,29306.0
+Tanzania,659.0,29306.0
 Thailand,1.0,4.0
 Thailand,2.0,4.0
 Thailand,3.0,5.0
@@ -115314,6 +115489,7 @@ Thailand,709.0,2220324.0
 Thailand,710.0,2223435.0
 Thailand,711.0,2226446.0
 Thailand,712.0,2229558.0
+Thailand,713.0,2232485.0
 Timor-Leste,1.0,1.0
 Timor-Leste,2.0,1.0
 Timor-Leste,3.0,1.0
@@ -115966,6 +116142,7 @@ Timor-Leste,649.0,19833.0
 Timor-Leste,650.0,19837.0
 Timor-Leste,651.0,19839.0
 Timor-Leste,652.0,19839.0
+Timor-Leste,653.0,19842.0
 Togo,1.0,1.0
 Togo,2.0,1.0
 Togo,3.0,1.0
@@ -116634,6 +116811,7 @@ Togo,665.0,29416.0
 Togo,666.0,30163.0
 Togo,667.0,30163.0
 Togo,668.0,31165.0
+Togo,669.0,31390.0
 Tonga,1.0,1.0
 Tonga,2.0,1.0
 Tonga,3.0,1.0
@@ -116700,6 +116878,7 @@ Tonga,63.0,1.0
 Tonga,64.0,1.0
 Tonga,65.0,1.0
 Tonga,66.0,1.0
+Tonga,67.0,1.0
 Trinidad and Tobago,1.0,2.0
 Trinidad and Tobago,2.0,2.0
 Trinidad and Tobago,3.0,4.0
@@ -117360,6 +117539,7 @@ Trinidad and Tobago,657.0,91320.0
 Trinidad and Tobago,658.0,91899.0
 Trinidad and Tobago,659.0,92201.0
 Trinidad and Tobago,660.0,92659.0
+Trinidad and Tobago,661.0,92997.0
 Tunisia,1.0,1.0
 Tunisia,2.0,1.0
 Tunisia,3.0,1.0
@@ -118030,6 +118210,7 @@ Tunisia,667.0,724680.0
 Tunisia,668.0,726706.0
 Tunisia,669.0,727843.0
 Tunisia,670.0,728260.0
+Tunisia,671.0,728802.0
 Turkey,1.0,1.0
 Turkey,2.0,1.0
 Turkey,3.0,5.0
@@ -118693,6 +118874,7 @@ Turkey,660.0,9443734.0
 Turkey,661.0,9484520.0
 Turkey,662.0,9521251.0
 Turkey,663.0,9554771.0
+Turkey,664.0,9599640.0
 US,1.0,1.0
 US,2.0,1.0
 US,3.0,2.0
@@ -118800,611 +118982,612 @@ US,104.0,1192024.0
 US,105.0,1216353.0
 US,106.0,1240616.0
 US,107.0,1268273.0
-US,108.0,1295545.0
-US,109.0,1319991.0
-US,110.0,1339139.0
-US,111.0,1358173.0
-US,112.0,1381016.0
-US,113.0,1401592.0
-US,114.0,1428124.0
-US,115.0,1452945.0
-US,116.0,1477178.0
-US,117.0,1495976.0
-US,118.0,1518110.0
-US,119.0,1538871.0
-US,120.0,1561593.0
-US,121.0,1587399.0
-US,122.0,1611018.0
-US,123.0,1631997.0
-US,124.0,1652588.0
-US,125.0,1671241.0
-US,126.0,1689817.0
-US,127.0,1709224.0
-US,128.0,1730870.0
-US,129.0,1755605.0
-US,130.0,1779689.0
-US,131.0,1799143.0
-US,132.0,1816108.0
-US,133.0,1837391.0
-US,134.0,1857162.0
-US,135.0,1878885.0
-US,136.0,1903886.0
-US,137.0,1925184.0
-US,138.0,1943597.0
-US,139.0,1960101.0
-US,140.0,1978193.0
-US,141.0,1999261.0
-US,142.0,2021643.0
-US,143.0,2046969.0
-US,144.0,2071941.0
-US,145.0,2091361.0
-US,146.0,2109883.0
-US,147.0,2133722.0
-US,148.0,2161111.0
-US,149.0,2189426.0
-US,150.0,2221123.0
-US,151.0,2253736.0
-US,152.0,2279925.0
-US,153.0,2310898.0
-US,154.0,2348120.0
-US,155.0,2384352.0
-US,156.0,2424721.0
-US,157.0,2470931.0
-US,158.0,2512668.0
-US,159.0,2554530.0
-US,160.0,2594172.0
-US,161.0,2642484.0
-US,162.0,2694051.0
-US,163.0,2750399.0
-US,164.0,2803019.0
-US,165.0,2851965.0
-US,166.0,2902403.0
-US,167.0,2945204.0
-US,168.0,3004062.0
-US,169.0,3063785.0
-US,170.0,3124660.0
-US,171.0,3192438.0
-US,172.0,3253809.0
-US,173.0,3314493.0
-US,174.0,3372052.0
-US,175.0,3438491.0
-US,176.0,3506457.0
-US,177.0,3582496.0
-US,178.0,3654747.0
-US,179.0,3718544.0
-US,180.0,3779993.0
-US,181.0,3840205.0
-US,182.0,3905787.0
-US,183.0,3976172.0
-US,184.0,4044429.0
-US,185.0,4118578.0
-US,186.0,4185577.0
-US,187.0,4241733.0
-US,188.0,4297903.0
-US,189.0,4361597.0
-US,190.0,4429972.0
-US,191.0,4497938.0
-US,192.0,4566406.0
-US,193.0,4625538.0
-US,194.0,4671545.0
-US,195.0,4716829.0
-US,196.0,4771803.0
-US,197.0,4827686.0
-US,198.0,4884916.0
-US,199.0,4945980.0
-US,200.0,5001156.0
-US,201.0,5049293.0
-US,202.0,5094513.0
-US,203.0,5147113.0
-US,204.0,5199915.0
-US,205.0,5251444.0
-US,206.0,5316517.0
-US,207.0,5366173.0
-US,208.0,5406277.0
-US,209.0,5441939.0
-US,210.0,5484844.0
-US,211.0,5529107.0
-US,212.0,5573696.0
-US,213.0,5622485.0
-US,214.0,5666889.0
-US,215.0,5701455.0
-US,216.0,5736336.0
-US,217.0,5777263.0
-US,218.0,5821219.0
-US,219.0,5867207.0
-US,220.0,5913742.0
-US,221.0,5957983.0
-US,222.0,5992911.0
-US,223.0,6025525.0
-US,224.0,6068468.0
-US,225.0,6109110.0
-US,226.0,6153463.0
-US,227.0,6204152.0
-US,228.0,6247661.0
-US,229.0,6278711.0
-US,230.0,6302609.0
-US,231.0,6328298.0
-US,232.0,6362835.0
-US,233.0,6398733.0
-US,234.0,6446753.0
-US,235.0,6488441.0
-US,236.0,6522974.0
-US,237.0,6556141.0
-US,238.0,6595684.0
-US,239.0,6634558.0
-US,240.0,6679809.0
-US,241.0,6729031.0
-US,242.0,6771770.0
-US,243.0,6810687.0
-US,244.0,6861281.0
-US,245.0,6901442.0
-US,246.0,6940294.0
-US,247.0,6987769.0
-US,248.0,7036317.0
-US,249.0,7081247.0
-US,250.0,7119401.0
-US,251.0,7151850.0
-US,252.0,7195364.0
-US,253.0,7234443.0
-US,254.0,7280539.0
-US,255.0,7335670.0
-US,256.0,7386329.0
-US,257.0,7420961.0
-US,258.0,7459192.0
-US,259.0,7504411.0
-US,260.0,7555628.0
-US,261.0,7614543.0
-US,262.0,7671293.0
-US,263.0,7727033.0
-US,264.0,7773865.0
-US,265.0,7815597.0
-US,266.0,7866688.0
-US,267.0,7925990.0
-US,268.0,7991104.0
-US,269.0,8060226.0
-US,270.0,8117918.0
-US,271.0,8168908.0
-US,272.0,8235647.0
-US,273.0,8297344.0
-US,274.0,8360665.0
-US,275.0,8436890.0
-US,276.0,8519368.0
-US,277.0,8603096.0
-US,278.0,8665763.0
-US,279.0,8731739.0
-US,280.0,8808900.0
-US,281.0,8888168.0
-US,282.0,8979387.0
-US,283.0,9079478.0
-US,284.0,9170214.0
-US,285.0,9275859.0
-US,286.0,9359193.0
+US,108.0,1295546.0
+US,109.0,1319992.0
+US,110.0,1339140.0
+US,111.0,1358174.0
+US,112.0,1381017.0
+US,113.0,1401593.0
+US,114.0,1428125.0
+US,115.0,1452946.0
+US,116.0,1477179.0
+US,117.0,1495977.0
+US,118.0,1518111.0
+US,119.0,1538872.0
+US,120.0,1561595.0
+US,121.0,1587401.0
+US,122.0,1611020.0
+US,123.0,1631999.0
+US,124.0,1652590.0
+US,125.0,1671243.0
+US,126.0,1689819.0
+US,127.0,1709226.0
+US,128.0,1730872.0
+US,129.0,1755607.0
+US,130.0,1779691.0
+US,131.0,1799145.0
+US,132.0,1816110.0
+US,133.0,1837393.0
+US,134.0,1857164.0
+US,135.0,1878887.0
+US,136.0,1903888.0
+US,137.0,1925186.0
+US,138.0,1943599.0
+US,139.0,1960103.0
+US,140.0,1978195.0
+US,141.0,1999263.0
+US,142.0,2021646.0
+US,143.0,2046972.0
+US,144.0,2071944.0
+US,145.0,2091364.0
+US,146.0,2109886.0
+US,147.0,2133725.0
+US,148.0,2161114.0
+US,149.0,2189429.0
+US,150.0,2221126.0
+US,151.0,2253739.0
+US,152.0,2279928.0
+US,153.0,2310901.0
+US,154.0,2348123.0
+US,155.0,2384355.0
+US,156.0,2424724.0
+US,157.0,2470934.0
+US,158.0,2512671.0
+US,159.0,2554533.0
+US,160.0,2594175.0
+US,161.0,2642487.0
+US,162.0,2694054.0
+US,163.0,2750402.0
+US,164.0,2803022.0
+US,165.0,2851968.0
+US,166.0,2902406.0
+US,167.0,2945207.0
+US,168.0,3004064.0
+US,169.0,3063787.0
+US,170.0,3124662.0
+US,171.0,3192440.0
+US,172.0,3253811.0
+US,173.0,3314495.0
+US,174.0,3372055.0
+US,175.0,3438494.0
+US,176.0,3506460.0
+US,177.0,3582499.0
+US,178.0,3654750.0
+US,179.0,3718547.0
+US,180.0,3779996.0
+US,181.0,3840208.0
+US,182.0,3905790.0
+US,183.0,3976175.0
+US,184.0,4044432.0
+US,185.0,4118581.0
+US,186.0,4185580.0
+US,187.0,4241736.0
+US,188.0,4297906.0
+US,189.0,4361600.0
+US,190.0,4429975.0
+US,191.0,4497941.0
+US,192.0,4566409.0
+US,193.0,4625541.0
+US,194.0,4671547.0
+US,195.0,4716831.0
+US,196.0,4771805.0
+US,197.0,4827688.0
+US,198.0,4884919.0
+US,199.0,4945982.0
+US,200.0,5001158.0
+US,201.0,5049295.0
+US,202.0,5094516.0
+US,203.0,5147116.0
+US,204.0,5199918.0
+US,205.0,5251447.0
+US,206.0,5316520.0
+US,207.0,5366176.0
+US,208.0,5406280.0
+US,209.0,5441942.0
+US,210.0,5484847.0
+US,211.0,5529110.0
+US,212.0,5573699.0
+US,213.0,5622488.0
+US,214.0,5666892.0
+US,215.0,5701458.0
+US,216.0,5736339.0
+US,217.0,5777266.0
+US,218.0,5821222.0
+US,219.0,5867210.0
+US,220.0,5913745.0
+US,221.0,5957986.0
+US,222.0,5992914.0
+US,223.0,6025528.0
+US,224.0,6068471.0
+US,225.0,6109113.0
+US,226.0,6153466.0
+US,227.0,6204155.0
+US,228.0,6247664.0
+US,229.0,6278714.0
+US,230.0,6302612.0
+US,231.0,6328301.0
+US,232.0,6362838.0
+US,233.0,6398736.0
+US,234.0,6446756.0
+US,235.0,6488444.0
+US,236.0,6522977.0
+US,237.0,6556144.0
+US,238.0,6595687.0
+US,239.0,6634561.0
+US,240.0,6679812.0
+US,241.0,6729034.0
+US,242.0,6771773.0
+US,243.0,6810690.0
+US,244.0,6861284.0
+US,245.0,6901445.0
+US,246.0,6940297.0
+US,247.0,6987772.0
+US,248.0,7036320.0
+US,249.0,7081250.0
+US,250.0,7119404.0
+US,251.0,7151853.0
+US,252.0,7195367.0
+US,253.0,7234446.0
+US,254.0,7280542.0
+US,255.0,7335672.0
+US,256.0,7386331.0
+US,257.0,7420963.0
+US,258.0,7459194.0
+US,259.0,7504413.0
+US,260.0,7555630.0
+US,261.0,7614545.0
+US,262.0,7671295.0
+US,263.0,7727035.0
+US,264.0,7773867.0
+US,265.0,7815599.0
+US,266.0,7866690.0
+US,267.0,7925992.0
+US,268.0,7991106.0
+US,269.0,8060228.0
+US,270.0,8117920.0
+US,271.0,8168910.0
+US,272.0,8235649.0
+US,273.0,8297346.0
+US,274.0,8360667.0
+US,275.0,8436892.0
+US,276.0,8519370.0
+US,277.0,8603098.0
+US,278.0,8665765.0
+US,279.0,8731741.0
+US,280.0,8808902.0
+US,281.0,8888170.0
+US,282.0,8979389.0
+US,283.0,9079480.0
+US,284.0,9170216.0
+US,285.0,9275861.0
+US,286.0,9359194.0
 US,287.0,9487028.0
-US,288.0,9591205.0
-US,289.0,9721222.0
-US,290.0,9849034.0
-US,291.0,9981159.0
-US,292.0,10096515.0
-US,293.0,10214562.0
-US,294.0,10354833.0
-US,295.0,10504321.0
-US,296.0,10666088.0
-US,297.0,10847214.0
-US,298.0,11019499.0
-US,299.0,11157412.0
-US,300.0,11316590.0
-US,301.0,11480754.0
-US,302.0,11654168.0
-US,303.0,11846068.0
-US,304.0,12047504.0
-US,305.0,12229538.0
-US,306.0,12376190.0
-US,307.0,12548137.0
-US,308.0,12725372.0
-US,309.0,12910266.0
-US,310.0,13028652.0
-US,311.0,13231674.0
-US,312.0,13390431.0
-US,313.0,13531272.0
-US,314.0,13686965.0
-US,315.0,13881000.0
-US,316.0,14085504.0
-US,317.0,14309662.0
-US,318.0,14544975.0
-US,319.0,14766884.0
-US,320.0,14946101.0
-US,321.0,15136250.0
-US,322.0,15367199.0
-US,323.0,15588335.0
-US,324.0,15823010.0
-US,325.0,16063267.0
-US,326.0,16285431.0
-US,327.0,16472135.0
-US,328.0,16672761.0
-US,329.0,16894810.0
-US,330.0,17135496.0
-US,331.0,17372722.0
-US,332.0,17621680.0
-US,333.0,17824251.0
-US,334.0,18009597.0
-US,335.0,18199313.0
-US,336.0,18401282.0
-US,337.0,18627062.0
-US,338.0,18831949.0
-US,339.0,18940634.0
-US,340.0,19159626.0
-US,341.0,19314620.0
-US,342.0,19481303.0
-US,343.0,19682998.0
-US,344.0,19905935.0
-US,345.0,20164045.0
-US,346.0,20330303.0
-US,347.0,20626182.0
-US,348.0,20829831.0
-US,349.0,21011477.0
-US,350.0,21242720.0
-US,351.0,21499587.0
-US,352.0,21788197.0
-US,353.0,22091658.0
-US,354.0,22351188.0
-US,355.0,22564561.0
-US,356.0,22775398.0
-US,357.0,22994299.0
-US,358.0,23224140.0
-US,359.0,23462183.0
-US,360.0,23709208.0
-US,361.0,23917841.0
-US,362.0,24094432.0
-US,363.0,24235515.0
-US,364.0,24399801.0
-US,365.0,24585195.0
-US,366.0,24777522.0
-US,367.0,24967050.0
-US,368.0,25141913.0
-US,369.0,25279747.0
-US,370.0,25421864.0
-US,371.0,25566645.0
-US,372.0,25721780.0
-US,373.0,25889216.0
-US,374.0,26055063.0
-US,375.0,26200746.0
-US,376.0,26316175.0
-US,377.0,26445543.0
-US,378.0,26559415.0
-US,379.0,26682527.0
-US,380.0,26806454.0
-US,381.0,26938113.0
-US,382.0,27049066.0
-US,383.0,27140949.0
-US,384.0,27225958.0
-US,385.0,27320553.0
-US,386.0,27416385.0
-US,387.0,27522688.0
-US,388.0,27622718.0
-US,389.0,27711572.0
-US,390.0,27777921.0
-US,391.0,27832564.0
-US,392.0,27891168.0
-US,393.0,27961237.0
-US,394.0,28032593.0
-US,395.0,28110778.0
-US,396.0,28184185.0
-US,397.0,28242081.0
-US,398.0,28296919.0
-US,399.0,28368933.0
-US,400.0,28443944.0
-US,401.0,28522002.0
-US,402.0,28600736.0
-US,403.0,28666801.0
-US,404.0,28718668.0
-US,405.0,28773156.0
-US,406.0,28830222.0
-US,407.0,28897371.0
-US,408.0,28965903.0
-US,409.0,29032768.0
-US,410.0,29092063.0
-US,411.0,29134129.0
-US,412.0,29178442.0
-US,413.0,29234248.0
-US,414.0,29292481.0
-US,415.0,29355377.0
-US,416.0,29417450.0
-US,417.0,29471042.0
-US,418.0,29509894.0
-US,419.0,29564662.0
-US,420.0,29619043.0
-US,421.0,29678531.0
-US,422.0,29739056.0
-US,423.0,29801121.0
-US,424.0,29858143.0
-US,425.0,29893121.0
-US,426.0,29942602.0
-US,427.0,29995901.0
-US,428.0,30083022.0
-US,429.0,30150998.0
-US,430.0,30228534.0
-US,431.0,30290757.0
-US,432.0,30337111.0
-US,433.0,30404408.0
-US,434.0,30465845.0
-US,435.0,30532817.0
-US,436.0,30612003.0
-US,437.0,30683852.0
-US,438.0,30748099.0
-US,439.0,30784748.0
-US,440.0,30857901.0
-US,441.0,30919044.0
-US,442.0,30994031.0
-US,443.0,31074283.0
-US,444.0,31158620.0
-US,445.0,31227914.0
-US,446.0,31274357.0
-US,447.0,31341315.0
-US,448.0,31420459.0
-US,449.0,31495775.0
-US,450.0,31569685.0
-US,451.0,31650062.0
-US,452.0,31704223.0
-US,453.0,31747105.0
-US,454.0,31813279.0
-US,455.0,31874199.0
-US,456.0,31938023.0
-US,457.0,32005013.0
-US,458.0,32067393.0
-US,459.0,32121586.0
-US,460.0,32155560.0
-US,461.0,32201220.0
-US,462.0,32251953.0
-US,463.0,32307046.0
-US,464.0,32365959.0
-US,465.0,32424119.0
-US,466.0,32470779.0
-US,467.0,32500841.0
-US,468.0,32549612.0
-US,469.0,32590411.0
-US,470.0,32636115.0
-US,471.0,32683070.0
-US,472.0,32731177.0
-US,473.0,32765696.0
-US,474.0,32787796.0
-US,475.0,32822948.0
-US,476.0,32857009.0
-US,477.0,32893202.0
-US,478.0,32931731.0
-US,479.0,32973594.0
-US,480.0,33003204.0
-US,481.0,33020645.0
-US,482.0,33048416.0
-US,483.0,33076213.0
-US,484.0,33105721.0
-US,485.0,33135565.0
-US,486.0,33164116.0
-US,487.0,33184690.0
-US,488.0,33198162.0
-US,489.0,33222606.0
-US,490.0,33245696.0
-US,491.0,33270229.0
-US,492.0,33297378.0
-US,493.0,33319301.0
-US,494.0,33331919.0
-US,495.0,33339095.0
-US,496.0,33345206.0
-US,497.0,33366702.0
-US,498.0,33383898.0
-US,499.0,33403002.0
-US,500.0,33420136.0
-US,501.0,33434741.0
-US,502.0,33440566.0
-US,503.0,33455396.0
-US,504.0,33468478.0
-US,505.0,33487467.0
-US,506.0,33501831.0
-US,507.0,33526665.0
-US,508.0,33535429.0
-US,509.0,33540693.0
-US,510.0,33552839.0
-US,511.0,33563739.0
-US,512.0,33576316.0
-US,513.0,33586939.0
-US,514.0,33608304.0
-US,515.0,33616985.0
-US,516.0,33621570.0
-US,517.0,33632906.0
-US,518.0,33643771.0
-US,519.0,33656929.0
-US,520.0,33670591.0
-US,521.0,33694926.0
-US,522.0,33703798.0
-US,523.0,33708180.0
-US,524.0,33722487.0
-US,525.0,33729270.0
-US,526.0,33745593.0
-US,527.0,33759971.0
-US,528.0,33789350.0
-US,529.0,33794249.0
-US,530.0,33798149.0
-US,531.0,33807058.0
-US,532.0,33830132.0
-US,533.0,33852766.0
-US,534.0,33871795.0
-US,535.0,33919286.0
-US,536.0,33928068.0
-US,537.0,33939423.0
-US,538.0,33972474.0
-US,539.0,33998866.0
-US,540.0,34032035.0
-US,541.0,34061943.0
-US,542.0,34139423.0
-US,543.0,34151818.0
-US,544.0,34172013.0
-US,545.0,34223404.0
-US,546.0,34263974.0
-US,547.0,34314558.0
-US,548.0,34369224.0
-US,549.0,34488619.0
-US,550.0,34514730.0
-US,551.0,34540868.0
-US,552.0,34625957.0
-US,553.0,34694699.0
-US,554.0,34764139.0
-US,555.0,34843429.0
-US,556.0,35031500.0
-US,557.0,35065721.0
-US,558.0,35109562.0
-US,559.0,35227314.0
-US,560.0,35330515.0
-US,561.0,35427187.0
-US,562.0,35538110.0
-US,563.0,35793407.0
-US,564.0,35844880.0
-US,565.0,35874206.0
-US,566.0,36050107.0
-US,567.0,36171317.0
-US,568.0,36327574.0
-US,569.0,36469771.0
-US,570.0,36699620.0
-US,571.0,36751449.0
-US,572.0,36795803.0
-US,573.0,37010574.0
-US,574.0,37163393.0
-US,575.0,37322021.0
-US,576.0,37479259.0
-US,577.0,37724945.0
-US,578.0,37794863.0
-US,579.0,37833873.0
-US,580.0,38065282.0
-US,581.0,38222408.0
-US,582.0,38391842.0
-US,583.0,38576288.0
-US,584.0,38819866.0
-US,585.0,38885182.0
-US,586.0,38930736.0
-US,587.0,39182745.0
-US,588.0,39354020.0
-US,589.0,39556273.0
-US,590.0,39731355.0
-US,591.0,39966949.0
-US,592.0,40041055.0
-US,593.0,40088390.0
-US,594.0,40168989.0
-US,595.0,40423787.0
-US,596.0,40606818.0
-US,597.0,40766938.0
-US,598.0,40995147.0
-US,599.0,41068775.0
-US,600.0,41111681.0
-US,601.0,41356207.0
-US,602.0,41502390.0
-US,603.0,41672968.0
-US,604.0,41828477.0
-US,605.0,42037348.0
-US,606.0,42101630.0
-US,607.0,42143832.0
-US,608.0,42332238.0
-US,609.0,42453894.0
-US,610.0,42587027.0
-US,611.0,42713501.0
-US,612.0,42890408.0
-US,613.0,42944437.0
-US,614.0,42994068.0
-US,615.0,43158735.0
-US,616.0,43270115.0
-US,617.0,43393533.0
-US,618.0,43503489.0
-US,619.0,43656367.0
-US,620.0,43701353.0
-US,621.0,43743131.0
-US,622.0,43894401.0
-US,623.0,43991780.0
-US,624.0,44102371.0
-US,625.0,44202917.0
-US,626.0,44329394.0
-US,627.0,44362232.0
-US,628.0,44399859.0
-US,629.0,44500500.0
-US,630.0,44606876.0
-US,631.0,44728452.0
-US,632.0,44814831.0
-US,633.0,44924628.0
-US,634.0,44960989.0
-US,635.0,44992921.0
-US,636.0,45095121.0
-US,637.0,45176069.0
-US,638.0,45267525.0
-US,639.0,45346422.0
-US,640.0,45441574.0
-US,641.0,45471716.0
-US,642.0,45489941.0
-US,643.0,45604243.0
-US,644.0,45672954.0
-US,645.0,45773850.0
-US,646.0,45851400.0
-US,647.0,45944979.0
-US,648.0,45977548.0
-US,649.0,46009248.0
-US,650.0,46123230.0
-US,651.0,46194344.0
-US,652.0,46278919.0
-US,653.0,46360749.0
-US,654.0,46456834.0
-US,655.0,46490890.0
-US,656.0,46526785.0
-US,657.0,46637388.0
-US,658.0,46717711.0
-US,659.0,46812731.0
-US,660.0,46869894.0
-US,661.0,47014797.0
-US,662.0,47057352.0
-US,663.0,47088445.0
-US,664.0,47225290.0
-US,665.0,47313135.0
-US,666.0,47424866.0
-US,667.0,47535215.0
-US,668.0,47661082.0
-US,669.0,47704782.0
-US,670.0,47743713.0
-US,671.0,47891418.0
-US,672.0,47984140.0
-US,673.0,48095786.0
-US,674.0,48130591.0
-US,675.0,48182676.0
-US,676.0,48208168.0
-US,677.0,48250316.0
-US,678.0,48443111.0
-US,679.0,48560598.0
-US,680.0,48699210.0
-US,681.0,48837648.0
-US,682.0,48991304.0
-US,683.0,49054924.0
-US,684.0,49104723.0
-US,685.0,49284505.0
-US,686.0,49397806.0
-US,687.0,49548683.0
-US,688.0,49670908.0
-US,689.0,49841640.0
-US,690.0,49896401.0
-US,691.0,49946958.0
-US,692.0,50134224.0
-US,693.0,50250282.0
-US,694.0,50394357.0
-US,695.0,50536043.0
-US,696.0,50728933.0
-US,697.0,50805294.0
-US,698.0,50892021.0
-US,699.0,51133980.0
-US,700.0,51312430.0
-US,701.0,51553481.0
-US,702.0,51814820.0
-US,703.0,52041953.0
-US,704.0,52098906.0
-US,705.0,52280854.0
-US,706.0,52793407.0
-US,707.0,53170421.0
-US,708.0,53659688.0
-US,709.0,54246831.0
-US,710.0,54743982.0
-US,711.0,54859966.0
-US,712.0,55114057.0
+US,288.0,9591203.0
+US,289.0,9721219.0
+US,290.0,9849031.0
+US,291.0,9981155.0
+US,292.0,10096510.0
+US,293.0,10214556.0
+US,294.0,10354827.0
+US,295.0,10504315.0
+US,296.0,10666081.0
+US,297.0,10847207.0
+US,298.0,11019491.0
+US,299.0,11157404.0
+US,300.0,11316582.0
+US,301.0,11480745.0
+US,302.0,11654158.0
+US,303.0,11846057.0
+US,304.0,12047493.0
+US,305.0,12229527.0
+US,306.0,12376174.0
+US,307.0,12548120.0
+US,308.0,12725355.0
+US,309.0,12910248.0
+US,310.0,13028634.0
+US,311.0,13231655.0
+US,312.0,13390411.0
+US,313.0,13531251.0
+US,314.0,13686941.0
+US,315.0,13880976.0
+US,316.0,14085477.0
+US,317.0,14309633.0
+US,318.0,14544946.0
+US,319.0,14766853.0
+US,320.0,14946070.0
+US,321.0,15136219.0
+US,322.0,15367167.0
+US,323.0,15588302.0
+US,324.0,15822975.0
+US,325.0,16063231.0
+US,326.0,16285394.0
+US,327.0,16472093.0
+US,328.0,16672720.0
+US,329.0,16894766.0
+US,330.0,17135451.0
+US,331.0,17372674.0
+US,332.0,17621628.0
+US,333.0,17824198.0
+US,334.0,18009542.0
+US,335.0,18199258.0
+US,336.0,18401221.0
+US,337.0,18626999.0
+US,338.0,18831882.0
+US,339.0,18940567.0
+US,340.0,19159558.0
+US,341.0,19314549.0
+US,342.0,19481232.0
+US,343.0,19682925.0
+US,344.0,19905861.0
+US,345.0,20163970.0
+US,346.0,20330227.0
+US,347.0,20626102.0
+US,348.0,20829750.0
+US,349.0,21011395.0
+US,350.0,21242637.0
+US,351.0,21499503.0
+US,352.0,21788111.0
+US,353.0,22091570.0
+US,354.0,22351100.0
+US,355.0,22564473.0
+US,356.0,22775307.0
+US,357.0,22994207.0
+US,358.0,23224047.0
+US,359.0,23462087.0
+US,360.0,23709113.0
+US,361.0,23917745.0
+US,362.0,24094337.0
+US,363.0,24235417.0
+US,364.0,24399702.0
+US,365.0,24585092.0
+US,366.0,24777418.0
+US,367.0,24966945.0
+US,368.0,25141808.0
+US,369.0,25279642.0
+US,370.0,25421759.0
+US,371.0,25566539.0
+US,372.0,25721674.0
+US,373.0,25889109.0
+US,374.0,26054956.0
+US,375.0,26200639.0
+US,376.0,26316068.0
+US,377.0,26445435.0
+US,378.0,26559307.0
+US,379.0,26682418.0
+US,380.0,26806343.0
+US,381.0,26938002.0
+US,382.0,27048955.0
+US,383.0,27140838.0
+US,384.0,27225846.0
+US,385.0,27320441.0
+US,386.0,27416273.0
+US,387.0,27522576.0
+US,388.0,27622605.0
+US,389.0,27711459.0
+US,390.0,27777808.0
+US,391.0,27832451.0
+US,392.0,27891055.0
+US,393.0,27961123.0
+US,394.0,28032479.0
+US,395.0,28110664.0
+US,396.0,28184071.0
+US,397.0,28241967.0
+US,398.0,28296804.0
+US,399.0,28368817.0
+US,400.0,28443828.0
+US,401.0,28521885.0
+US,402.0,28600619.0
+US,403.0,28666684.0
+US,404.0,28718551.0
+US,405.0,28773039.0
+US,406.0,28830105.0
+US,407.0,28897254.0
+US,408.0,28965786.0
+US,409.0,29032651.0
+US,410.0,29091946.0
+US,411.0,29134012.0
+US,412.0,29178325.0
+US,413.0,29234131.0
+US,414.0,29292364.0
+US,415.0,29355260.0
+US,416.0,29417333.0
+US,417.0,29470925.0
+US,418.0,29509777.0
+US,419.0,29564544.0
+US,420.0,29618925.0
+US,421.0,29678413.0
+US,422.0,29738938.0
+US,423.0,29801003.0
+US,424.0,29858024.0
+US,425.0,29893002.0
+US,426.0,29942482.0
+US,427.0,29995780.0
+US,428.0,30082900.0
+US,429.0,30150876.0
+US,430.0,30228412.0
+US,431.0,30290635.0
+US,432.0,30336989.0
+US,433.0,30404286.0
+US,434.0,30465723.0
+US,435.0,30532694.0
+US,436.0,30611880.0
+US,437.0,30683729.0
+US,438.0,30747975.0
+US,439.0,30784624.0
+US,440.0,30857777.0
+US,441.0,30918920.0
+US,442.0,30993906.0
+US,443.0,31074158.0
+US,444.0,31158495.0
+US,445.0,31227789.0
+US,446.0,31274232.0
+US,447.0,31341189.0
+US,448.0,31420333.0
+US,449.0,31495649.0
+US,450.0,31569559.0
+US,451.0,31649936.0
+US,452.0,31704097.0
+US,453.0,31746979.0
+US,454.0,31813153.0
+US,455.0,31874073.0
+US,456.0,31937897.0
+US,457.0,32004887.0
+US,458.0,32067266.0
+US,459.0,32121459.0
+US,460.0,32155433.0
+US,461.0,32201093.0
+US,462.0,32251826.0
+US,463.0,32306919.0
+US,464.0,32365832.0
+US,465.0,32423991.0
+US,466.0,32470651.0
+US,467.0,32500713.0
+US,468.0,32549484.0
+US,469.0,32590283.0
+US,470.0,32635987.0
+US,471.0,32682942.0
+US,472.0,32731048.0
+US,473.0,32765567.0
+US,474.0,32787667.0
+US,475.0,32822819.0
+US,476.0,32856880.0
+US,477.0,32893073.0
+US,478.0,32931602.0
+US,479.0,32973465.0
+US,480.0,33003075.0
+US,481.0,33020516.0
+US,482.0,33048287.0
+US,483.0,33076084.0
+US,484.0,33105592.0
+US,485.0,33135436.0
+US,486.0,33163988.0
+US,487.0,33184562.0
+US,488.0,33198034.0
+US,489.0,33222478.0
+US,490.0,33245568.0
+US,491.0,33270101.0
+US,492.0,33297250.0
+US,493.0,33319173.0
+US,494.0,33331791.0
+US,495.0,33338967.0
+US,496.0,33345078.0
+US,497.0,33366574.0
+US,498.0,33383769.0
+US,499.0,33402873.0
+US,500.0,33420007.0
+US,501.0,33434612.0
+US,502.0,33440437.0
+US,503.0,33455266.0
+US,504.0,33468347.0
+US,505.0,33487336.0
+US,506.0,33501700.0
+US,507.0,33526534.0
+US,508.0,33535298.0
+US,509.0,33540562.0
+US,510.0,33552708.0
+US,511.0,33563608.0
+US,512.0,33576185.0
+US,513.0,33586808.0
+US,514.0,33608173.0
+US,515.0,33616854.0
+US,516.0,33621439.0
+US,517.0,33632775.0
+US,518.0,33643640.0
+US,519.0,33656798.0
+US,520.0,33670460.0
+US,521.0,33694795.0
+US,522.0,33703667.0
+US,523.0,33708049.0
+US,524.0,33722356.0
+US,525.0,33729139.0
+US,526.0,33745462.0
+US,527.0,33759839.0
+US,528.0,33789218.0
+US,529.0,33794117.0
+US,530.0,33798017.0
+US,531.0,33806926.0
+US,532.0,33830000.0
+US,533.0,33852633.0
+US,534.0,33871661.0
+US,535.0,33919152.0
+US,536.0,33927934.0
+US,537.0,33939289.0
+US,538.0,33972340.0
+US,539.0,33998731.0
+US,540.0,34031900.0
+US,541.0,34061808.0
+US,542.0,34139287.0
+US,543.0,34151681.0
+US,544.0,34171876.0
+US,545.0,34223268.0
+US,546.0,34263837.0
+US,547.0,34314421.0
+US,548.0,34369086.0
+US,549.0,34488481.0
+US,550.0,34514592.0
+US,551.0,34540730.0
+US,552.0,34625819.0
+US,553.0,34694558.0
+US,554.0,34763997.0
+US,555.0,34843287.0
+US,556.0,35031358.0
+US,557.0,35065578.0
+US,558.0,35109418.0
+US,559.0,35227169.0
+US,560.0,35330370.0
+US,561.0,35427042.0
+US,562.0,35537965.0
+US,563.0,35793262.0
+US,564.0,35844735.0
+US,565.0,35874059.0
+US,566.0,36049960.0
+US,567.0,36171170.0
+US,568.0,36327428.0
+US,569.0,36469625.0
+US,570.0,36699472.0
+US,571.0,36751301.0
+US,572.0,36795656.0
+US,573.0,37010426.0
+US,574.0,37163247.0
+US,575.0,37321875.0
+US,576.0,37479114.0
+US,577.0,37724800.0
+US,578.0,37794718.0
+US,579.0,37833727.0
+US,580.0,38065136.0
+US,581.0,38222263.0
+US,582.0,38391696.0
+US,583.0,38576143.0
+US,584.0,38819722.0
+US,585.0,38885039.0
+US,586.0,38930590.0
+US,587.0,39182598.0
+US,588.0,39353876.0
+US,589.0,39556129.0
+US,590.0,39731212.0
+US,591.0,39966805.0
+US,592.0,40040910.0
+US,593.0,40088245.0
+US,594.0,40168844.0
+US,595.0,40423642.0
+US,596.0,40606673.0
+US,597.0,40766792.0
+US,598.0,40995001.0
+US,599.0,41068628.0
+US,600.0,41111533.0
+US,601.0,41356059.0
+US,602.0,41502249.0
+US,603.0,41672834.0
+US,604.0,41828348.0
+US,605.0,42037222.0
+US,606.0,42101504.0
+US,607.0,42143705.0
+US,608.0,42332114.0
+US,609.0,42453773.0
+US,610.0,42586906.0
+US,611.0,42713380.0
+US,612.0,42890288.0
+US,613.0,42944318.0
+US,614.0,42993948.0
+US,615.0,43158614.0
+US,616.0,43269993.0
+US,617.0,43393412.0
+US,618.0,43503368.0
+US,619.0,43656245.0
+US,620.0,43701232.0
+US,621.0,43743010.0
+US,622.0,43894279.0
+US,623.0,43991658.0
+US,624.0,44102249.0
+US,625.0,44202795.0
+US,626.0,44329272.0
+US,627.0,44362110.0
+US,628.0,44399737.0
+US,629.0,44500378.0
+US,630.0,44606753.0
+US,631.0,44728329.0
+US,632.0,44814707.0
+US,633.0,44924503.0
+US,634.0,44960864.0
+US,635.0,44992796.0
+US,636.0,45094996.0
+US,637.0,45175944.0
+US,638.0,45267400.0
+US,639.0,45346299.0
+US,640.0,45441451.0
+US,641.0,45471592.0
+US,642.0,45489817.0
+US,643.0,45604119.0
+US,644.0,45672830.0
+US,645.0,45773731.0
+US,646.0,45851283.0
+US,647.0,45944868.0
+US,648.0,45977440.0
+US,649.0,46009140.0
+US,650.0,46123123.0
+US,651.0,46194240.0
+US,652.0,46278817.0
+US,653.0,46360647.0
+US,654.0,46456734.0
+US,655.0,46490792.0
+US,656.0,46526688.0
+US,657.0,46637293.0
+US,658.0,46717616.0
+US,659.0,46812637.0
+US,660.0,46869801.0
+US,661.0,47014700.0
+US,662.0,47057256.0
+US,663.0,47088349.0
+US,664.0,47225196.0
+US,665.0,47313041.0
+US,666.0,47424773.0
+US,667.0,47535123.0
+US,668.0,47660990.0
+US,669.0,47704692.0
+US,670.0,47743623.0
+US,671.0,47891329.0
+US,672.0,47984051.0
+US,673.0,48095699.0
+US,674.0,48130504.0
+US,675.0,48182594.0
+US,676.0,48208087.0
+US,677.0,48250235.0
+US,678.0,48443028.0
+US,679.0,48560513.0
+US,680.0,48699124.0
+US,681.0,48837564.0
+US,682.0,48991223.0
+US,683.0,49054845.0
+US,684.0,49104646.0
+US,685.0,49284432.0
+US,686.0,49397736.0
+US,687.0,49548608.0
+US,688.0,49670822.0
+US,689.0,49841560.0
+US,690.0,49896323.0
+US,691.0,49946891.0
+US,692.0,50134176.0
+US,693.0,50250247.0
+US,694.0,50394344.0
+US,695.0,50536051.0
+US,696.0,50728954.0
+US,697.0,50805383.0
+US,698.0,50892242.0
+US,699.0,51134328.0
+US,700.0,51313310.0
+US,701.0,51554991.0
+US,702.0,51824224.0
+US,703.0,52043686.0
+US,704.0,52100740.0
+US,705.0,52283306.0
+US,706.0,52827635.0
+US,707.0,53182318.0
+US,708.0,53679320.0
+US,709.0,54269896.0
+US,710.0,54742382.0
+US,711.0,54858366.0
+US,712.0,55106998.0
+US,713.0,56190946.0
 Uganda,1.0,1.0
 Uganda,2.0,1.0
 Uganda,3.0,9.0
@@ -120058,6 +120241,7 @@ Uganda,650.0,139079.0
 Uganda,651.0,140737.0
 Uganda,652.0,142604.0
 Uganda,653.0,144540.0
+Uganda,654.0,145963.0
 Ukraine,1.0,1.0
 Ukraine,2.0,1.0
 Ukraine,3.0,1.0
@@ -120729,6 +120913,7 @@ Ukraine,668.0,3840041.0
 Ukraine,669.0,3847226.0
 Ukraine,670.0,3852397.0
 Ukraine,671.0,3854405.0
+Ukraine,672.0,3856359.0
 United Arab Emirates,1.0,4.0
 United Arab Emirates,2.0,4.0
 United Arab Emirates,3.0,4.0
@@ -121434,6 +121619,7 @@ United Arab Emirates,702.0,759511.0
 United Arab Emirates,703.0,761937.0
 United Arab Emirates,704.0,764493.0
 United Arab Emirates,705.0,767093.0
+United Arab Emirates,706.0,769608.0
 United Kingdom,1.0,2.0
 United Kingdom,2.0,2.0
 United Kingdom,3.0,2.0
@@ -122133,10 +122319,11 @@ United Kingdom,696.0,11958928.0
 United Kingdom,697.0,12277814.0
 United Kingdom,698.0,12406697.0
 United Kingdom,699.0,12630442.0
-United Kingdom,700.0,12820359.0
+United Kingdom,700.0,12820685.0
 United Kingdom,701.0,13011556.0
 United Kingdom,702.0,13174528.0
 United Kingdom,703.0,13309651.0
+United Kingdom,704.0,13497515.0
 Uruguay,1.0,4.0
 Uruguay,2.0,6.0
 Uruguay,3.0,8.0
@@ -122798,6 +122985,7 @@ Uruguay,658.0,411658.0
 Uruguay,659.0,413383.0
 Uruguay,660.0,414294.0
 Uruguay,661.0,415249.0
+Uruguay,662.0,416970.0
 Uzbekistan,1.0,1.0
 Uzbekistan,2.0,6.0
 Uzbekistan,3.0,10.0
@@ -123457,6 +123645,7 @@ Uzbekistan,656.0,198769.0
 Uzbekistan,657.0,198903.0
 Uzbekistan,658.0,199030.0
 Uzbekistan,659.0,199118.0
+Uzbekistan,660.0,199182.0
 Vanuatu,1.0,1.0
 Vanuatu,2.0,1.0
 Vanuatu,3.0,1.0
@@ -123876,6 +124065,7 @@ Vanuatu,416.0,7.0
 Vanuatu,417.0,7.0
 Vanuatu,418.0,7.0
 Vanuatu,419.0,7.0
+Vanuatu,420.0,7.0
 Venezuela,1.0,2.0
 Venezuela,2.0,10.0
 Venezuela,3.0,17.0
@@ -124536,6 +124726,7 @@ Venezuela,657.0,444411.0
 Venezuela,658.0,444635.0
 Venezuela,659.0,444828.0
 Venezuela,660.0,444972.0
+Venezuela,661.0,445082.0
 Vietnam,1.0,2.0
 Vietnam,2.0,2.0
 Vietnam,3.0,2.0
@@ -125247,6 +125438,7 @@ Vietnam,708.0,1714742.0
 Vietnam,709.0,1731257.0
 Vietnam,710.0,1746092.0
 Vietnam,711.0,1763040.0
+Vietnam,712.0,1778976.0
 West Bank and Gaza,1.0,4.0
 West Bank and Gaza,2.0,7.0
 West Bank and Gaza,3.0,16.0
@@ -125916,6 +126108,7 @@ West Bank and Gaza,666.0,469748.0
 West Bank and Gaza,667.0,469748.0
 West Bank and Gaza,668.0,469748.0
 West Bank and Gaza,669.0,469748.0
+West Bank and Gaza,670.0,469748.0
 Yemen,1.0,1.0
 Yemen,2.0,1.0
 Yemen,3.0,1.0
@@ -126549,6 +126742,7 @@ Yemen,630.0,10126.0
 Yemen,631.0,10126.0
 Yemen,632.0,10127.0
 Yemen,633.0,10130.0
+Yemen,634.0,10138.0
 Zambia,1.0,2.0
 Zambia,2.0,2.0
 Zambia,3.0,2.0
@@ -127205,6 +127399,7 @@ Zambia,653.0,249193.0
 Zambia,654.0,254274.0
 Zambia,655.0,257948.0
 Zambia,656.0,259677.0
+Zambia,657.0,261221.0
 Zimbabwe,1.0,1.0
 Zimbabwe,2.0,3.0
 Zimbabwe,3.0,3.0
@@ -127859,3 +128054,4 @@ Zimbabwe,651.0,211728.0
 Zimbabwe,652.0,213258.0
 Zimbabwe,653.0,214214.0
 Zimbabwe,654.0,214214.0
+Zimbabwe,655.0,216087.0
