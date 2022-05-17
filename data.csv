@@ -811,6 +811,7 @@ Afghanistan,809.0,179169.0
 Afghanistan,810.0,179203.0
 Afghanistan,811.0,179242.0
 Afghanistan,812.0,179267.0
+Afghanistan,813.0,179321.0
 Albania,1.0,2.0
 Albania,2.0,10.0
 Albania,3.0,12.0
@@ -1609,6 +1610,7 @@ Albania,795.0,275485.0
 Albania,796.0,275534.0
 Albania,797.0,275574.0
 Albania,798.0,275615.0
+Albania,799.0,275621.0
 Algeria,1.0,1.0
 Algeria,2.0,1.0
 Algeria,3.0,1.0
@@ -2420,6 +2422,7 @@ Algeria,808.0,265808.0
 Algeria,809.0,265814.0
 Algeria,810.0,265816.0
 Algeria,811.0,265818.0
+Algeria,812.0,265823.0
 Andorra,1.0,1.0
 Andorra,2.0,1.0
 Andorra,3.0,1.0
@@ -3225,6 +3228,7 @@ Andorra,802.0,42156.0
 Andorra,803.0,42156.0
 Andorra,804.0,42156.0
 Andorra,805.0,42156.0
+Andorra,806.0,42156.0
 Angola,1.0,1.0
 Angola,2.0,2.0
 Angola,3.0,2.0
@@ -4012,6 +4016,7 @@ Angola,784.0,99287.0
 Angola,785.0,99287.0
 Angola,786.0,99287.0
 Angola,787.0,99287.0
+Angola,788.0,99287.0
 Antarctica,1.0,11.0
 Antarctica,2.0,11.0
 Antarctica,3.0,11.0
@@ -4165,6 +4170,7 @@ Antarctica,150.0,11.0
 Antarctica,151.0,11.0
 Antarctica,152.0,11.0
 Antarctica,153.0,11.0
+Antarctica,154.0,11.0
 Antigua and Barbuda,1.0,1.0
 Antigua and Barbuda,2.0,1.0
 Antigua and Barbuda,3.0,1.0
@@ -4959,6 +4965,7 @@ Antigua and Barbuda,791.0,7721.0
 Antigua and Barbuda,792.0,7721.0
 Antigua and Barbuda,793.0,7721.0
 Antigua and Barbuda,794.0,7721.0
+Antigua and Barbuda,795.0,7795.0
 Argentina,1.0,1.0
 Argentina,2.0,1.0
 Argentina,3.0,1.0
@@ -5763,6 +5770,7 @@ Argentina,801.0,9101319.0
 Argentina,802.0,9101319.0
 Argentina,803.0,9101319.0
 Argentina,804.0,9135308.0
+Argentina,805.0,9135308.0
 Armenia,1.0,1.0
 Armenia,2.0,1.0
 Armenia,3.0,1.0
@@ -6569,6 +6577,7 @@ Armenia,803.0,422900.0
 Armenia,804.0,422900.0
 Armenia,805.0,422900.0
 Armenia,806.0,422900.0
+Armenia,807.0,422917.0
 Australia,1.0,4.0
 Australia,2.0,5.0
 Australia,3.0,5.0
@@ -7410,817 +7419,819 @@ Australia,838.0,6496882.0
 Australia,839.0,6548368.0
 Australia,840.0,6590066.0
 Australia,841.0,6635840.0
+Australia,842.0,6703295.0
 Austria,1.0,2.0
-Austria,2.0,2.0
-Austria,3.0,3.0
-Austria,4.0,3.0
-Austria,5.0,9.0
-Austria,6.0,14.0
-Austria,7.0,18.0
-Austria,8.0,21.0
-Austria,9.0,29.0
-Austria,10.0,41.0
-Austria,11.0,55.0
-Austria,12.0,79.0
-Austria,13.0,104.0
-Austria,14.0,131.0
-Austria,15.0,182.0
-Austria,16.0,246.0
-Austria,17.0,302.0
-Austria,18.0,504.0
-Austria,19.0,655.0
-Austria,20.0,860.0
-Austria,21.0,1018.0
-Austria,22.0,1332.0
-Austria,23.0,1646.0
-Austria,24.0,2013.0
-Austria,25.0,2388.0
-Austria,26.0,2814.0
-Austria,27.0,3582.0
-Austria,28.0,4474.0
-Austria,29.0,5283.0
-Austria,30.0,5588.0
-Austria,31.0,6909.0
-Austria,32.0,7657.0
-Austria,33.0,8271.0
-Austria,34.0,8788.0
-Austria,35.0,9618.0
-Austria,36.0,10180.0
-Austria,37.0,10711.0
-Austria,38.0,11129.0
-Austria,39.0,11524.0
-Austria,40.0,11781.0
-Austria,41.0,12051.0
-Austria,42.0,12297.0
-Austria,43.0,12639.0
-Austria,44.0,12942.0
-Austria,45.0,13244.0
-Austria,46.0,13555.0
-Austria,47.0,13806.0
-Austria,48.0,13945.0
+Austria,2.0,1.0
+Austria,3.0,1.0
+Austria,4.0,1.0
+Austria,5.0,3.0
+Austria,6.0,7.0
+Austria,7.0,8.0
+Austria,8.0,12.0
+Austria,9.0,17.0
+Austria,10.0,23.0
+Austria,11.0,37.0
+Austria,12.0,46.0
+Austria,13.0,75.0
+Austria,14.0,98.0
+Austria,15.0,126.0
+Austria,16.0,148.0
+Austria,17.0,203.0
+Austria,18.0,312.0
+Austria,19.0,409.0
+Austria,20.0,591.0
+Austria,21.0,801.0
+Austria,22.0,999.0
+Austria,23.0,1225.0
+Austria,24.0,1571.0
+Austria,25.0,1943.0
+Austria,26.0,2398.0
+Austria,27.0,2909.0
+Austria,28.0,3455.0
+Austria,29.0,4073.0
+Austria,30.0,4760.0
+Austria,31.0,5483.0
+Austria,32.0,6237.0
+Austria,33.0,7293.0
+Austria,34.0,8100.0
+Austria,35.0,8717.0
+Austria,36.0,9264.0
+Austria,37.0,9937.0
+Austria,38.0,10486.0
+Austria,39.0,11035.0
+Austria,40.0,11473.0
+Austria,41.0,11884.0
+Austria,42.0,12137.0
+Austria,43.0,12320.0
+Austria,44.0,12626.0
+Austria,45.0,12915.0
+Austria,46.0,13205.0
+Austria,47.0,13481.0
+Austria,48.0,13838.0
 Austria,49.0,14041.0
-Austria,50.0,14226.0
-Austria,51.0,14336.0
-Austria,52.0,14476.0
-Austria,53.0,14595.0
-Austria,54.0,14671.0
-Austria,55.0,14749.0
-Austria,56.0,14795.0
-Austria,57.0,14873.0
-Austria,58.0,14925.0
-Austria,59.0,15002.0
-Austria,60.0,15071.0
-Austria,61.0,15148.0
-Austria,62.0,15225.0
-Austria,63.0,15274.0
-Austria,64.0,15357.0
-Austria,65.0,15402.0
-Austria,66.0,15452.0
-Austria,67.0,15531.0
-Austria,68.0,15558.0
-Austria,69.0,15597.0
-Austria,70.0,15621.0
-Austria,71.0,15650.0
-Austria,72.0,15684.0
-Austria,73.0,15752.0
-Austria,74.0,15774.0
-Austria,75.0,15833.0
-Austria,76.0,15871.0
-Austria,77.0,15882.0
-Austria,78.0,15961.0
-Austria,79.0,15997.0
-Austria,80.0,16058.0
-Austria,81.0,16109.0
-Austria,82.0,16201.0
-Austria,83.0,16242.0
-Austria,84.0,16269.0
-Austria,85.0,16321.0
-Austria,86.0,16353.0
-Austria,87.0,16404.0
-Austria,88.0,16436.0
-Austria,89.0,16486.0
-Austria,90.0,16503.0
-Austria,91.0,16539.0
-Austria,92.0,16557.0
-Austria,93.0,16591.0
-Austria,94.0,16628.0
-Austria,95.0,16655.0
-Austria,96.0,16685.0
-Austria,97.0,16731.0
-Austria,98.0,16733.0
-Austria,99.0,16759.0
-Austria,100.0,16771.0
-Austria,101.0,16805.0
-Austria,102.0,16843.0
-Austria,103.0,16898.0
-Austria,104.0,16902.0
-Austria,105.0,16968.0
-Austria,106.0,16979.0
-Austria,107.0,17005.0
-Austria,108.0,17034.0
-Austria,109.0,17064.0
-Austria,110.0,17078.0
-Austria,111.0,17109.0
-Austria,112.0,17135.0
-Austria,113.0,17189.0
-Austria,114.0,17203.0
-Austria,115.0,17223.0
-Austria,116.0,17271.0
-Austria,117.0,17323.0
-Austria,118.0,17341.0
-Austria,119.0,17380.0
-Austria,120.0,17408.0
-Austria,121.0,17449.0
-Austria,122.0,17477.0
-Austria,123.0,17522.0
-Austria,124.0,17580.0
-Austria,125.0,17654.0
-Austria,126.0,17723.0
-Austria,127.0,17766.0
-Austria,128.0,17873.0
-Austria,129.0,17941.0
-Austria,130.0,18050.0
-Austria,131.0,18165.0
-Austria,132.0,18280.0
-Austria,133.0,18365.0
-Austria,134.0,18421.0
-Austria,135.0,18513.0
-Austria,136.0,18615.0
-Austria,137.0,18709.0
-Austria,138.0,18783.0
-Austria,139.0,18897.0
-Austria,140.0,18948.0
-Austria,141.0,19021.0
-Austria,142.0,19154.0
-Austria,143.0,19270.0
-Austria,144.0,19439.0
-Austria,145.0,19573.0
-Austria,146.0,19655.0
-Austria,147.0,19743.0
-Austria,148.0,19827.0
-Austria,149.0,19929.0
-Austria,150.0,20099.0
-Austria,151.0,20214.0
-Austria,152.0,20338.0
-Austria,153.0,20472.0
-Austria,154.0,20558.0
-Austria,155.0,20677.0
-Austria,156.0,20850.0
-Austria,157.0,20955.0
-Austria,158.0,21130.0
-Austria,159.0,21212.0
-Austria,160.0,21304.0
-Austria,161.0,21385.0
-Austria,162.0,21481.0
-Austria,163.0,21566.0
-Austria,164.0,21696.0
-Austria,165.0,21837.0
-Austria,166.0,21919.0
-Austria,167.0,22033.0
-Austria,168.0,22106.0
-Austria,169.0,22245.0
-Austria,170.0,22439.0
-Austria,171.0,22594.0
-Austria,172.0,22876.0
-Austria,173.0,23179.0
-Austria,174.0,23370.0
-Austria,175.0,23534.0
-Austria,176.0,23829.0
-Austria,177.0,24084.0
-Austria,178.0,24431.0
-Austria,179.0,24762.0
-Austria,180.0,25062.0
-Austria,181.0,25253.0
-Austria,182.0,25495.0
-Austria,183.0,25706.0
-Austria,184.0,26033.0
-Austria,185.0,26361.0
-Austria,186.0,26590.0
-Austria,187.0,26985.0
-Austria,188.0,27166.0
-Austria,189.0,27438.0
-Austria,190.0,27642.0
-Austria,191.0,27969.0
-Austria,192.0,28372.0
-Austria,193.0,28729.0
-Austria,194.0,29087.0
-Austria,195.0,29271.0
-Austria,196.0,29561.0
-Austria,197.0,30081.0
-Austria,198.0,30583.0
-Austria,199.0,31247.0
-Austria,200.0,31827.0
-Austria,201.0,32696.0
-Austria,202.0,33159.0
-Austria,203.0,33541.0
-Austria,204.0,34305.0
-Austria,205.0,35073.0
-Austria,206.0,35853.0
-Austria,207.0,36661.0
-Austria,208.0,37474.0
-Austria,209.0,38095.0
-Austria,210.0,38658.0
-Austria,211.0,39303.0
-Austria,212.0,39984.0
-Austria,213.0,40816.0
-Austria,214.0,41500.0
-Austria,215.0,42214.0
-Austria,216.0,42876.0
-Austria,217.0,43432.0
-Austria,218.0,44041.0
-Austria,219.0,44813.0
-Austria,220.0,45686.0
-Austria,221.0,46374.0
-Austria,222.0,47432.0
-Austria,223.0,48146.0
-Austria,224.0,48896.0
-Austria,225.0,49819.0
-Austria,226.0,50848.0
-Austria,227.0,52057.0
-Austria,228.0,53188.0
-Austria,229.0,54423.0
-Austria,230.0,55319.0
-Austria,231.0,56298.0
-Austria,232.0,57326.0
-Austria,233.0,58672.0
-Austria,234.0,60224.0
-Austria,235.0,61387.0
-Austria,236.0,63134.0
-Austria,237.0,64806.0
-Austria,238.0,65927.0
-Austria,239.0,67451.0
-Austria,240.0,69409.0
-Austria,241.0,71844.0
-Austria,242.0,74415.0
-Austria,243.0,78029.0
-Austria,244.0,80811.0
-Austria,245.0,83267.0
-Austria,246.0,86102.0
-Austria,247.0,89496.0
-Austria,248.0,93949.0
-Austria,249.0,99576.0
-Austria,250.0,104925.0
-Austria,251.0,109881.0
-Austria,252.0,114016.0
-Austria,253.0,118198.0
-Austria,254.0,125099.0
-Austria,255.0,132515.0
-Austria,256.0,138979.0
-Austria,257.0,147220.0
-Austria,258.0,153153.0
-Austria,259.0,158746.0
-Austria,260.0,164866.0
-Austria,261.0,172380.0
-Austria,262.0,181642.0
-Austria,263.0,191228.0
-Austria,264.0,198291.0
-Austria,265.0,203956.0
-Austria,266.0,208613.0
-Austria,267.0,214597.0
-Austria,268.0,221688.0
-Austria,269.0,228683.0
-Austria,270.0,235351.0
-Austria,271.0,241962.0
-Austria,272.0,247188.0
-Austria,273.0,250333.0
-Austria,274.0,254710.0
-Austria,275.0,260512.0
-Austria,276.0,266038.0
-Austria,277.0,270992.0
-Austria,278.0,275661.0
-Austria,279.0,279708.0
-Austria,280.0,282456.0
-Austria,281.0,285489.0
-Austria,282.0,289461.0
-Austria,283.0,293430.0
-Austria,284.0,297245.0
-Austria,285.0,300689.0
-Austria,286.0,303430.0
-Austria,287.0,305693.0
-Austria,288.0,308070.0
-Austria,289.0,311002.0
-Austria,290.0,313688.0
-Austria,291.0,316581.0
-Austria,292.0,319822.0
-Austria,293.0,322463.0
-Austria,294.0,325051.0
-Austria,295.0,327679.0
-Austria,296.0,330343.0
-Austria,297.0,332828.0
-Austria,298.0,334913.0
-Austria,299.0,337209.0
-Austria,300.0,338854.0
-Austria,301.0,340373.0
-Austria,302.0,342226.0
-Austria,303.0,344357.0
-Austria,304.0,347204.0
-Austria,305.0,349055.0
-Austria,306.0,350484.0
-Austria,307.0,351892.0
-Austria,308.0,353484.0
-Austria,309.0,355352.0
-Austria,310.0,357902.0
-Austria,311.0,360815.0
-Austria,312.0,362911.0
-Austria,313.0,364302.0
-Austria,314.0,365768.0
-Austria,315.0,367410.0
-Austria,316.0,369721.0
-Austria,317.0,372190.0
-Austria,318.0,374730.0
-Austria,319.0,376793.0
-Austria,320.0,379071.0
-Austria,321.0,380722.0
-Austria,322.0,382258.0
-Austria,323.0,383833.0
-Austria,324.0,385750.0
-Austria,325.0,389260.0
-Austria,326.0,390788.0
-Austria,327.0,392511.0
-Austria,328.0,393778.0
-Austria,329.0,394939.0
-Austria,330.0,396425.0
-Austria,331.0,398096.0
-Austria,332.0,399798.0
-Austria,333.0,401886.0
-Austria,334.0,403512.0
-Austria,335.0,404714.0
-Austria,336.0,405723.0
-Austria,337.0,407140.0
-Austria,338.0,408781.0
-Austria,339.0,410230.0
-Austria,340.0,411730.0
-Austria,341.0,413208.0
-Austria,342.0,414398.0
-Austria,343.0,415522.0
-Austria,344.0,416763.0
-Austria,345.0,418283.0
-Austria,346.0,419801.0
-Austria,347.0,421189.0
-Austria,348.0,422522.0
-Austria,349.0,423839.0
-Austria,350.0,424896.0
-Austria,351.0,426093.0
-Austria,352.0,427562.0
-Austria,353.0,429139.0
-Austria,354.0,430870.0
-Austria,355.0,432303.0
-Austria,356.0,433487.0
-Austria,357.0,434712.0
-Austria,358.0,436139.0
-Austria,359.0,437874.0
-Austria,360.0,439841.0
-Austria,361.0,441659.0
-Austria,362.0,443536.0
-Austria,363.0,445374.0
-Austria,364.0,446644.0
-Austria,365.0,448371.0
-Austria,366.0,450376.0
-Austria,367.0,452767.0
-Austria,368.0,454860.0
-Austria,369.0,457317.0
-Austria,370.0,459440.0
-Austria,371.0,460849.0
-Austria,372.0,462769.0
-Austria,373.0,465322.0
-Austria,374.0,467646.0
-Austria,375.0,470314.0
-Austria,376.0,472871.0
-Austria,377.0,475070.0
-Austria,378.0,476980.0
-Austria,379.0,479391.0
-Austria,380.0,481919.0
-Austria,381.0,484916.0
-Austria,382.0,488042.0
-Austria,383.0,491065.0
-Austria,384.0,493568.0
-Austria,385.0,495464.0
-Austria,386.0,497889.0
-Austria,387.0,501224.0
-Austria,388.0,504581.0
-Austria,389.0,508096.0
-Austria,390.0,511440.0
-Austria,391.0,514153.0
-Austria,392.0,516565.0
-Austria,393.0,519980.0
-Austria,394.0,523269.0
-Austria,395.0,526393.0
-Austria,396.0,530288.0
-Austria,397.0,533786.0
-Austria,398.0,536465.0
-Austria,399.0,539541.0
-Austria,400.0,542542.0
-Austria,401.0,546229.0
-Austria,402.0,549592.0
-Austria,403.0,552729.0
-Austria,404.0,556012.0
-Austria,405.0,558755.0
-Austria,406.0,560972.0
-Austria,407.0,562907.0
-Austria,408.0,566008.0
-Austria,409.0,568914.0
-Austria,410.0,571616.0
-Austria,411.0,574755.0
-Austria,412.0,577007.0
-Austria,413.0,578950.0
-Austria,414.0,581263.0
-Austria,415.0,584205.0
-Austria,416.0,586883.0
-Austria,417.0,589299.0
-Austria,418.0,591347.0
-Austria,419.0,593423.0
-Austria,420.0,595540.0
-Austria,421.0,597566.0
-Austria,422.0,600089.0
-Austria,423.0,602494.0
-Austria,424.0,604823.0
-Austria,425.0,606954.0
-Austria,426.0,608979.0
-Austria,427.0,610545.0
-Austria,428.0,612170.0
-Austria,429.0,614510.0
-Austria,430.0,616739.0
-Austria,431.0,618870.0
-Austria,432.0,620485.0
-Austria,433.0,622110.0
-Austria,434.0,623201.0
-Austria,435.0,624595.0
-Austria,436.0,626239.0
-Austria,437.0,627484.0
-Austria,438.0,628817.0
-Austria,439.0,630050.0
-Austria,440.0,631076.0
-Austria,441.0,631896.0
-Austria,442.0,632766.0
-Austria,443.0,633960.0
-Austria,444.0,634893.0
-Austria,445.0,635780.0
-Austria,446.0,636424.0
-Austria,447.0,637097.0
-Austria,448.0,637573.0
-Austria,449.0,638155.0
-Austria,450.0,639054.0
-Austria,451.0,639616.0
-Austria,452.0,640293.0
-Austria,453.0,640876.0
-Austria,454.0,641380.0
-Austria,455.0,641740.0
-Austria,456.0,642138.0
-Austria,457.0,642583.0
-Austria,458.0,643168.0
-Austria,459.0,643709.0
-Austria,460.0,644207.0
-Austria,461.0,644586.0
-Austria,462.0,644815.0
-Austria,463.0,645152.0
-Austria,464.0,645552.0
-Austria,465.0,645834.0
-Austria,466.0,646167.0
-Austria,467.0,646438.0
-Austria,468.0,646800.0
-Austria,469.0,647079.0
-Austria,470.0,647322.0
-Austria,471.0,647688.0
-Austria,472.0,647971.0
-Austria,473.0,648187.0
-Austria,474.0,648387.0
-Austria,475.0,648620.0
-Austria,476.0,648732.0
-Austria,477.0,648849.0
-Austria,478.0,649002.0
-Austria,479.0,649181.0
-Austria,480.0,649309.0
-Austria,481.0,649445.0
-Austria,482.0,649576.0
-Austria,483.0,649670.0
-Austria,484.0,649728.0
-Austria,485.0,649845.0
-Austria,486.0,649922.0
-Austria,487.0,650016.0
-Austria,488.0,650192.0
-Austria,489.0,650261.0
-Austria,490.0,650324.0
-Austria,491.0,650353.0
-Austria,492.0,650412.0
-Austria,493.0,650474.0
-Austria,494.0,650569.0
-Austria,495.0,650662.0
-Austria,496.0,650737.0
-Austria,497.0,650817.0
-Austria,498.0,650901.0
-Austria,499.0,651008.0
-Austria,500.0,651128.0
-Austria,501.0,651291.0
-Austria,502.0,651453.0
-Austria,503.0,651612.0
-Austria,504.0,651804.0
-Austria,505.0,652022.0
-Austria,506.0,652354.0
-Austria,507.0,652660.0
-Austria,508.0,653001.0
-Austria,509.0,653412.0
-Austria,510.0,653735.0
-Austria,511.0,653998.0
-Austria,512.0,654314.0
-Austria,513.0,654745.0
-Austria,514.0,655197.0
-Austria,515.0,655589.0
-Austria,516.0,655938.0
-Austria,517.0,656270.0
-Austria,518.0,656582.0
-Austria,519.0,656949.0
-Austria,520.0,657501.0
-Austria,521.0,658004.0
-Austria,522.0,658518.0
-Austria,523.0,659056.0
-Austria,524.0,659508.0
-Austria,525.0,659872.0
-Austria,526.0,660262.0
-Austria,527.0,660854.0
-Austria,528.0,661359.0
-Austria,529.0,661922.0
-Austria,530.0,662529.0
-Austria,531.0,663082.0
-Austria,532.0,663532.0
-Austria,533.0,664133.0
-Austria,534.0,665035.0
-Austria,535.0,665885.0
-Austria,536.0,666890.0
-Austria,537.0,667841.0
-Austria,538.0,668732.0
-Austria,539.0,669506.0
-Austria,540.0,670372.0
-Austria,541.0,671593.0
-Austria,542.0,672819.0
-Austria,543.0,674077.0
-Austria,544.0,675405.0
-Austria,545.0,676526.0
-Austria,546.0,677603.0
-Austria,547.0,678605.0
-Austria,548.0,680179.0
-Austria,549.0,681617.0
-Austria,550.0,683219.0
-Austria,551.0,684541.0
-Austria,552.0,685956.0
-Austria,553.0,687076.0
-Austria,554.0,688305.0
-Austria,555.0,690153.0
-Austria,556.0,691663.0
-Austria,557.0,693416.0
-Austria,558.0,695131.0
-Austria,559.0,696905.0
-Austria,560.0,697510.0
-Austria,561.0,698948.0
-Austria,562.0,701216.0
-Austria,563.0,703572.0
-Austria,564.0,705913.0
-Austria,565.0,708173.0
-Austria,566.0,710030.0
-Austria,567.0,711573.0
-Austria,568.0,713269.0
-Austria,569.0,715893.0
-Austria,570.0,718091.0
-Austria,571.0,720455.0
-Austria,572.0,722357.0
-Austria,573.0,724035.0
-Austria,574.0,725434.0
-Austria,575.0,726674.0
-Austria,576.0,728696.0
-Austria,577.0,730403.0
-Austria,578.0,732157.0
-Austria,579.0,734302.0
-Austria,580.0,735890.0
-Austria,581.0,737202.0
-Austria,582.0,738763.0
-Austria,583.0,741046.0
-Austria,584.0,743095.0
-Austria,585.0,744964.0
-Austria,586.0,746380.0
-Austria,587.0,748825.0
-Austria,588.0,750229.0
-Austria,589.0,751139.0
-Austria,590.0,753832.0
-Austria,591.0,755797.0
-Austria,592.0,757675.0
-Austria,593.0,759543.0
-Austria,594.0,761218.0
-Austria,595.0,762538.0
-Austria,596.0,763928.0
-Austria,597.0,766542.0
-Austria,598.0,768711.0
-Austria,599.0,771143.0
-Austria,600.0,773540.0
-Austria,601.0,775782.0
-Austria,602.0,777679.0
-Austria,603.0,780269.0
-Austria,604.0,783996.0
-Austria,605.0,787644.0
-Austria,606.0,791226.0
-Austria,607.0,794982.0
-Austria,608.0,798606.0
-Austria,609.0,801456.0
-Austria,610.0,804825.0
-Austria,611.0,809086.0
-Austria,612.0,813334.0
-Austria,613.0,819195.0
-Austria,614.0,825297.0
-Austria,615.0,830981.0
-Austria,616.0,835504.0
-Austria,617.0,840902.0
-Austria,618.0,847408.0
-Austria,619.0,856002.0
-Austria,620.0,865390.0
-Austria,621.0,875333.0
-Austria,622.0,883887.0
-Austria,623.0,892065.0
-Austria,624.0,899777.0
-Austria,625.0,911175.0
-Austria,626.0,923150.0
-Austria,627.0,934948.0
-Austria,628.0,948100.0
-Austria,629.0,959652.0
-Austria,630.0,971541.0
-Austria,631.0,981904.0
-Austria,632.0,996320.0
-Austria,633.0,1011465.0
-Austria,634.0,1027274.0
-Austria,635.0,1042571.0
-Austria,636.0,1056613.0
-Austria,637.0,1070419.0
-Austria,638.0,1079932.0
-Austria,639.0,1095297.0
-Austria,640.0,1108889.0
-Austria,641.0,1121134.0
-Austria,642.0,1132805.0
-Austria,643.0,1143283.0
-Austria,644.0,1151809.0
-Austria,645.0,1159995.0
-Austria,646.0,1170362.0
-Austria,647.0,1179244.0
-Austria,648.0,1185982.0
-Austria,649.0,1193286.0
-Austria,650.0,1198478.0
-Austria,651.0,1203103.0
-Austria,652.0,1207336.0
-Austria,653.0,1212999.0
-Austria,654.0,1217436.0
-Austria,655.0,1221095.0
-Austria,656.0,1225555.0
-Austria,657.0,1228034.0
-Austria,658.0,1232204.0
-Austria,659.0,1235063.0
-Austria,660.0,1239287.0
-Austria,661.0,1242333.0
-Austria,662.0,1245232.0
-Austria,663.0,1247399.0
-Austria,664.0,1249641.0
-Austria,665.0,1251433.0
-Austria,666.0,1253961.0
-Austria,667.0,1256230.0
-Austria,668.0,1258377.0
-Austria,669.0,1260751.0
-Austria,670.0,1262836.0
-Austria,671.0,1264553.0
-Austria,672.0,1266103.0
-Austria,673.0,1268519.0
-Austria,674.0,1271770.0
-Austria,675.0,1274995.0
-Austria,676.0,1278619.0
-Austria,677.0,1282227.0
-Austria,678.0,1285510.0
-Austria,679.0,1288829.0
-Austria,680.0,1294325.0
-Austria,681.0,1304086.0
-Austria,682.0,1312939.0
-Austria,683.0,1321725.0
-Austria,684.0,1329130.0
-Austria,685.0,1339421.0
-Austria,686.0,1350225.0
-Austria,687.0,1361741.0
-Austria,688.0,1378747.0
-Austria,689.0,1394599.0
-Austria,690.0,1411421.0
-Austria,691.0,1428170.0
-Austria,692.0,1443589.0
-Austria,693.0,1459306.0
-Austria,694.0,1475991.0
-Austria,695.0,1503668.0
-Austria,696.0,1505501.0
-Austria,697.0,1530919.0
-Austria,698.0,1577588.0
-Austria,699.0,1600041.0
-Austria,700.0,1625651.0
-Austria,701.0,1650597.0
-Austria,702.0,1684608.0
-Austria,703.0,1727661.0
-Austria,704.0,1766292.0
-Austria,705.0,1801040.0
-Austria,706.0,1828167.0
-Austria,707.0,1855578.0
-Austria,708.0,1881472.0
-Austria,709.0,1920882.0
-Austria,710.0,1959017.0
-Austria,711.0,1995346.0
-Austria,712.0,2027604.0
-Austria,713.0,2056928.0
-Austria,714.0,2084227.0
-Austria,715.0,2111314.0
-Austria,716.0,2149623.0
-Austria,717.0,2184873.0
-Austria,718.0,2217585.0
-Austria,719.0,2248713.0
-Austria,720.0,2274664.0
-Austria,721.0,2299229.0
-Austria,722.0,2324406.0
-Austria,723.0,2362662.0
-Austria,724.0,2393576.0
-Austria,725.0,2424742.0
-Austria,726.0,2424742.0
-Austria,727.0,2473099.0
-Austria,728.0,2494535.0
-Austria,729.0,2515962.0
-Austria,730.0,2550371.0
-Austria,731.0,2578962.0
-Austria,732.0,2610286.0
-Austria,733.0,2636258.0
-Austria,734.0,2659532.0
-Austria,735.0,2679742.0
-Austria,736.0,2704530.0
-Austria,737.0,2744023.0
-Austria,738.0,2775589.0
-Austria,739.0,2808008.0
-Austria,740.0,2839297.0
-Austria,741.0,2867760.0
-Austria,742.0,2893913.0
-Austria,743.0,2924852.0
-Austria,744.0,2972647.0
-Austria,745.0,3022079.0
-Austria,746.0,3071402.0
-Austria,747.0,3115867.0
-Austria,748.0,3153927.0
-Austria,749.0,3188147.0
-Austria,750.0,3225272.0
-Austria,751.0,3283855.0
-Austria,752.0,3335900.0
-Austria,753.0,3387012.0
-Austria,754.0,3429011.0
-Austria,755.0,3466203.0
-Austria,756.0,3498075.0
-Austria,757.0,3532415.0
-Austria,758.0,3585486.0
-Austria,759.0,3627093.0
-Austria,760.0,3665003.0
-Austria,761.0,3698511.0
-Austria,762.0,3698511.0
-Austria,763.0,3747582.0
-Austria,764.0,3770412.0
-Austria,765.0,3805155.0
-Austria,766.0,3831048.0
-Austria,767.0,3854405.0
-Austria,768.0,3873448.0
-Austria,769.0,3887355.0
-Austria,770.0,3899660.0
-Austria,771.0,3912606.0
-Austria,772.0,3933682.0
-Austria,773.0,3950161.0
-Austria,774.0,3964246.0
-Austria,775.0,3976750.0
-Austria,776.0,3987385.0
-Austria,777.0,3995418.0
-Austria,778.0,4004069.0
-Austria,779.0,4016540.0
-Austria,780.0,4027023.0
-Austria,781.0,4036813.0
-Austria,782.0,4045809.0
-Austria,783.0,4053217.0
-Austria,784.0,4059444.0
-Austria,785.0,4064839.0
-Austria,786.0,4072410.0
-Austria,787.0,4084358.0
-Austria,788.0,4092513.0
-Austria,789.0,4099049.0
-Austria,790.0,4104859.0
-Austria,791.0,4108970.0
-Austria,792.0,4114558.0
-Austria,793.0,4122797.0
-Austria,794.0,4129158.0
-Austria,795.0,4135344.0
-Austria,796.0,4140543.0
-Austria,797.0,4144906.0
-Austria,798.0,4149004.0
-Austria,799.0,4154244.0
-Austria,800.0,4161004.0
-Austria,801.0,4166759.0
-Austria,802.0,4172760.0
-Austria,803.0,4177928.0
-Austria,804.0,4181545.0
-Austria,805.0,4185678.0
-Austria,806.0,4189700.0
-Austria,807.0,4195691.0
-Austria,808.0,4200825.0
-Austria,809.0,4205380.0
-Austria,810.0,4209157.0
-Austria,811.0,4212492.0
+Austria,50.0,14152.0
+Austria,51.0,14239.0
+Austria,52.0,14389.0
+Austria,53.0,14518.0
+Austria,54.0,14629.0
+Austria,55.0,14729.0
+Austria,56.0,14789.0
+Austria,57.0,14836.0
+Austria,58.0,14904.0
+Austria,59.0,14974.0
+Austria,60.0,15047.0
+Austria,61.0,15107.0
+Austria,62.0,15186.0
+Austria,63.0,15248.0
+Austria,64.0,15283.0
+Austria,65.0,15353.0
+Austria,66.0,15402.0
+Austria,67.0,15463.0
+Austria,68.0,15517.0
+Austria,69.0,15554.0
+Austria,70.0,15582.0
+Austria,71.0,15594.0
+Austria,72.0,15624.0
+Austria,73.0,15678.0
+Austria,74.0,15724.0
+Austria,75.0,15763.0
+Austria,76.0,15812.0
+Austria,77.0,15842.0
+Austria,78.0,15857.0
+Austria,79.0,15923.0
+Austria,80.0,15961.0
+Austria,81.0,16013.0
+Austria,82.0,16067.0
+Austria,83.0,16148.0
+Austria,84.0,16163.0
+Austria,85.0,16189.0
+Austria,86.0,16247.0
+Austria,87.0,16308.0
+Austria,88.0,16338.0
+Austria,89.0,16369.0
+Austria,90.0,16397.0
+Austria,91.0,16421.0
+Austria,92.0,16452.0
+Austria,93.0,16477.0
+Austria,94.0,16499.0
+Austria,95.0,16549.0
+Austria,96.0,16568.0
+Austria,97.0,16610.0
+Austria,98.0,16642.0
+Austria,99.0,16647.0
+Austria,100.0,16666.0
+Austria,101.0,16682.0
+Austria,102.0,16735.0
+Austria,103.0,16752.0
+Austria,104.0,16819.0
+Austria,105.0,16850.0
+Austria,106.0,16875.0
+Austria,107.0,16899.0
+Austria,108.0,16914.0
+Austria,109.0,16948.0
+Austria,110.0,16970.0
+Austria,111.0,17007.0
+Austria,112.0,17029.0
+Austria,113.0,17047.0
+Austria,114.0,17100.0
+Austria,115.0,17119.0
+Austria,116.0,17150.0
+Austria,117.0,17182.0
+Austria,118.0,17234.0
+Austria,119.0,17266.0
+Austria,120.0,17295.0
+Austria,121.0,17326.0
+Austria,122.0,17369.0
+Austria,123.0,17404.0
+Austria,124.0,17448.0
+Austria,125.0,17522.0
+Austria,126.0,17567.0
+Austria,127.0,17629.0
+Austria,128.0,17678.0
+Austria,129.0,17779.0
+Austria,130.0,17874.0
+Austria,131.0,17954.0
+Austria,132.0,18088.0
+Austria,133.0,18194.0
+Austria,134.0,18270.0
+Austria,135.0,18338.0
+Austria,136.0,18429.0
+Austria,137.0,18547.0
+Austria,138.0,18619.0
+Austria,139.0,18724.0
+Austria,140.0,18814.0
+Austria,141.0,18866.0
+Austria,142.0,18965.0
+Austria,143.0,19087.0
+Austria,144.0,19217.0
+Austria,145.0,19358.0
+Austria,146.0,19482.0
+Austria,147.0,19563.0
+Austria,148.0,19650.0
+Austria,149.0,19740.0
+Austria,150.0,19877.0
+Austria,151.0,20039.0
+Austria,152.0,20156.0
+Austria,153.0,20309.0
+Austria,154.0,20421.0
+Austria,155.0,20522.0
+Austria,156.0,20618.0
+Austria,157.0,20771.0
+Austria,158.0,20873.0
+Austria,159.0,21063.0
+Austria,160.0,21186.0
+Austria,161.0,21248.0
+Austria,162.0,21318.0
+Austria,163.0,21411.0
+Austria,164.0,21494.0
+Austria,165.0,21653.0
+Austria,166.0,21772.0
+Austria,167.0,21862.0
+Austria,168.0,21966.0
+Austria,169.0,22038.0
+Austria,170.0,22196.0
+Austria,171.0,22383.0
+Austria,172.0,22573.0
+Austria,173.0,22824.0
+Austria,174.0,23173.0
+Austria,175.0,23329.0
+Austria,176.0,23498.0
+Austria,177.0,23757.0
+Austria,178.0,24009.0
+Austria,179.0,24356.0
+Austria,180.0,24687.0
+Austria,181.0,24989.0
+Austria,182.0,25218.0
+Austria,183.0,25411.0
+Austria,184.0,25654.0
+Austria,185.0,25955.0
+Austria,186.0,26274.0
+Austria,187.0,26500.0
+Austria,188.0,26894.0
+Austria,189.0,27131.0
+Austria,190.0,27354.0
+Austria,191.0,27575.0
+Austria,192.0,27861.0
+Austria,193.0,28290.0
+Austria,194.0,28656.0
+Austria,195.0,29036.0
+Austria,196.0,29253.0
+Austria,197.0,29620.0
+Austria,198.0,30016.0
+Austria,199.0,30568.0
+Austria,200.0,31259.0
+Austria,201.0,31857.0
+Austria,202.0,32787.0
+Austria,203.0,33202.0
+Austria,204.0,33616.0
+Austria,205.0,34436.0
+Austria,206.0,35159.0
+Austria,207.0,36013.0
+Austria,208.0,36819.0
+Austria,209.0,37693.0
+Austria,210.0,38360.0
+Austria,211.0,38831.0
+Austria,212.0,39413.0
+Austria,213.0,40132.0
+Austria,214.0,40936.0
+Austria,215.0,41593.0
+Austria,216.0,42356.0
+Austria,217.0,42947.0
+Austria,218.0,43492.0
+Austria,219.0,44231.0
+Austria,220.0,44990.0
+Austria,221.0,45844.0
+Austria,222.0,46634.0
+Austria,223.0,47648.0
+Austria,224.0,48366.0
+Austria,225.0,49103.0
+Austria,226.0,50030.0
+Austria,227.0,51108.0
+Austria,228.0,52382.0
+Austria,229.0,53492.0
+Austria,230.0,54752.0
+Austria,231.0,55766.0
+Austria,232.0,56596.0
+Austria,233.0,57739.0
+Austria,234.0,59060.0
+Austria,235.0,60495.0
+Austria,236.0,62017.0
+Austria,237.0,63812.0
+Austria,238.0,65297.0
+Austria,239.0,66496.0
+Austria,240.0,68142.0
+Austria,241.0,70120.0
+Austria,242.0,72774.0
+Austria,243.0,76005.0
+Austria,244.0,79352.0
+Austria,245.0,82322.0
+Austria,246.0,84796.0
+Austria,247.0,87578.0
+Austria,248.0,91951.0
+Austria,249.0,96420.0
+Austria,250.0,101467.0
+Austria,251.0,107182.0
+Austria,252.0,111972.0
+Austria,253.0,116451.0
+Austria,254.0,121643.0
+Austria,255.0,128005.0
+Austria,256.0,135116.0
+Austria,257.0,142069.0
+Austria,258.0,150159.0
+Austria,259.0,155484.0
+Austria,260.0,161228.0
+Austria,261.0,167475.0
+Austria,262.0,174910.0
+Austria,263.0,184087.0
+Austria,264.0,192344.0
+Austria,265.0,199362.0
+Austria,266.0,204460.0
+Austria,267.0,209072.0
+Austria,268.0,215147.0
+Austria,269.0,222669.0
+Austria,270.0,229103.0
+Austria,271.0,235710.0
+Austria,272.0,242175.0
+Austria,273.0,247329.0
+Austria,274.0,249765.0
+Austria,275.0,254373.0
+Austria,276.0,260116.0
+Austria,277.0,265507.0
+Austria,278.0,270525.0
+Austria,279.0,274763.0
+Austria,280.0,278500.0
+Austria,281.0,280891.0
+Austria,282.0,284266.0
+Austria,283.0,288203.0
+Austria,284.0,291771.0
+Austria,285.0,295427.0
+Austria,286.0,299018.0
+Austria,287.0,301883.0
+Austria,288.0,303950.0
+Austria,289.0,306462.0
+Austria,290.0,309094.0
+Austria,291.0,311574.0
+Austria,292.0,314664.0
+Austria,293.0,317499.0
+Austria,294.0,320135.0
+Austria,295.0,322641.0
+Austria,296.0,325384.0
+Austria,297.0,328142.0
+Austria,298.0,330531.0
+Austria,299.0,332481.0
+Austria,300.0,334632.0
+Austria,301.0,336137.0
+Austria,302.0,337490.0
+Austria,303.0,339597.0
+Austria,304.0,342155.0
+Austria,305.0,345010.0
+Austria,306.0,346816.0
+Austria,307.0,348103.0
+Austria,308.0,349266.0
+Austria,309.0,350963.0
+Austria,310.0,353088.0
+Austria,311.0,356063.0
+Austria,312.0,358774.0
+Austria,313.0,360777.0
+Austria,314.0,362368.0
+Austria,315.0,364003.0
+Austria,316.0,365898.0
+Austria,317.0,368190.0
+Austria,318.0,371151.0
+Austria,319.0,373237.0
+Austria,320.0,375239.0
+Austria,321.0,377537.0
+Austria,322.0,379083.0
+Austria,323.0,380470.0
+Austria,324.0,382176.0
+Austria,325.0,384337.0
+Austria,326.0,385993.0
+Austria,327.0,387529.0
+Austria,328.0,389086.0
+Austria,329.0,390406.0
+Austria,330.0,391416.0
+Austria,331.0,393047.0
+Austria,332.0,394704.0
+Austria,333.0,396446.0
+Austria,334.0,398234.0
+Austria,335.0,399687.0
+Austria,336.0,400949.0
+Austria,337.0,401896.0
+Austria,338.0,403321.0
+Austria,339.0,404906.0
+Austria,340.0,406378.0
+Austria,341.0,407799.0
+Austria,342.0,409286.0
+Austria,343.0,410385.0
+Austria,344.0,411519.0
+Austria,345.0,412737.0
+Austria,346.0,414380.0
+Austria,347.0,415900.0
+Austria,348.0,417170.0
+Austria,349.0,418535.0
+Austria,350.0,419681.0
+Austria,351.0,420680.0
+Austria,352.0,421912.0
+Austria,353.0,423382.0
+Austria,354.0,425050.0
+Austria,355.0,426613.0
+Austria,356.0,427881.0
+Austria,357.0,429052.0
+Austria,358.0,430220.0
+Austria,359.0,431720.0
+Austria,360.0,433377.0
+Austria,361.0,435277.0
+Austria,362.0,436985.0
+Austria,363.0,439078.0
+Austria,364.0,440734.0
+Austria,365.0,441959.0
+Austria,366.0,443849.0
+Austria,367.0,445816.0
+Austria,368.0,448261.0
+Austria,369.0,450150.0
+Austria,370.0,452646.0
+Austria,371.0,454870.0
+Austria,372.0,456271.0
+Austria,373.0,458463.0
+Austria,374.0,460915.0
+Austria,375.0,463314.0
+Austria,376.0,465664.0
+Austria,377.0,468427.0
+Austria,378.0,470672.0
+Austria,379.0,472620.0
+Austria,380.0,475142.0
+Austria,381.0,477553.0
+Austria,382.0,480424.0
+Austria,383.0,483479.0
+Austria,384.0,486513.0
+Austria,385.0,489038.0
+Austria,386.0,490946.0
+Austria,387.0,493705.0
+Austria,388.0,496577.0
+Austria,389.0,500098.0
+Austria,390.0,503319.0
+Austria,391.0,506969.0
+Austria,392.0,509659.0
+Austria,393.0,512098.0
+Austria,394.0,515121.0
+Austria,395.0,518660.0
+Austria,396.0,522107.0
+Austria,397.0,525323.0
+Austria,398.0,528627.0
+Austria,399.0,531273.0
+Austria,400.0,534505.0
+Austria,401.0,537302.0
+Austria,402.0,540438.0
+Austria,403.0,543831.0
+Austria,404.0,546926.0
+Austria,405.0,550234.0
+Austria,406.0,553053.0
+Austria,407.0,555386.0
+Austria,408.0,557395.0
+Austria,409.0,560245.0
+Austria,410.0,563116.0
+Austria,411.0,565625.0
+Austria,412.0,569084.0
+Austria,413.0,571051.0
+Austria,414.0,573108.0
+Austria,415.0,575350.0
+Austria,416.0,578529.0
+Austria,417.0,581266.0
+Austria,418.0,583622.0
+Austria,419.0,585988.0
+Austria,420.0,588021.0
+Austria,421.0,590036.0
+Austria,422.0,592128.0
+Austria,423.0,594659.0
+Austria,424.0,597277.0
+Austria,425.0,599761.0
+Austria,426.0,601733.0
+Austria,427.0,603631.0
+Austria,428.0,605223.0
+Austria,429.0,607140.0
+Austria,430.0,609412.0
+Austria,431.0,611569.0
+Austria,432.0,613688.0
+Austria,433.0,615355.0
+Austria,434.0,616895.0
+Austria,435.0,618004.0
+Austria,436.0,619452.0
+Austria,437.0,621178.0
+Austria,438.0,622573.0
+Austria,439.0,623958.0
+Austria,440.0,625114.0
+Austria,441.0,626174.0
+Austria,442.0,626919.0
+Austria,443.0,627847.0
+Austria,444.0,629005.0
+Austria,445.0,630002.0
+Austria,446.0,630854.0
+Austria,447.0,631491.0
+Austria,448.0,632174.0
+Austria,449.0,632695.0
+Austria,450.0,633334.0
+Austria,451.0,634179.0
+Austria,452.0,634789.0
+Austria,453.0,635450.0
+Austria,454.0,636019.0
+Austria,455.0,636528.0
+Austria,456.0,636877.0
+Austria,457.0,637284.0
+Austria,458.0,637769.0
+Austria,459.0,638376.0
+Austria,460.0,638913.0
+Austria,461.0,639337.0
+Austria,462.0,639722.0
+Austria,463.0,640050.0
+Austria,464.0,640410.0
+Austria,465.0,640899.0
+Austria,466.0,641204.0
+Austria,467.0,641555.0
+Austria,468.0,641839.0
+Austria,469.0,642165.0
+Austria,470.0,642476.0
+Austria,471.0,642783.0
+Austria,472.0,643139.0
+Austria,473.0,643426.0
+Austria,474.0,643653.0
+Austria,475.0,643851.0
+Austria,476.0,644058.0
+Austria,477.0,644161.0
+Austria,478.0,644308.0
+Austria,479.0,644488.0
+Austria,480.0,644659.0
+Austria,481.0,644790.0
+Austria,482.0,644939.0
+Austria,483.0,645047.0
+Austria,484.0,645162.0
+Austria,485.0,645264.0
+Austria,486.0,645380.0
+Austria,487.0,645479.0
+Austria,488.0,645587.0
+Austria,489.0,645704.0
+Austria,490.0,645770.0
+Austria,491.0,645843.0
+Austria,492.0,645936.0
+Austria,493.0,646042.0
+Austria,494.0,646122.0
+Austria,495.0,646230.0
+Austria,496.0,646334.0
+Austria,497.0,646402.0
+Austria,498.0,646475.0
+Austria,499.0,646578.0
+Austria,500.0,646705.0
+Austria,501.0,646853.0
+Austria,502.0,647052.0
+Austria,503.0,647230.0
+Austria,504.0,647384.0
+Austria,505.0,647568.0
+Austria,506.0,647813.0
+Austria,507.0,648086.0
+Austria,508.0,648388.0
+Austria,509.0,648740.0
+Austria,510.0,649171.0
+Austria,511.0,649507.0
+Austria,512.0,649772.0
+Austria,513.0,650108.0
+Austria,514.0,650471.0
+Austria,515.0,650890.0
+Austria,516.0,651311.0
+Austria,517.0,651653.0
+Austria,518.0,651978.0
+Austria,519.0,652294.0
+Austria,520.0,652659.0
+Austria,521.0,653206.0
+Austria,522.0,653712.0
+Austria,523.0,654243.0
+Austria,524.0,654787.0
+Austria,525.0,655207.0
+Austria,526.0,655553.0
+Austria,527.0,655955.0
+Austria,528.0,656550.0
+Austria,529.0,657047.0
+Austria,530.0,657648.0
+Austria,531.0,658219.0
+Austria,532.0,658782.0
+Austria,533.0,659218.0
+Austria,534.0,659836.0
+Austria,535.0,660710.0
+Austria,536.0,661569.0
+Austria,537.0,662537.0
+Austria,538.0,663488.0
+Austria,539.0,664321.0
+Austria,540.0,665118.0
+Austria,541.0,665993.0
+Austria,542.0,667207.0
+Austria,543.0,668498.0
+Austria,544.0,669811.0
+Austria,545.0,671097.0
+Austria,546.0,672203.0
+Austria,547.0,673186.0
+Austria,548.0,674341.0
+Austria,549.0,675959.0
+Austria,550.0,677412.0
+Austria,551.0,678816.0
+Austria,552.0,680191.0
+Austria,553.0,681537.0
+Austria,554.0,682620.0
+Austria,555.0,683900.0
+Austria,556.0,685752.0
+Austria,557.0,687309.0
+Austria,558.0,689001.0
+Austria,559.0,690933.0
+Austria,560.0,692509.0
+Austria,561.0,693900.0
+Austria,562.0,695701.0
+Austria,563.0,698001.0
+Austria,564.0,700170.0
+Austria,565.0,702509.0
+Austria,566.0,704755.0
+Austria,567.0,706592.0
+Austria,568.0,707982.0
+Austria,569.0,709830.0
+Austria,570.0,712430.0
+Austria,571.0,714748.0
+Austria,572.0,716960.0
+Austria,573.0,718988.0
+Austria,574.0,720417.0
+Austria,575.0,721756.0
+Austria,576.0,723134.0
+Austria,577.0,725243.0
+Austria,578.0,727082.0
+Austria,579.0,728899.0
+Austria,580.0,730728.0
+Austria,581.0,732114.0
+Austria,582.0,733499.0
+Austria,583.0,735088.0
+Austria,584.0,737702.0
+Austria,585.0,739627.0
+Austria,586.0,741366.0
+Austria,587.0,743174.0
+Austria,588.0,744732.0
+Austria,589.0,746104.0
+Austria,590.0,747562.0
+Austria,591.0,750242.0
+Austria,592.0,752280.0
+Austria,593.0,754134.0
+Austria,594.0,756011.0
+Austria,595.0,757595.0
+Austria,596.0,758894.0
+Austria,597.0,760490.0
+Austria,598.0,763211.0
+Austria,599.0,765326.0
+Austria,600.0,767720.0
+Austria,601.0,770102.0
+Austria,602.0,772251.0
+Austria,603.0,774247.0
+Austria,604.0,776974.0
+Austria,605.0,780956.0
+Austria,606.0,784574.0
+Austria,607.0,788060.0
+Austria,608.0,791769.0
+Austria,609.0,795302.0
+Austria,610.0,798099.0
+Austria,611.0,801545.0
+Austria,612.0,806032.0
+Austria,613.0,810342.0
+Austria,614.0,816280.0
+Austria,615.0,822260.0
+Austria,616.0,827894.0
+Austria,617.0,832692.0
+Austria,618.0,837980.0
+Austria,619.0,844561.0
+Austria,620.0,853532.0
+Austria,621.0,863318.0
+Austria,622.0,873026.0
+Austria,623.0,881145.0
+Austria,624.0,889169.0
+Austria,625.0,896928.0
+Austria,626.0,908903.0
+Austria,627.0,922128.0
+Austria,628.0,932719.0
+Austria,629.0,945373.0
+Austria,630.0,956813.0
+Austria,631.0,968012.0
+Austria,632.0,978997.0
+Austria,633.0,995468.0
+Austria,634.0,1010492.0
+Austria,635.0,1025373.0
+Austria,636.0,1039442.0
+Austria,637.0,1053541.0
+Austria,638.0,1065176.0
+Austria,639.0,1077153.0
+Austria,640.0,1091668.0
+Austria,641.0,1106126.0
+Austria,642.0,1118256.0
+Austria,643.0,1130304.0
+Austria,644.0,1139925.0
+Austria,645.0,1147912.0
+Austria,646.0,1156022.0
+Austria,647.0,1166983.0
+Austria,648.0,1175757.0
+Austria,649.0,1183006.0
+Austria,650.0,1189268.0
+Austria,651.0,1194582.0
+Austria,652.0,1198852.0
+Austria,653.0,1203266.0
+Austria,654.0,1209334.0
+Austria,655.0,1213648.0
+Austria,656.0,1216765.0
+Austria,657.0,1221586.0
+Austria,658.0,1224847.0
+Austria,659.0,1228109.0
+Austria,660.0,1231043.0
+Austria,661.0,1235171.0
+Austria,662.0,1238100.0
+Austria,663.0,1240798.0
+Austria,664.0,1243144.0
+Austria,665.0,1245128.0
+Austria,666.0,1247014.0
+Austria,667.0,1248965.0
+Austria,668.0,1251779.0
+Austria,669.0,1253941.0
+Austria,670.0,1256207.0
+Austria,671.0,1258323.0
+Austria,672.0,1259951.0
+Austria,673.0,1261687.0
+Austria,674.0,1264288.0
+Austria,675.0,1267630.0
+Austria,676.0,1270811.0
+Austria,677.0,1274628.0
+Austria,678.0,1278327.0
+Austria,679.0,1281328.0
+Austria,680.0,1284811.0
+Austria,681.0,1290817.0
+Austria,682.0,1300899.0
+Austria,683.0,1309691.0
+Austria,684.0,1318582.0
+Austria,685.0,1325632.0
+Austria,686.0,1336348.0
+Austria,687.0,1347274.0
+Austria,688.0,1359957.0
+Austria,689.0,1376504.0
+Austria,690.0,1393335.0
+Austria,691.0,1410269.0
+Austria,692.0,1427326.0
+Austria,693.0,1442182.0
+Austria,694.0,1458292.0
+Austria,695.0,1476626.0
+Austria,696.0,1504720.0
+Austria,697.0,1529850.0
+Austria,698.0,1559478.0
+Austria,699.0,1586146.0
+Austria,700.0,1609498.0
+Austria,701.0,1634631.0
+Austria,702.0,1661328.0
+Austria,703.0,1699469.0
+Austria,704.0,1735230.0
+Austria,705.0,1773059.0
+Austria,706.0,1806650.0
+Austria,707.0,1835602.0
+Austria,708.0,1861707.0
+Austria,709.0,1889437.0
+Austria,710.0,1933415.0
+Austria,711.0,1967057.0
+Austria,712.0,2003905.0
+Austria,713.0,2037105.0
+Austria,714.0,2067085.0
+Austria,715.0,2093012.0
+Austria,716.0,2122068.0
+Austria,717.0,2162487.0
+Austria,718.0,2197838.0
+Austria,719.0,2231218.0
+Austria,720.0,2261101.0
+Austria,721.0,2286139.0
+Austria,722.0,2310227.0
+Austria,723.0,2336753.0
+Austria,724.0,2375594.0
+Austria,725.0,2406524.0
+Austria,726.0,2437153.0
+Austria,727.0,2462981.0
+Austria,728.0,2484817.0
+Austria,729.0,2506243.0
+Austria,730.0,2530015.0
+Austria,731.0,2565399.0
+Austria,732.0,2594032.0
+Austria,733.0,2623952.0
+Austria,734.0,2649152.0
+Austria,735.0,2671323.0
+Austria,736.0,2692641.0
+Austria,737.0,2720094.0
+Austria,738.0,2761187.0
+Austria,739.0,2793028.0
+Austria,740.0,2825103.0
+Austria,741.0,2856781.0
+Austria,742.0,2884518.0
+Austria,743.0,2911180.0
+Austria,744.0,2945417.0
+Austria,745.0,2996765.0
+Austria,746.0,3047014.0
+Austria,747.0,3096646.0
+Austria,748.0,3140407.0
+Austria,749.0,3178040.0
+Austria,750.0,3212569.0
+Austria,751.0,3252815.0
+Austria,752.0,3316853.0
+Austria,753.0,3368804.0
+Austria,754.0,3419788.0
+Austria,755.0,3462110.0
+Austria,756.0,3499819.0
+Austria,757.0,3531163.0
+Austria,758.0,3568258.0
+Austria,759.0,3623157.0
+Austria,760.0,3664438.0
+Austria,761.0,3701790.0
+Austria,762.0,3734990.0
+Austria,763.0,3760649.0
+Austria,764.0,3781719.0
+Austria,765.0,3807856.0
+Austria,766.0,3842048.0
+Austria,767.0,3868236.0
+Austria,768.0,3890531.0
+Austria,769.0,3909523.0
+Austria,770.0,3923533.0
+Austria,771.0,3935083.0
+Austria,772.0,3950434.0
+Austria,773.0,3971481.0
+Austria,774.0,3987872.0
+Austria,775.0,4001802.0
+Austria,776.0,4014829.0
+Austria,777.0,4025499.0
+Austria,778.0,4032839.0
+Austria,779.0,4042363.0
+Austria,780.0,4054989.0
+Austria,781.0,4065438.0
+Austria,782.0,4075415.0
+Austria,783.0,4084222.0
+Austria,784.0,4091716.0
+Austria,785.0,4097345.0
+Austria,786.0,4103119.0
+Austria,787.0,4111720.0
+Austria,788.0,4122722.0
+Austria,789.0,4130862.0
+Austria,790.0,4137436.0
+Austria,791.0,4142983.0
+Austria,792.0,4147453.0
+Austria,793.0,4153702.0
+Austria,794.0,4162015.0
+Austria,795.0,4168617.0
+Austria,796.0,4174744.0
+Austria,797.0,4180075.0
+Austria,798.0,4184588.0
+Austria,799.0,4188558.0
+Austria,800.0,4194237.0
+Austria,801.0,4201452.0
+Austria,802.0,4207472.0
+Austria,803.0,4213621.0
+Austria,804.0,4218785.0
+Austria,805.0,4222306.0
+Austria,806.0,4226263.0
+Austria,807.0,4231050.0
+Austria,808.0,4236215.0
+Austria,809.0,4241469.0
+Austria,810.0,4246432.0
+Austria,811.0,4250291.0
+Austria,812.0,4253741.0
 Azerbaijan,1.0,3.0
 Azerbaijan,2.0,3.0
 Azerbaijan,3.0,3.0
@@ -9027,6 +9038,7 @@ Azerbaijan,803.0,792638.0
 Azerbaijan,804.0,792638.0
 Azerbaijan,805.0,792638.0
 Azerbaijan,806.0,792638.0
+Azerbaijan,807.0,792638.0
 Bahamas,1.0,1.0
 Bahamas,2.0,1.0
 Bahamas,3.0,1.0
@@ -9818,6 +9830,7 @@ Bahamas,788.0,33830.0
 Bahamas,789.0,33830.0
 Bahamas,790.0,33871.0
 Bahamas,791.0,33934.0
+Bahamas,792.0,33957.0
 Bahrain,1.0,1.0
 Bahrain,2.0,23.0
 Bahrain,3.0,33.0
@@ -10630,6 +10643,7 @@ Bahrain,809.0,575762.0
 Bahrain,810.0,576395.0
 Bahrain,811.0,576997.0
 Bahrain,812.0,577652.0
+Bahrain,813.0,578255.0
 Bangladesh,1.0,3.0
 Bangladesh,2.0,3.0
 Bangladesh,3.0,3.0
@@ -11429,6 +11443,7 @@ Bangladesh,796.0,1952939.0
 Bangladesh,797.0,1952957.0
 Bangladesh,798.0,1952979.0
 Bangladesh,799.0,1953012.0
+Bangladesh,800.0,1953049.0
 Barbados,1.0,2.0
 Barbados,2.0,2.0
 Barbados,3.0,5.0
@@ -12219,6 +12234,7 @@ Barbados,787.0,75438.0
 Barbados,788.0,75845.0
 Barbados,789.0,76261.0
 Barbados,790.0,76571.0
+Barbados,791.0,76895.0
 Belarus,1.0,1.0
 Belarus,2.0,1.0
 Belarus,3.0,1.0
@@ -13027,6 +13043,7 @@ Belarus,805.0,982867.0
 Belarus,806.0,982867.0
 Belarus,807.0,982867.0
 Belarus,808.0,982867.0
+Belarus,809.0,982867.0
 Belgium,1.0,1.0
 Belgium,2.0,1.0
 Belgium,3.0,1.0
@@ -13859,6 +13876,7 @@ Belgium,829.0,4116397.0
 Belgium,830.0,4116397.0
 Belgium,831.0,4116397.0
 Belgium,832.0,4116397.0
+Belgium,833.0,4127123.0
 Belize,1.0,1.0
 Belize,2.0,1.0
 Belize,3.0,2.0
@@ -14643,6 +14661,7 @@ Belize,781.0,57836.0
 Belize,782.0,57896.0
 Belize,783.0,57896.0
 Belize,784.0,57896.0
+Belize,785.0,58028.0
 Benin,1.0,1.0
 Benin,2.0,1.0
 Benin,3.0,2.0
@@ -15434,6 +15453,7 @@ Benin,788.0,26952.0
 Benin,789.0,26952.0
 Benin,790.0,26952.0
 Benin,791.0,26952.0
+Benin,792.0,26952.0
 Bhutan,1.0,1.0
 Bhutan,2.0,1.0
 Bhutan,3.0,1.0
@@ -16235,6 +16255,7 @@ Bhutan,798.0,59552.0
 Bhutan,799.0,59564.0
 Bhutan,800.0,59566.0
 Bhutan,801.0,59570.0
+Bhutan,802.0,59574.0
 Bolivia,1.0,2.0
 Bolivia,2.0,2.0
 Bolivia,3.0,3.0
@@ -17031,6 +17052,7 @@ Bolivia,793.0,905820.0
 Bolivia,794.0,905994.0
 Bolivia,795.0,906146.0
 Bolivia,796.0,906146.0
+Bolivia,797.0,906333.0
 Bosnia and Herzegovina,1.0,2.0
 Bosnia and Herzegovina,2.0,2.0
 Bosnia and Herzegovina,3.0,3.0
@@ -17833,6 +17855,7 @@ Bosnia and Herzegovina,799.0,377475.0
 Bosnia and Herzegovina,800.0,377511.0
 Bosnia and Herzegovina,801.0,377511.0
 Bosnia and Herzegovina,802.0,377511.0
+Bosnia and Herzegovina,803.0,377579.0
 Botswana,1.0,3.0
 Botswana,2.0,4.0
 Botswana,3.0,4.0
@@ -18610,6 +18633,7 @@ Botswana,774.0,306324.0
 Botswana,775.0,306324.0
 Botswana,776.0,306324.0
 Botswana,777.0,306324.0
+Botswana,778.0,306324.0
 Brazil,1.0,1.0
 Brazil,2.0,1.0
 Brazil,3.0,1.0
@@ -19420,6 +19444,7 @@ Brazil,807.0,30639130.0
 Brazil,808.0,30664739.0
 Brazil,809.0,30682094.0
 Brazil,810.0,30688390.0
+Brazil,811.0,30701900.0
 Brunei,1.0,1.0
 Brunei,2.0,1.0
 Brunei,3.0,11.0
@@ -20218,6 +20243,7 @@ Brunei,795.0,143866.0
 Brunei,796.0,144136.0
 Brunei,797.0,144411.0
 Brunei,798.0,144659.0
+Brunei,799.0,144956.0
 Bulgaria,1.0,4.0
 Bulgaria,2.0,4.0
 Bulgaria,3.0,4.0
@@ -21017,6 +21043,7 @@ Bulgaria,796.0,1161038.0
 Bulgaria,797.0,1161351.0
 Bulgaria,798.0,1161504.0
 Bulgaria,799.0,1161630.0
+Bulgaria,800.0,1161992.0
 Burkina Faso,1.0,1.0
 Burkina Faso,2.0,2.0
 Burkina Faso,3.0,2.0
@@ -21814,6 +21841,7 @@ Burkina Faso,794.0,20899.0
 Burkina Faso,795.0,20899.0
 Burkina Faso,796.0,20899.0
 Burkina Faso,797.0,20899.0
+Burkina Faso,798.0,20899.0
 Burma,1.0,8.0
 Burma,2.0,8.0
 Burma,3.0,10.0
@@ -22594,6 +22622,7 @@ Burma,777.0,613088.0
 Burma,778.0,613116.0
 Burma,779.0,613136.0
 Burma,780.0,613140.0
+Burma,781.0,613144.0
 Burundi,1.0,2.0
 Burundi,2.0,2.0
 Burundi,3.0,3.0
@@ -23370,6 +23399,7 @@ Burundi,773.0,41235.0
 Burundi,774.0,41235.0
 Burundi,775.0,41235.0
 Burundi,776.0,41235.0
+Burundi,777.0,41530.0
 Cabo Verde,1.0,1.0
 Cabo Verde,2.0,3.0
 Cabo Verde,3.0,3.0
@@ -24157,6 +24187,7 @@ Cabo Verde,784.0,56099.0
 Cabo Verde,785.0,56105.0
 Cabo Verde,786.0,56105.0
 Cabo Verde,787.0,56115.0
+Cabo Verde,788.0,56115.0
 Cambodia,1.0,1.0
 Cambodia,2.0,1.0
 Cambodia,3.0,1.0
@@ -24997,6 +25028,7 @@ Cambodia,837.0,136262.0
 Cambodia,838.0,136262.0
 Cambodia,839.0,136262.0
 Cambodia,840.0,136262.0
+Cambodia,841.0,136262.0
 Cameroon,1.0,1.0
 Cameroon,2.0,1.0
 Cameroon,3.0,2.0
@@ -25798,6 +25830,7 @@ Cameroon,798.0,119780.0
 Cameroon,799.0,119780.0
 Cameroon,800.0,119780.0
 Cameroon,801.0,119780.0
+Cameroon,802.0,119780.0
 Canada,1.0,2.0
 Canada,2.0,3.0
 Canada,3.0,3.0
@@ -26642,6 +26675,7 @@ Canada,841.0,3828328.0
 Canada,842.0,3836099.0
 Canada,843.0,3836897.0
 Canada,844.0,3837531.0
+Canada,845.0,3838543.0
 Central African Republic,1.0,1.0
 Central African Republic,2.0,1.0
 Central African Republic,3.0,1.0
@@ -27434,6 +27468,7 @@ Central African Republic,789.0,14649.0
 Central African Republic,790.0,14649.0
 Central African Republic,791.0,14649.0
 Central African Republic,792.0,14649.0
+Central African Republic,793.0,14649.0
 Chad,1.0,1.0
 Chad,2.0,1.0
 Chad,3.0,1.0
@@ -28222,6 +28257,7 @@ Chad,785.0,7414.0
 Chad,786.0,7414.0
 Chad,787.0,7414.0
 Chad,788.0,7414.0
+Chad,789.0,7415.0
 Chile,1.0,2.0
 Chile,2.0,2.0
 Chile,3.0,2.0
@@ -29035,6 +29071,7 @@ Chile,810.0,3591097.0
 Chile,811.0,3595968.0
 Chile,812.0,3600896.0
 Chile,813.0,3605522.0
+Chile,814.0,3609338.0
 China,1.0,548.0
 China,2.0,643.0
 China,3.0,920.0
@@ -29880,6 +29917,7 @@ China,842.0,2338157.0
 China,843.0,2345499.0
 China,844.0,2352227.0
 China,845.0,2358657.0
+China,846.0,2364674.0
 Colombia,1.0,1.0
 Colombia,2.0,1.0
 Colombia,3.0,1.0
@@ -30681,6 +30719,7 @@ Colombia,798.0,6095316.0
 Colombia,799.0,6095316.0
 Colombia,800.0,6095316.0
 Colombia,801.0,6095316.0
+Colombia,802.0,6095316.0
 Comoros,1.0,1.0
 Comoros,2.0,1.0
 Comoros,3.0,3.0
@@ -31427,6 +31466,7 @@ Comoros,743.0,8108.0
 Comoros,744.0,8108.0
 Comoros,745.0,8108.0
 Comoros,746.0,8108.0
+Comoros,747.0,8108.0
 Congo (Brazzaville),1.0,1.0
 Congo (Brazzaville),2.0,1.0
 Congo (Brazzaville),3.0,1.0
@@ -32219,6 +32259,7 @@ Congo (Brazzaville),789.0,24079.0
 Congo (Brazzaville),790.0,24079.0
 Congo (Brazzaville),791.0,24079.0
 Congo (Brazzaville),792.0,24079.0
+Congo (Brazzaville),793.0,24079.0
 Congo (Kinshasa),1.0,1.0
 Congo (Kinshasa),2.0,1.0
 Congo (Kinshasa),3.0,2.0
@@ -33015,6 +33056,7 @@ Congo (Kinshasa),793.0,87023.0
 Congo (Kinshasa),794.0,87023.0
 Congo (Kinshasa),795.0,87023.0
 Congo (Kinshasa),796.0,87023.0
+Congo (Kinshasa),797.0,87633.0
 Costa Rica,1.0,1.0
 Costa Rica,2.0,1.0
 Costa Rica,3.0,5.0
@@ -33816,6 +33858,7 @@ Costa Rica,798.0,866164.0
 Costa Rica,799.0,866164.0
 Costa Rica,800.0,866164.0
 Costa Rica,801.0,866164.0
+Costa Rica,802.0,866164.0
 Cote d'Ivoire,1.0,1.0
 Cote d'Ivoire,2.0,1.0
 Cote d'Ivoire,3.0,1.0
@@ -34612,6 +34655,7 @@ Cote d'Ivoire,793.0,81985.0
 Cote d'Ivoire,794.0,81989.0
 Cote d'Ivoire,795.0,81989.0
 Cote d'Ivoire,796.0,82001.0
+Cote d'Ivoire,797.0,82008.0
 Croatia,1.0,1.0
 Croatia,2.0,3.0
 Croatia,3.0,3.0
@@ -35423,6 +35467,7 @@ Croatia,808.0,1129836.0
 Croatia,809.0,1130562.0
 Croatia,810.0,1131105.0
 Croatia,811.0,1131450.0
+Croatia,812.0,1131492.0
 Cuba,1.0,3.0
 Cuba,2.0,4.0
 Cuba,3.0,4.0
@@ -36218,6 +36263,7 @@ Cuba,792.0,1104316.0
 Cuba,793.0,1104393.0
 Cuba,794.0,1104496.0
 Cuba,795.0,1104589.0
+Cuba,796.0,1104661.0
 Cyprus,1.0,2.0
 Cyprus,2.0,2.0
 Cyprus,3.0,6.0
@@ -37015,6 +37061,7 @@ Cyprus,794.0,483664.0
 Cyprus,795.0,486086.0
 Cyprus,796.0,486086.0
 Cyprus,797.0,486086.0
+Cyprus,798.0,486086.0
 Czechia,1.0,3.0
 Czechia,2.0,3.0
 Czechia,3.0,5.0
@@ -37821,6 +37868,7 @@ Czechia,803.0,3915231.0
 Czechia,804.0,3915703.0
 Czechia,805.0,3915847.0
 Czechia,806.0,3915917.0
+Czechia,807.0,3916440.0
 Denmark,1.0,1.0
 Denmark,2.0,1.0
 Denmark,3.0,3.0
@@ -38630,6 +38678,7 @@ Denmark,806.0,3173120.0
 Denmark,807.0,3173885.0
 Denmark,808.0,3174312.0
 Denmark,809.0,3174800.0
+Denmark,810.0,3175370.0
 Diamond Princess,1.0,61.0
 Diamond Princess,2.0,61.0
 Diamond Princess,3.0,64.0
@@ -39459,6 +39508,7 @@ Diamond Princess,826.0,712.0
 Diamond Princess,827.0,712.0
 Diamond Princess,828.0,712.0
 Diamond Princess,829.0,712.0
+Diamond Princess,830.0,712.0
 Djibouti,1.0,1.0
 Djibouti,2.0,1.0
 Djibouti,3.0,1.0
@@ -40248,6 +40298,7 @@ Djibouti,786.0,15631.0
 Djibouti,787.0,15631.0
 Djibouti,788.0,15631.0
 Djibouti,789.0,15631.0
+Djibouti,790.0,15631.0
 Dominica,1.0,1.0
 Dominica,2.0,2.0
 Dominica,3.0,2.0
@@ -41033,6 +41084,7 @@ Dominica,782.0,12685.0
 Dominica,783.0,12685.0
 Dominica,784.0,12685.0
 Dominica,785.0,13116.0
+Dominica,786.0,13116.0
 Dominican Republic,1.0,1.0
 Dominican Republic,2.0,1.0
 Dominican Republic,3.0,1.0
@@ -41839,6 +41891,7 @@ Dominican Republic,803.0,580201.0
 Dominican Republic,804.0,580336.0
 Dominican Republic,805.0,580412.0
 Dominican Republic,806.0,580412.0
+Dominican Republic,807.0,580661.0
 Ecuador,1.0,6.0
 Ecuador,2.0,6.0
 Ecuador,3.0,7.0
@@ -42645,6 +42698,7 @@ Ecuador,803.0,871046.0
 Ecuador,804.0,872268.0
 Ecuador,805.0,872268.0
 Ecuador,806.0,872268.0
+Ecuador,807.0,872542.0
 Egypt,1.0,1.0
 Egypt,2.0,1.0
 Egypt,3.0,1.0
@@ -43467,6 +43521,7 @@ Egypt,819.0,515645.0
 Egypt,820.0,515645.0
 Egypt,821.0,515645.0
 Egypt,822.0,515645.0
+Egypt,823.0,515645.0
 El Salvador,1.0,1.0
 El Salvador,2.0,1.0
 El Salvador,3.0,3.0
@@ -44255,6 +44310,7 @@ El Salvador,785.0,162089.0
 El Salvador,786.0,162089.0
 El Salvador,787.0,162089.0
 El Salvador,788.0,162089.0
+El Salvador,789.0,162089.0
 Equatorial Guinea,1.0,1.0
 Equatorial Guinea,2.0,1.0
 Equatorial Guinea,3.0,1.0
@@ -45047,6 +45103,7 @@ Equatorial Guinea,789.0,15910.0
 Equatorial Guinea,790.0,15910.0
 Equatorial Guinea,791.0,15910.0
 Equatorial Guinea,792.0,15910.0
+Equatorial Guinea,793.0,15910.0
 Eritrea,1.0,1.0
 Eritrea,2.0,1.0
 Eritrea,3.0,1.0
@@ -45833,6 +45890,7 @@ Eritrea,783.0,9740.0
 Eritrea,784.0,9745.0
 Eritrea,785.0,9745.0
 Eritrea,786.0,9745.0
+Eritrea,787.0,9745.0
 Estonia,1.0,1.0
 Estonia,2.0,1.0
 Estonia,3.0,1.0
@@ -46642,6 +46700,7 @@ Estonia,806.0,573922.0
 Estonia,807.0,573922.0
 Estonia,808.0,573922.0
 Estonia,809.0,573922.0
+Estonia,810.0,573922.0
 Eswatini,1.0,1.0
 Eswatini,2.0,1.0
 Eswatini,3.0,1.0
@@ -47435,6 +47494,7 @@ Eswatini,790.0,71583.0
 Eswatini,791.0,71667.0
 Eswatini,792.0,71698.0
 Eswatini,793.0,71705.0
+Eswatini,794.0,71775.0
 Ethiopia,1.0,1.0
 Ethiopia,2.0,1.0
 Ethiopia,3.0,1.0
@@ -48229,6 +48289,7 @@ Ethiopia,791.0,470851.0
 Ethiopia,792.0,470899.0
 Ethiopia,793.0,470937.0
 Ethiopia,794.0,470949.0
+Ethiopia,795.0,470991.0
 Fiji,1.0,1.0
 Fiji,2.0,1.0
 Fiji,3.0,1.0
@@ -49017,6 +49078,7 @@ Fiji,785.0,64725.0
 Fiji,786.0,64773.0
 Fiji,787.0,64773.0
 Fiji,788.0,64773.0
+Fiji,789.0,64812.0
 Finland,1.0,1.0
 Finland,2.0,1.0
 Finland,3.0,1.0
@@ -49855,6 +49917,7 @@ Finland,835.0,1069740.0
 Finland,836.0,1069740.0
 Finland,837.0,1069740.0
 Finland,838.0,1069740.0
+Finland,839.0,1069740.0
 France,1.0,2.0
 France,2.0,3.0
 France,3.0,3.0
@@ -50698,6 +50761,7 @@ France,840.0,29289023.0
 France,841.0,29321831.0
 France,842.0,29352290.0
 France,843.0,29375134.0
+France,844.0,29381085.0
 Gabon,1.0,1.0
 Gabon,2.0,1.0
 Gabon,3.0,1.0
@@ -51491,6 +51555,7 @@ Gabon,790.0,47608.0
 Gabon,791.0,47608.0
 Gabon,792.0,47608.0
 Gabon,793.0,47608.0
+Gabon,794.0,47608.0
 Gambia,1.0,1.0
 Gambia,2.0,1.0
 Gambia,3.0,1.0
@@ -52281,6 +52346,7 @@ Gambia,787.0,11996.0
 Gambia,788.0,11999.0
 Gambia,789.0,11999.0
 Gambia,790.0,11999.0
+Gambia,791.0,11999.0
 Georgia,1.0,1.0
 Georgia,2.0,1.0
 Georgia,3.0,1.0
@@ -53091,6 +53157,7 @@ Georgia,807.0,1655221.0
 Georgia,808.0,1655221.0
 Georgia,809.0,1655221.0
 Georgia,810.0,1655221.0
+Georgia,811.0,1655221.0
 Germany,1.0,1.0
 Germany,2.0,4.0
 Germany,3.0,4.0
@@ -53931,6 +53998,7 @@ Germany,837.0,25661838.0
 Germany,838.0,25723697.0
 Germany,839.0,25729848.0
 Germany,840.0,25732153.0
+Germany,841.0,25818405.0
 Ghana,1.0,3.0
 Ghana,2.0,6.0
 Ghana,3.0,6.0
@@ -54724,6 +54792,7 @@ Ghana,790.0,161280.0
 Ghana,791.0,161280.0
 Ghana,792.0,161280.0
 Ghana,793.0,161280.0
+Ghana,794.0,161310.0
 Greece,1.0,1.0
 Greece,2.0,3.0
 Greece,3.0,4.0
@@ -55534,6 +55603,7 @@ Greece,807.0,3380594.0
 Greece,808.0,3384982.0
 Greece,809.0,3389306.0
 Greece,810.0,3392575.0
+Greece,811.0,3395641.0
 Grenada,1.0,1.0
 Grenada,2.0,1.0
 Grenada,3.0,1.0
@@ -56319,6 +56389,7 @@ Grenada,782.0,16191.0
 Grenada,783.0,16344.0
 Grenada,784.0,16344.0
 Grenada,785.0,16512.0
+Grenada,786.0,16512.0
 Guatemala,1.0,1.0
 Guatemala,2.0,1.0
 Guatemala,3.0,2.0
@@ -57112,6 +57183,7 @@ Guatemala,790.0,851215.0
 Guatemala,791.0,851877.0
 Guatemala,792.0,852432.0
 Guatemala,793.0,852503.0
+Guatemala,794.0,852591.0
 Guinea,1.0,1.0
 Guinea,2.0,1.0
 Guinea,3.0,1.0
@@ -57906,6 +57978,7 @@ Guinea,791.0,36597.0
 Guinea,792.0,36597.0
 Guinea,793.0,36597.0
 Guinea,794.0,36597.0
+Guinea,795.0,36597.0
 Guinea-Bissau,1.0,2.0
 Guinea-Bissau,2.0,2.0
 Guinea-Bissau,3.0,2.0
@@ -58688,6 +58761,7 @@ Guinea-Bissau,779.0,8215.0
 Guinea-Bissau,780.0,8216.0
 Guinea-Bissau,781.0,8222.0
 Guinea-Bissau,782.0,8222.0
+Guinea-Bissau,783.0,8222.0
 Guyana,1.0,1.0
 Guyana,2.0,1.0
 Guyana,3.0,1.0
@@ -59483,6 +59557,7 @@ Guyana,792.0,63736.0
 Guyana,793.0,63772.0
 Guyana,794.0,63804.0
 Guyana,795.0,63849.0
+Guyana,796.0,63861.0
 Haiti,1.0,2.0
 Haiti,2.0,2.0
 Haiti,3.0,2.0
@@ -60270,6 +60345,7 @@ Haiti,784.0,30713.0
 Haiti,785.0,30713.0
 Haiti,786.0,30713.0
 Haiti,787.0,30713.0
+Haiti,788.0,30725.0
 Holy See,1.0,1.0
 Holy See,2.0,1.0
 Holy See,3.0,1.0
@@ -61071,6 +61147,7 @@ Holy See,798.0,29.0
 Holy See,799.0,29.0
 Holy See,800.0,29.0
 Holy See,801.0,29.0
+Holy See,802.0,29.0
 Honduras,1.0,2.0
 Honduras,2.0,2.0
 Honduras,3.0,2.0
@@ -61867,6 +61944,7 @@ Honduras,793.0,423775.0
 Honduras,794.0,423775.0
 Honduras,795.0,423775.0
 Honduras,796.0,423775.0
+Honduras,797.0,423775.0
 Hungary,1.0,2.0
 Hungary,2.0,2.0
 Hungary,3.0,2.0
@@ -62670,6 +62748,7 @@ Hungary,800.0,1909948.0
 Hungary,801.0,1909948.0
 Hungary,802.0,1909948.0
 Hungary,803.0,1909948.0
+Hungary,804.0,1909948.0
 Iceland,1.0,1.0
 Iceland,2.0,1.0
 Iceland,3.0,3.0
@@ -63478,6 +63557,7 @@ Iceland,805.0,186179.0
 Iceland,806.0,186545.0
 Iceland,807.0,186545.0
 Iceland,808.0,186545.0
+Iceland,809.0,186545.0
 India,1.0,1.0
 India,2.0,1.0
 India,3.0,1.0
@@ -64314,7 +64394,8 @@ India,833.0,43113413.0
 India,834.0,43116254.0
 India,835.0,43119112.0
 India,836.0,43121599.0
-India,837.0,43121599.0
+India,837.0,43123801.0
+India,838.0,43125370.0
 Indonesia,1.0,2.0
 Indonesia,2.0,2.0
 Indonesia,3.0,2.0
@@ -65120,6 +65201,7 @@ Indonesia,802.0,6049876.0
 Indonesia,803.0,6050211.0
 Indonesia,804.0,6050519.0
 Indonesia,805.0,6050776.0
+Indonesia,806.0,6050958.0
 Iran,1.0,2.0
 Iran,2.0,5.0
 Iran,3.0,18.0
@@ -65937,6 +66019,7 @@ Iran,814.0,7227043.0
 Iran,815.0,7227428.0
 Iran,816.0,7227683.0
 Iran,817.0,7228051.0
+Iran,818.0,7228434.0
 Iraq,1.0,1.0
 Iraq,2.0,1.0
 Iraq,3.0,5.0
@@ -66749,6 +66832,7 @@ Iraq,809.0,2326162.0
 Iraq,810.0,2326288.0
 Iraq,811.0,2326356.0
 Iraq,812.0,2326458.0
+Iraq,813.0,2326577.0
 Ireland,1.0,1.0
 Ireland,2.0,1.0
 Ireland,3.0,1.0
@@ -67556,6 +67640,7 @@ Ireland,804.0,1532771.0
 Ireland,805.0,1535451.0
 Ireland,806.0,1535451.0
 Ireland,807.0,1535451.0
+Ireland,808.0,1535451.0
 Israel,1.0,1.0
 Israel,2.0,1.0
 Israel,3.0,1.0
@@ -68371,6 +68456,7 @@ Israel,812.0,4102024.0
 Israel,813.0,4104278.0
 Israel,814.0,4105361.0
 Israel,815.0,4108393.0
+Israel,816.0,4110592.0
 Italy,1.0,2.0
 Italy,2.0,2.0
 Italy,3.0,2.0
@@ -69207,6 +69293,7 @@ Italy,833.0,16954784.0
 Italy,834.0,16993813.0
 Italy,835.0,17030147.0
 Italy,836.0,17057873.0
+Italy,837.0,17071649.0
 Jamaica,1.0,1.0
 Jamaica,2.0,2.0
 Jamaica,3.0,8.0
@@ -70003,6 +70090,7 @@ Jamaica,793.0,131704.0
 Jamaica,794.0,131980.0
 Jamaica,795.0,131980.0
 Jamaica,796.0,131980.0
+Jamaica,797.0,132909.0
 Japan,1.0,2.0
 Japan,2.0,2.0
 Japan,3.0,2.0
@@ -70848,6 +70936,7 @@ Japan,842.0,8255959.0
 Japan,843.0,8295529.0
 Japan,844.0,8334859.0
 Japan,845.0,8369751.0
+Japan,846.0,8391424.0
 Jordan,1.0,1.0
 Jordan,2.0,1.0
 Jordan,3.0,1.0
@@ -71652,6 +71741,7 @@ Jordan,801.0,1696054.0
 Jordan,802.0,1696054.0
 Jordan,803.0,1696054.0
 Jordan,804.0,1696054.0
+Jordan,805.0,1696359.0
 Kazakhstan,1.0,4.0
 Kazakhstan,2.0,6.0
 Kazakhstan,3.0,9.0
@@ -72446,6 +72536,7 @@ Kazakhstan,791.0,1394663.0
 Kazakhstan,792.0,1394683.0
 Kazakhstan,793.0,1394696.0
 Kazakhstan,794.0,1394710.0
+Kazakhstan,795.0,1394715.0
 Kenya,1.0,1.0
 Kenya,2.0,1.0
 Kenya,3.0,3.0
@@ -73240,6 +73331,7 @@ Kenya,791.0,323952.0
 Kenya,792.0,323975.0
 Kenya,793.0,324011.0
 Kenya,794.0,324026.0
+Kenya,795.0,324046.0
 Kiribati,1.0,1.0
 Kiribati,2.0,1.0
 Kiribati,3.0,1.0
@@ -73603,8 +73695,10 @@ Kiribati,360.0,3093.0
 Kiribati,361.0,3093.0
 Kiribati,362.0,3093.0
 Kiribati,363.0,3093.0
+Kiribati,364.0,3093.0
 "Korea, North",1.0,1.0
 "Korea, North",2.0,1.0
+"Korea, North",3.0,1.0
 "Korea, South",1.0,1.0
 "Korea, South",2.0,1.0
 "Korea, South",3.0,2.0
@@ -74450,6 +74544,7 @@ Kiribati,363.0,3093.0
 "Korea, South",843.0,17756627.0
 "Korea, South",844.0,17782061.0
 "Korea, South",845.0,17795357.0
+"Korea, South",846.0,17830429.0
 Kosovo,1.0,2.0
 Kosovo,2.0,5.0
 Kosovo,3.0,13.0
@@ -75243,6 +75338,7 @@ Kosovo,790.0,228186.0
 Kosovo,791.0,228207.0
 Kosovo,792.0,228218.0
 Kosovo,793.0,228234.0
+Kosovo,794.0,228241.0
 Kuwait,1.0,1.0
 Kuwait,2.0,11.0
 Kuwait,3.0,26.0
@@ -76055,6 +76151,7 @@ Kuwait,809.0,632074.0
 Kuwait,810.0,632074.0
 Kuwait,811.0,632074.0
 Kuwait,812.0,632074.0
+Kuwait,813.0,632074.0
 Kyrgyzstan,1.0,3.0
 Kyrgyzstan,2.0,3.0
 Kyrgyzstan,3.0,6.0
@@ -76844,6 +76941,7 @@ Kyrgyzstan,786.0,200993.0
 Kyrgyzstan,787.0,200993.0
 Kyrgyzstan,788.0,200993.0
 Kyrgyzstan,789.0,200993.0
+Kyrgyzstan,790.0,200993.0
 Laos,1.0,2.0
 Laos,2.0,3.0
 Laos,3.0,6.0
@@ -77627,6 +77725,7 @@ Laos,780.0,209243.0
 Laos,781.0,209321.0
 Laos,782.0,209386.0
 Laos,783.0,209386.0
+Laos,784.0,209434.0
 Latvia,1.0,1.0
 Latvia,2.0,1.0
 Latvia,3.0,1.0
@@ -78432,6 +78531,7 @@ Latvia,802.0,825470.0
 Latvia,803.0,825699.0
 Latvia,804.0,825699.0
 Latvia,805.0,825699.0
+Latvia,806.0,826038.0
 Lebanon,1.0,1.0
 Lebanon,2.0,1.0
 Lebanon,3.0,1.0
@@ -79247,6 +79347,7 @@ Lebanon,812.0,1097800.0
 Lebanon,813.0,1097820.0
 Lebanon,814.0,1097956.0
 Lebanon,815.0,1098034.0
+Lebanon,816.0,1098074.0
 Lesotho,1.0,1.0
 Lesotho,2.0,1.0
 Lesotho,3.0,1.0
@@ -79980,6 +80081,7 @@ Lesotho,730.0,33151.0
 Lesotho,731.0,33151.0
 Lesotho,732.0,33151.0
 Lesotho,733.0,33151.0
+Lesotho,734.0,33151.0
 Liberia,1.0,5.0
 Liberia,2.0,6.0
 Liberia,3.0,6.0
@@ -80770,6 +80872,7 @@ Liberia,787.0,7451.0
 Liberia,788.0,7451.0
 Liberia,789.0,7451.0
 Liberia,790.0,7451.0
+Liberia,791.0,7452.0
 Libya,1.0,1.0
 Libya,2.0,1.0
 Libya,3.0,1.0
@@ -81553,6 +81656,7 @@ Libya,780.0,501919.0
 Libya,781.0,501919.0
 Libya,782.0,501919.0
 Libya,783.0,501919.0
+Libya,784.0,501954.0
 Liechtenstein,1.0,1.0
 Liechtenstein,2.0,1.0
 Liechtenstein,3.0,1.0
@@ -82356,6 +82460,7 @@ Liechtenstein,800.0,17306.0
 Liechtenstein,801.0,17329.0
 Liechtenstein,802.0,17333.0
 Liechtenstein,803.0,17347.0
+Liechtenstein,804.0,17347.0
 Lithuania,1.0,1.0
 Lithuania,2.0,1.0
 Lithuania,3.0,1.0
@@ -83163,6 +83268,7 @@ Lithuania,804.0,1060277.0
 Lithuania,805.0,1060423.0
 Lithuania,806.0,1060580.0
 Lithuania,807.0,1060619.0
+Lithuania,808.0,1060636.0
 Luxembourg,1.0,1.0
 Luxembourg,2.0,1.0
 Luxembourg,3.0,1.0
@@ -83970,6 +84076,7 @@ Luxembourg,804.0,243569.0
 Luxembourg,805.0,244182.0
 Luxembourg,806.0,244182.0
 Luxembourg,807.0,244182.0
+Luxembourg,808.0,244182.0
 MS Zaandam,1.0,2.0
 MS Zaandam,2.0,2.0
 MS Zaandam,3.0,2.0
@@ -84749,6 +84856,7 @@ MS Zaandam,776.0,9.0
 MS Zaandam,777.0,9.0
 MS Zaandam,778.0,9.0
 MS Zaandam,779.0,9.0
+MS Zaandam,780.0,9.0
 Madagascar,1.0,3.0
 Madagascar,2.0,3.0
 Madagascar,3.0,3.0
@@ -85536,6 +85644,7 @@ Madagascar,784.0,64236.0
 Madagascar,785.0,64236.0
 Madagascar,786.0,64236.0
 Madagascar,787.0,64276.0
+Madagascar,788.0,64276.0
 Malawi,1.0,3.0
 Malawi,2.0,3.0
 Malawi,3.0,4.0
@@ -86310,6 +86419,7 @@ Malawi,771.0,85855.0
 Malawi,772.0,85866.0
 Malawi,773.0,85887.0
 Malawi,774.0,85888.0
+Malawi,775.0,85889.0
 Malaysia,1.0,4.0
 Malaysia,2.0,4.0
 Malaysia,3.0,4.0
@@ -87152,6 +87262,7 @@ Malaysia,839.0,4470471.0
 Malaysia,840.0,4473500.0
 Malaysia,841.0,4475873.0
 Malaysia,842.0,4478112.0
+Malaysia,843.0,4479809.0
 Maldives,1.0,4.0
 Maldives,2.0,4.0
 Maldives,3.0,6.0
@@ -87951,6 +88062,7 @@ Maldives,796.0,179483.0
 Maldives,797.0,179483.0
 Maldives,798.0,179483.0
 Maldives,799.0,179483.0
+Maldives,800.0,179560.0
 Mali,1.0,2.0
 Mali,2.0,4.0
 Mali,3.0,11.0
@@ -88733,6 +88845,7 @@ Mali,779.0,30978.0
 Mali,780.0,30991.0
 Mali,781.0,31003.0
 Mali,782.0,31004.0
+Mali,783.0,31014.0
 Malta,1.0,3.0
 Malta,2.0,3.0
 Malta,3.0,3.0
@@ -89533,6 +89646,7 @@ Malta,797.0,93249.0
 Malta,798.0,93360.0
 Malta,799.0,93446.0
 Malta,800.0,93508.0
+Malta,801.0,93572.0
 Marshall Islands,1.0,2.0
 Marshall Islands,2.0,2.0
 Marshall Islands,3.0,2.0
@@ -90098,6 +90212,7 @@ Marshall Islands,562.0,17.0
 Marshall Islands,563.0,17.0
 Marshall Islands,564.0,17.0
 Marshall Islands,565.0,17.0
+Marshall Islands,566.0,17.0
 Mauritania,1.0,1.0
 Mauritania,2.0,1.0
 Mauritania,3.0,1.0
@@ -90891,6 +91006,7 @@ Mauritania,790.0,58805.0
 Mauritania,791.0,58822.0
 Mauritania,792.0,58840.0
 Mauritania,793.0,58853.0
+Mauritania,794.0,58871.0
 Mauritius,1.0,3.0
 Mauritius,2.0,3.0
 Mauritius,3.0,7.0
@@ -91680,6 +91796,7 @@ Mauritius,786.0,223793.0
 Mauritius,787.0,223793.0
 Mauritius,788.0,223793.0
 Mauritius,789.0,223793.0
+Mauritius,790.0,223793.0
 Mexico,1.0,1.0
 Mexico,2.0,4.0
 Mexico,3.0,5.0
@@ -92488,6 +92605,7 @@ Mexico,805.0,5745652.0
 Mexico,806.0,5745652.0
 Mexico,807.0,5745652.0
 Mexico,808.0,5745652.0
+Mexico,809.0,5752441.0
 Micronesia,1.0,1.0
 Micronesia,2.0,1.0
 Micronesia,3.0,1.0
@@ -92968,6 +93086,7 @@ Micronesia,477.0,7.0
 Micronesia,478.0,7.0
 Micronesia,479.0,7.0
 Micronesia,480.0,7.0
+Micronesia,481.0,7.0
 Moldova,1.0,1.0
 Moldova,2.0,1.0
 Moldova,3.0,3.0
@@ -93767,6 +93886,7 @@ Moldova,796.0,518166.0
 Moldova,797.0,518166.0
 Moldova,798.0,518166.0
 Moldova,799.0,518166.0
+Moldova,800.0,518166.0
 Monaco,1.0,1.0
 Monaco,2.0,1.0
 Monaco,3.0,1.0
@@ -94574,6 +94694,7 @@ Monaco,804.0,12000.0
 Monaco,805.0,12002.0
 Monaco,806.0,12004.0
 Monaco,807.0,12006.0
+Monaco,808.0,12035.0
 Mongolia,1.0,1.0
 Mongolia,2.0,1.0
 Mongolia,3.0,1.0
@@ -95371,6 +95492,7 @@ Mongolia,794.0,922227.0
 Mongolia,795.0,922227.0
 Mongolia,796.0,922227.0
 Mongolia,797.0,922227.0
+Mongolia,798.0,922227.0
 Montenegro,1.0,2.0
 Montenegro,2.0,2.0
 Montenegro,3.0,3.0
@@ -96161,6 +96283,7 @@ Montenegro,787.0,236076.0
 Montenegro,788.0,236153.0
 Montenegro,789.0,236212.0
 Montenegro,790.0,236277.0
+Montenegro,791.0,236320.0
 Morocco,1.0,1.0
 Morocco,2.0,1.0
 Morocco,3.0,1.0
@@ -96966,6 +97089,7 @@ Morocco,802.0,1165552.0
 Morocco,803.0,1165625.0
 Morocco,804.0,1165706.0
 Morocco,805.0,1165795.0
+Morocco,806.0,1165849.0
 Mozambique,1.0,1.0
 Mozambique,2.0,1.0
 Mozambique,3.0,3.0
@@ -97751,6 +97875,7 @@ Mozambique,782.0,225470.0
 Mozambique,783.0,225485.0
 Mozambique,784.0,225493.0
 Mozambique,785.0,225498.0
+Mozambique,786.0,225503.0
 Namibia,1.0,2.0
 Namibia,2.0,2.0
 Namibia,3.0,2.0
@@ -98544,6 +98669,7 @@ Namibia,790.0,159503.0
 Namibia,791.0,159503.0
 Namibia,792.0,160074.0
 Namibia,793.0,160074.0
+Namibia,794.0,160074.0
 Nepal,1.0,1.0
 Nepal,2.0,1.0
 Nepal,3.0,1.0
@@ -99386,6 +99512,7 @@ Nepal,839.0,978982.0
 Nepal,840.0,978989.0
 Nepal,841.0,978991.0
 Nepal,842.0,978998.0
+Nepal,843.0,979004.0
 Netherlands,1.0,1.0
 Netherlands,2.0,6.0
 Netherlands,3.0,10.0
@@ -100195,6 +100322,7 @@ Netherlands,806.0,8247997.0
 Netherlands,807.0,8249963.0
 Netherlands,808.0,8249963.0
 Netherlands,809.0,8249963.0
+Netherlands,810.0,8253161.0
 New Zealand,1.0,1.0
 New Zealand,2.0,1.0
 New Zealand,3.0,1.0
@@ -101003,6 +101131,7 @@ New Zealand,805.0,1036123.0
 New Zealand,806.0,1043265.0
 New Zealand,807.0,1049093.0
 New Zealand,808.0,1056207.0
+New Zealand,809.0,1066153.0
 Nicaragua,1.0,1.0
 Nicaragua,2.0,1.0
 Nicaragua,3.0,2.0
@@ -101791,6 +101920,7 @@ Nicaragua,785.0,18491.0
 Nicaragua,786.0,18491.0
 Nicaragua,787.0,18491.0
 Nicaragua,788.0,18491.0
+Nicaragua,789.0,18491.0
 Niger,1.0,1.0
 Niger,2.0,1.0
 Niger,3.0,2.0
@@ -102578,6 +102708,7 @@ Niger,784.0,9010.0
 Niger,785.0,9013.0
 Niger,786.0,9013.0
 Niger,787.0,9013.0
+Niger,788.0,9013.0
 Nigeria,1.0,1.0
 Nigeria,2.0,1.0
 Nigeria,3.0,1.0
@@ -103386,6 +103517,7 @@ Nigeria,805.0,255836.0
 Nigeria,806.0,255836.0
 Nigeria,807.0,255859.0
 Nigeria,808.0,255859.0
+Nigeria,809.0,255859.0
 North Macedonia,1.0,1.0
 North Macedonia,2.0,1.0
 North Macedonia,3.0,1.0
@@ -104196,6 +104328,7 @@ North Macedonia,807.0,310595.0
 North Macedonia,808.0,310684.0
 North Macedonia,809.0,310684.0
 North Macedonia,810.0,310684.0
+North Macedonia,811.0,310859.0
 Norway,1.0,1.0
 Norway,2.0,1.0
 Norway,3.0,6.0
@@ -105006,6 +105139,7 @@ Norway,807.0,1429353.0
 Norway,808.0,1429630.0
 Norway,809.0,1429717.0
 Norway,810.0,1429771.0
+Norway,811.0,1430124.0
 Oman,1.0,2.0
 Oman,2.0,2.0
 Oman,3.0,4.0
@@ -105818,6 +105952,7 @@ Oman,809.0,389370.0
 Oman,810.0,389370.0
 Oman,811.0,389370.0
 Oman,812.0,389408.0
+Oman,813.0,389427.0
 Pakistan,1.0,2.0
 Pakistan,2.0,2.0
 Pakistan,3.0,2.0
@@ -106629,6 +106764,7 @@ Pakistan,808.0,1528833.0
 Pakistan,809.0,1529167.0
 Pakistan,810.0,1529167.0
 Pakistan,811.0,1529251.0
+Pakistan,812.0,1529251.0
 Palau,1.0,1.0
 Palau,2.0,1.0
 Palau,3.0,2.0
@@ -106896,6 +107032,7 @@ Palau,264.0,4782.0
 Palau,265.0,4879.0
 Palau,266.0,4879.0
 Palau,267.0,4879.0
+Palau,268.0,4879.0
 Panama,1.0,1.0
 Panama,2.0,8.0
 Panama,3.0,11.0
@@ -107693,6 +107830,7 @@ Panama,794.0,799975.0
 Panama,795.0,803223.0
 Panama,796.0,806277.0
 Panama,797.0,808443.0
+Panama,798.0,810242.0
 Papua New Guinea,1.0,1.0
 Papua New Guinea,2.0,1.0
 Papua New Guinea,3.0,1.0
@@ -108480,6 +108618,7 @@ Papua New Guinea,784.0,43876.0
 Papua New Guinea,785.0,43876.0
 Papua New Guinea,786.0,43876.0
 Papua New Guinea,787.0,43876.0
+Papua New Guinea,788.0,44276.0
 Paraguay,1.0,1.0
 Paraguay,2.0,1.0
 Paraguay,3.0,5.0
@@ -109279,6 +109418,7 @@ Paraguay,796.0,649718.0
 Paraguay,797.0,649718.0
 Paraguay,798.0,649718.0
 Paraguay,799.0,649718.0
+Paraguay,800.0,649929.0
 Peru,1.0,1.0
 Peru,2.0,1.0
 Peru,3.0,6.0
@@ -110080,6 +110220,7 @@ Peru,798.0,3571161.0
 Peru,799.0,3571516.0
 Peru,800.0,3571516.0
 Peru,801.0,3571516.0
+Peru,802.0,3571516.0
 Philippines,1.0,1.0
 Philippines,2.0,1.0
 Philippines,3.0,1.0
@@ -110917,6 +111058,7 @@ Philippines,834.0,3687567.0
 Philippines,835.0,3687748.0
 Philippines,836.0,3687922.0
 Philippines,837.0,3688132.0
+Philippines,838.0,3688292.0
 Poland,1.0,1.0
 Poland,2.0,1.0
 Poland,3.0,5.0
@@ -111720,6 +111862,7 @@ Poland,800.0,6002394.0
 Poland,801.0,6002863.0
 Poland,802.0,6003297.0
 Poland,803.0,6003436.0
+Poland,804.0,6003531.0
 Portugal,1.0,2.0
 Portugal,2.0,2.0
 Portugal,3.0,5.0
@@ -112525,6 +112668,7 @@ Portugal,802.0,4015440.0
 Portugal,803.0,4015440.0
 Portugal,804.0,4066674.0
 Portugal,805.0,4066674.0
+Portugal,806.0,4066674.0
 Qatar,1.0,1.0
 Qatar,2.0,3.0
 Qatar,3.0,3.0
@@ -113332,6 +113476,7 @@ Qatar,804.0,365815.0
 Qatar,805.0,365938.0
 Qatar,806.0,366034.0
 Qatar,807.0,366179.0
+Qatar,808.0,366343.0
 Romania,1.0,1.0
 Romania,2.0,1.0
 Romania,3.0,3.0
@@ -114142,6 +114287,7 @@ Romania,807.0,2901682.0
 Romania,808.0,2902270.0
 Romania,809.0,2902790.0
 Romania,810.0,2903072.0
+Romania,811.0,2903394.0
 Russia,1.0,2.0
 Russia,2.0,2.0
 Russia,3.0,2.0
@@ -114978,6 +115124,7 @@ Russia,833.0,17979272.0
 Russia,834.0,17984104.0
 Russia,835.0,17989065.0
 Russia,836.0,17993952.0
+Russia,837.0,17998438.0
 Rwanda,1.0,1.0
 Rwanda,2.0,1.0
 Rwanda,3.0,5.0
@@ -115771,6 +115918,7 @@ Rwanda,790.0,129898.0
 Rwanda,791.0,129898.0
 Rwanda,792.0,129907.0
 Rwanda,793.0,129910.0
+Rwanda,794.0,129931.0
 Saint Kitts and Nevis,1.0,2.0
 Saint Kitts and Nevis,2.0,2.0
 Saint Kitts and Nevis,3.0,2.0
@@ -116553,6 +116701,7 @@ Saint Kitts and Nevis,779.0,5600.0
 Saint Kitts and Nevis,780.0,5602.0
 Saint Kitts and Nevis,781.0,5605.0
 Saint Kitts and Nevis,782.0,5605.0
+Saint Kitts and Nevis,783.0,5610.0
 Saint Lucia,1.0,1.0
 Saint Lucia,2.0,2.0
 Saint Lucia,3.0,2.0
@@ -117346,6 +117495,7 @@ Saint Lucia,790.0,23978.0
 Saint Lucia,791.0,24164.0
 Saint Lucia,792.0,24164.0
 Saint Lucia,793.0,24267.0
+Saint Lucia,794.0,24396.0
 Saint Vincent and the Grenadines,1.0,1.0
 Saint Vincent and the Grenadines,2.0,1.0
 Saint Vincent and the Grenadines,3.0,1.0
@@ -118139,6 +118289,7 @@ Saint Vincent and the Grenadines,790.0,8484.0
 Saint Vincent and the Grenadines,791.0,8494.0
 Saint Vincent and the Grenadines,792.0,8494.0
 Saint Vincent and the Grenadines,793.0,8494.0
+Saint Vincent and the Grenadines,794.0,8500.0
 Samoa,1.0,1.0
 Samoa,2.0,1.0
 Samoa,3.0,1.0
@@ -118683,6 +118834,7 @@ Samoa,541.0,11045.0
 Samoa,542.0,11313.0
 Samoa,543.0,11313.0
 Samoa,544.0,11671.0
+Samoa,545.0,11671.0
 San Marino,1.0,1.0
 San Marino,2.0,1.0
 San Marino,3.0,1.0
@@ -119490,6 +119642,7 @@ San Marino,804.0,16823.0
 San Marino,805.0,16852.0
 San Marino,806.0,16852.0
 San Marino,807.0,16852.0
+San Marino,808.0,16852.0
 Sao Tome and Principe,1.0,4.0
 Sao Tome and Principe,2.0,4.0
 Sao Tome and Principe,3.0,4.0
@@ -120260,6 +120413,7 @@ Sao Tome and Principe,767.0,5970.0
 Sao Tome and Principe,768.0,5970.0
 Sao Tome and Principe,769.0,5970.0
 Sao Tome and Principe,770.0,5970.0
+Sao Tome and Principe,771.0,5973.0
 Saudi Arabia,1.0,1.0
 Saudi Arabia,2.0,1.0
 Saudi Arabia,3.0,1.0
@@ -121065,6 +121219,7 @@ Saudi Arabia,802.0,757802.0
 Saudi Arabia,803.0,758361.0
 Saudi Arabia,804.0,758795.0
 Saudi Arabia,805.0,759226.0
+Saudi Arabia,806.0,759856.0
 Senegal,1.0,1.0
 Senegal,2.0,2.0
 Senegal,3.0,4.0
@@ -121870,6 +122025,7 @@ Senegal,802.0,86029.0
 Senegal,803.0,86032.0
 Senegal,804.0,86035.0
 Senegal,805.0,86039.0
+Senegal,806.0,86045.0
 Serbia,1.0,1.0
 Serbia,2.0,1.0
 Serbia,3.0,1.0
@@ -122671,6 +122827,7 @@ Serbia,798.0,2011825.0
 Serbia,799.0,2012270.0
 Serbia,800.0,2012597.0
 Serbia,801.0,2012836.0
+Serbia,802.0,2013240.0
 Seychelles,1.0,6.0
 Seychelles,2.0,8.0
 Seychelles,3.0,8.0
@@ -123463,6 +123620,7 @@ Seychelles,789.0,43235.0
 Seychelles,790.0,43387.0
 Seychelles,791.0,43387.0
 Seychelles,792.0,43387.0
+Seychelles,793.0,43387.0
 Sierra Leone,1.0,1.0
 Sierra Leone,2.0,2.0
 Sierra Leone,3.0,2.0
@@ -124239,6 +124397,7 @@ Sierra Leone,773.0,7682.0
 Sierra Leone,774.0,7682.0
 Sierra Leone,775.0,7682.0
 Sierra Leone,776.0,7682.0
+Sierra Leone,777.0,7682.0
 Singapore,1.0,1.0
 Singapore,2.0,3.0
 Singapore,3.0,3.0
@@ -125083,6 +125242,7 @@ Singapore,841.0,1232559.0
 Singapore,842.0,1236850.0
 Singapore,843.0,1240233.0
 Singapore,844.0,1240233.0
+Singapore,845.0,1240233.0
 Slovakia,1.0,1.0
 Slovakia,2.0,1.0
 Slovakia,3.0,3.0
@@ -125884,6 +126044,7 @@ Slovakia,798.0,2537896.0
 Slovakia,799.0,2538274.0
 Slovakia,800.0,2538274.0
 Slovakia,801.0,2538964.0
+Slovakia,802.0,2539041.0
 Slovenia,1.0,2.0
 Slovenia,2.0,7.0
 Slovenia,3.0,7.0
@@ -126686,6 +126847,7 @@ Slovenia,799.0,1018298.0
 Slovenia,800.0,1018900.0
 Slovenia,801.0,1019468.0
 Slovenia,802.0,1019468.0
+Slovenia,803.0,1019834.0
 Solomon Islands,1.0,2.0
 Solomon Islands,2.0,2.0
 Solomon Islands,3.0,2.0
@@ -127267,6 +127429,7 @@ Solomon Islands,578.0,18174.0
 Solomon Islands,579.0,18174.0
 Solomon Islands,580.0,18174.0
 Solomon Islands,581.0,18174.0
+Solomon Islands,582.0,18174.0
 Somalia,1.0,1.0
 Somalia,2.0,1.0
 Somalia,3.0,1.0
@@ -128058,6 +128221,7 @@ Somalia,788.0,26518.0
 Somalia,789.0,26518.0
 Somalia,790.0,26518.0
 Somalia,791.0,26518.0
+Somalia,792.0,26518.0
 South Africa,1.0,1.0
 South Africa,2.0,1.0
 South Africa,3.0,1.0
@@ -128860,6 +129024,7 @@ South Africa,799.0,3871085.0
 South Africa,800.0,3879434.0
 South Africa,801.0,3887449.0
 South Africa,802.0,3891793.0
+South Africa,803.0,3894745.0
 South Sudan,1.0,1.0
 South Sudan,2.0,1.0
 South Sudan,3.0,2.0
@@ -129631,6 +129796,7 @@ South Sudan,768.0,17525.0
 South Sudan,769.0,17525.0
 South Sudan,770.0,17525.0
 South Sudan,771.0,17525.0
+South Sudan,772.0,17541.0
 Spain,1.0,1.0
 Spain,2.0,1.0
 Spain,3.0,1.0
@@ -130459,13 +130625,14 @@ Spain,825.0,11953481.0
 Spain,826.0,12009059.0
 Spain,827.0,12009059.0
 Spain,828.0,12009059.0
-Spain,829.0,12009059.0
+Spain,829.0,12058888.0
 Spain,830.0,12058888.0
 Spain,831.0,12058888.0
 Spain,832.0,12058888.0
 Spain,833.0,12127122.0
 Spain,834.0,12127122.0
 Spain,835.0,12127122.0
+Spain,836.0,12127122.0
 Sri Lanka,1.0,1.0
 Sri Lanka,2.0,1.0
 Sri Lanka,3.0,1.0
@@ -131306,6 +131473,7 @@ Sri Lanka,837.0,663632.0
 Sri Lanka,838.0,663655.0
 Sri Lanka,839.0,663663.0
 Sri Lanka,840.0,663671.0
+Sri Lanka,841.0,663678.0
 Sudan,1.0,1.0
 Sudan,2.0,1.0
 Sudan,3.0,1.0
@@ -132099,6 +132267,7 @@ Sudan,790.0,62161.0
 Sudan,791.0,62161.0
 Sudan,792.0,62161.0
 Sudan,793.0,62161.0
+Sudan,794.0,62195.0
 Summer Olympics 2020,1.0,1.0
 Summer Olympics 2020,2.0,1.0
 Summer Olympics 2020,3.0,1.0
@@ -132430,6 +132599,7 @@ Summer Olympics 2020,328.0,865.0
 Summer Olympics 2020,329.0,865.0
 Summer Olympics 2020,330.0,865.0
 Summer Olympics 2020,331.0,865.0
+Summer Olympics 2020,332.0,865.0
 Suriname,1.0,1.0
 Suriname,2.0,1.0
 Suriname,3.0,1.0
@@ -133223,6 +133393,7 @@ Suriname,790.0,80008.0
 Suriname,791.0,80008.0
 Suriname,792.0,80008.0
 Suriname,793.0,80008.0
+Suriname,794.0,80008.0
 Sweden,1.0,1.0
 Sweden,2.0,1.0
 Sweden,3.0,1.0
@@ -134058,6 +134229,7 @@ Sweden,832.0,2504894.0
 Sweden,833.0,2504894.0
 Sweden,834.0,2504894.0
 Sweden,835.0,2504894.0
+Sweden,836.0,2504894.0
 Switzerland,1.0,1.0
 Switzerland,2.0,1.0
 Switzerland,3.0,8.0
@@ -134869,6 +135041,7 @@ Switzerland,808.0,3649155.0
 Switzerland,809.0,3649155.0
 Switzerland,810.0,3649155.0
 Switzerland,811.0,3649155.0
+Switzerland,812.0,3649155.0
 Syria,1.0,1.0
 Syria,2.0,1.0
 Syria,3.0,1.0
@@ -135654,6 +135827,7 @@ Syria,782.0,55867.0
 Syria,783.0,55868.0
 Syria,784.0,55869.0
 Syria,785.0,55870.0
+Syria,786.0,55871.0
 Taiwan*,1.0,1.0
 Taiwan*,2.0,1.0
 Taiwan*,3.0,3.0
@@ -136499,6 +136673,7 @@ Taiwan*,842.0,570870.0
 Taiwan*,843.0,570870.0
 Taiwan*,844.0,699824.0
 Taiwan*,845.0,768543.0
+Taiwan*,846.0,830257.0
 Tajikistan,1.0,15.0
 Tajikistan,2.0,32.0
 Tajikistan,3.0,76.0
@@ -137244,6 +137419,7 @@ Tajikistan,742.0,17786.0
 Tajikistan,743.0,17786.0
 Tajikistan,744.0,17786.0
 Tajikistan,745.0,17786.0
+Tajikistan,746.0,17786.0
 Tanzania,1.0,1.0
 Tanzania,2.0,1.0
 Tanzania,3.0,3.0
@@ -138035,6 +138211,7 @@ Tanzania,788.0,35354.0
 Tanzania,789.0,35354.0
 Tanzania,790.0,35354.0
 Tanzania,791.0,35354.0
+Tanzania,792.0,35354.0
 Thailand,1.0,4.0
 Thailand,2.0,4.0
 Thailand,3.0,5.0
@@ -138880,6 +139057,7 @@ Thailand,842.0,4361016.0
 Thailand,843.0,4367752.0
 Thailand,844.0,4373846.0
 Thailand,845.0,4379084.0
+Thailand,846.0,4382977.0
 Timor-Leste,1.0,1.0
 Timor-Leste,2.0,1.0
 Timor-Leste,3.0,1.0
@@ -139665,6 +139843,7 @@ Timor-Leste,782.0,22888.0
 Timor-Leste,783.0,22888.0
 Timor-Leste,784.0,22889.0
 Timor-Leste,785.0,22889.0
+Timor-Leste,786.0,22889.0
 Togo,1.0,1.0
 Togo,2.0,1.0
 Togo,3.0,1.0
@@ -140466,6 +140645,7 @@ Togo,798.0,37013.0
 Togo,799.0,37017.0
 Togo,800.0,37020.0
 Togo,801.0,37023.0
+Togo,802.0,37023.0
 Tonga,1.0,1.0
 Tonga,2.0,1.0
 Tonga,3.0,1.0
@@ -140665,6 +140845,7 @@ Tonga,196.0,11049.0
 Tonga,197.0,11049.0
 Tonga,198.0,11049.0
 Tonga,199.0,11190.0
+Tonga,200.0,11280.0
 Trinidad and Tobago,1.0,2.0
 Trinidad and Tobago,2.0,2.0
 Trinidad and Tobago,3.0,4.0
@@ -141458,6 +141639,7 @@ Trinidad and Tobago,790.0,153471.0
 Trinidad and Tobago,791.0,153471.0
 Trinidad and Tobago,792.0,154643.0
 Trinidad and Tobago,793.0,155147.0
+Trinidad and Tobago,794.0,155384.0
 Tunisia,1.0,1.0
 Tunisia,2.0,1.0
 Tunisia,3.0,1.0
@@ -142261,6 +142443,7 @@ Tunisia,800.0,1041197.0
 Tunisia,801.0,1041197.0
 Tunisia,802.0,1041197.0
 Tunisia,803.0,1041197.0
+Tunisia,804.0,1041197.0
 Turkey,1.0,1.0
 Turkey,2.0,1.0
 Turkey,3.0,5.0
@@ -143057,6 +143240,7 @@ Turkey,793.0,15050227.0
 Turkey,794.0,15051761.0
 Turkey,795.0,15053168.0
 Turkey,796.0,15054322.0
+Turkey,797.0,15055576.0
 US,1.0,1.0
 US,2.0,1.0
 US,3.0,2.0
@@ -143902,6 +144086,7 @@ US,842.0,82325687.0
 US,843.0,82421624.0
 US,844.0,82437716.0
 US,845.0,82468606.0
+US,846.0,82613620.0
 Uganda,1.0,1.0
 Uganda,2.0,1.0
 Uganda,3.0,9.0
@@ -144688,6 +144873,7 @@ Uganda,783.0,164153.0
 Uganda,784.0,164153.0
 Uganda,785.0,164153.0
 Uganda,786.0,164153.0
+Uganda,787.0,164153.0
 Ukraine,1.0,1.0
 Ukraine,2.0,1.0
 Ukraine,3.0,1.0
@@ -145492,6 +145678,7 @@ Ukraine,801.0,5040518.0
 Ukraine,802.0,5040518.0
 Ukraine,803.0,5040518.0
 Ukraine,804.0,5040518.0
+Ukraine,805.0,5040518.0
 United Arab Emirates,1.0,4.0
 United Arab Emirates,2.0,4.0
 United Arab Emirates,3.0,4.0
@@ -146330,6 +146517,7 @@ United Arab Emirates,835.0,901440.0
 United Arab Emirates,836.0,901809.0
 United Arab Emirates,837.0,902161.0
 United Arab Emirates,838.0,902484.0
+United Arab Emirates,839.0,902803.0
 United Kingdom,1.0,2.0
 United Kingdom,2.0,2.0
 United Kingdom,3.0,2.0
@@ -147166,6 +147354,7 @@ United Kingdom,833.0,22354617.0
 United Kingdom,834.0,22361204.0
 United Kingdom,835.0,22361204.0
 United Kingdom,836.0,22361251.0
+United Kingdom,837.0,22385203.0
 Uruguay,1.0,4.0
 Uruguay,2.0,6.0
 Uruguay,3.0,8.0
@@ -147960,6 +148149,7 @@ Uruguay,791.0,902540.0
 Uruguay,792.0,902540.0
 Uruguay,793.0,902540.0
 Uruguay,794.0,902540.0
+Uruguay,795.0,902540.0
 Uzbekistan,1.0,1.0
 Uzbekistan,2.0,6.0
 Uzbekistan,3.0,10.0
@@ -148752,6 +148942,7 @@ Uzbekistan,789.0,238767.0
 Uzbekistan,790.0,238778.0
 Uzbekistan,791.0,238788.0
 Uzbekistan,792.0,238802.0
+Uzbekistan,793.0,238818.0
 Vanuatu,1.0,1.0
 Vanuatu,2.0,1.0
 Vanuatu,3.0,1.0
@@ -149304,6 +149495,7 @@ Vanuatu,549.0,8194.0
 Vanuatu,550.0,8289.0
 Vanuatu,551.0,8383.0
 Vanuatu,552.0,8457.0
+Vanuatu,553.0,8464.0
 Venezuela,1.0,2.0
 Venezuela,2.0,10.0
 Venezuela,3.0,17.0
@@ -150097,6 +150289,7 @@ Venezuela,790.0,522840.0
 Venezuela,791.0,522921.0
 Venezuela,792.0,522921.0
 Venezuela,793.0,523020.0
+Venezuela,794.0,523059.0
 Vietnam,1.0,2.0
 Vietnam,2.0,2.0
 Vietnam,3.0,2.0
@@ -150941,6 +151134,7 @@ Vietnam,841.0,10690471.0
 Vietnam,842.0,10693141.0
 Vietnam,843.0,10695036.0
 Vietnam,844.0,10696630.0
+Vietnam,845.0,10698180.0
 West Bank and Gaza,1.0,4.0
 West Bank and Gaza,2.0,7.0
 West Bank and Gaza,3.0,16.0
@@ -151743,6 +151937,7 @@ West Bank and Gaza,799.0,657193.0
 West Bank and Gaza,800.0,657193.0
 West Bank and Gaza,801.0,657193.0
 West Bank and Gaza,802.0,657193.0
+West Bank and Gaza,803.0,657329.0
 Winter Olympics 2022,1.0,72.0
 Winter Olympics 2022,2.0,78.0
 Winter Olympics 2022,3.0,93.0
@@ -151856,6 +152051,7 @@ Winter Olympics 2022,110.0,535.0
 Winter Olympics 2022,111.0,535.0
 Winter Olympics 2022,112.0,535.0
 Winter Olympics 2022,113.0,535.0
+Winter Olympics 2022,114.0,535.0
 Yemen,1.0,1.0
 Yemen,2.0,1.0
 Yemen,3.0,1.0
@@ -152622,6 +152818,7 @@ Yemen,763.0,11819.0
 Yemen,764.0,11819.0
 Yemen,765.0,11819.0
 Yemen,766.0,11819.0
+Yemen,767.0,11819.0
 Zambia,1.0,2.0
 Zambia,2.0,2.0
 Zambia,3.0,2.0
@@ -153411,6 +153608,7 @@ Zambia,786.0,320412.0
 Zambia,787.0,320481.0
 Zambia,788.0,320591.0
 Zambia,789.0,320627.0
+Zambia,790.0,320680.0
 Zimbabwe,1.0,1.0
 Zimbabwe,2.0,3.0
 Zimbabwe,3.0,3.0
@@ -154198,3 +154396,4 @@ Zimbabwe,784.0,248943.0
 Zimbabwe,785.0,249131.0
 Zimbabwe,786.0,249206.0
 Zimbabwe,787.0,249206.0
+Zimbabwe,788.0,249431.0
