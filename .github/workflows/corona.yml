@@ -3,7 +3,7 @@ name: corona
 on:
   push:
       branches:
-        - master
+        - main
   schedule:
     - cron:  '5,35 5-7 * * *'
 
